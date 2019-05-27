@@ -1,7 +1,7 @@
 #!/bin/bash
 
-HEAD=`cat HEAD`
-cd /root/nfs/linux-museum/linux
+HEAD=`cat /root/github/linux_git_show_numstat_since_Linux-2.6.12-rc2/HEAD`
+cd /root/github/linux
 
 git log -M --no-merges --pretty="%at %H %ae" --no-merges ${HEAD}..HEAD > all_commits.txt
 
@@ -25,3 +25,4 @@ done < all_commits.txt
 
 echo "Please check output.txt in /root/nfs/linux-museum/linux!"
 #sh /root/lab/sever-job-notification/send_email.sh "Finished: generate.sh" "please check output.txt in /root/nfs/linux-museum/linux"
+
