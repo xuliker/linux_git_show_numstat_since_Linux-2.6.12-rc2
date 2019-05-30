@@ -1,0 +1,24 @@
+
+1559058218 dfb4a6f2191a80c8b790117d0ff592fd712d3296 tomasbortoli@gmail.com 6 2 kernel/trace/trace_events_filter.c
+1559060070 9a626c4a6326da4433a0d4d4a8a7d1571caf1ed3 rdunlap@infradead.org 1 0 arch/ia64/mm/numa.c
+1558651343 eff82a263b5cfa3427fd9dbfedd96da94fdc9f19 alexandre.belloni@bootlin.com 3 3 tools/testing/selftests/rtc/rtctest.c
+1558651342 d51f1f14870a3401dbcab0b737773bdc70f54a25 alexandre.belloni@bootlin.com 12 5 tools/testing/selftests/kselftest_harness.h
+1550798845 4a075bd4e13f6dd07a8438e0580629a3fba3f58e mhiramat@kernel.org 1 0 tools/testing/selftests/ftrace/ftracetest
+1550798845 4a075bd4e13f6dd07a8438e0580629a3fba3f58e mhiramat@kernel.org 21 0 tools/testing/selftests/ftrace/test.d/selftest/bashisms.tc
+1550798817 3fda9b33d60820eb2e3cc6f1c18fa5327c1c1921 mhiramat@kernel.org 1 1 tools/testing/selftests/ftrace/test.d/kprobe/kprobe_ftrace.tc
+1558627606 551bd3368a7b3cfef01edaade8970948d178d40a corbet@lwn.net 3 3 drivers/gpu/drm/i915/i915_reg.h
+1558627606 551bd3368a7b3cfef01edaade8970948d178d40a corbet@lwn.net 1 1 drivers/gpu/drm/i915/intel_workarounds.c
+1558561426 77d09ad9dc515c719f83f3b8489b0abc43563769 mchehab+samsung@kernel.org 79 7 scripts/sphinx-pre-install
+1558557045 3bc8088464712fdcb078eefb68837ccfcc413c88 corbet@lwn.net 1 1 Documentation/conf.py
+1558648841 e9646f0f5bb62b7d43f0968f39d536cfe7123b53 rdunlap@infradead.org 1 0 drivers/gpio/Kconfig
+1558683125 ec2e0f4f00c0b9260533555c69363454dfd3bd73 amelie.delaunay@st.com 1 1 drivers/pinctrl/Kconfig
+1558554443 bbb30909e0fd9ec01c25b88f635085bf481a7ea9 corbet@lwn.net 1 1 Documentation/firmware-guide/acpi/enumeration.rst
+1558554105 f35a1abd9e7a0d37a1bcc1149eaf2aa737d7ea21 corbet@lwn.net 2 1 lib/list_sort.c
+1558553713 8867f6109b84f50d959af2b26440a7faacc7633a corbet@lwn.net 1 0 Documentation/admin-guide/mm/index.rst
+1558553713 8867f6109b84f50d959af2b26440a7faacc7633a corbet@lwn.net 1 1 Documentation/admin-guide/mm/numaperf.rst
+1558471354 2404dad1f67f8917e30fc22a85e0dbcc85b99955 corbet@lwn.net 26 8 Documentation/sphinx/kerneldoc.py
+1558470223 096ea522e84ea68f8e6c41e5e7294731a81e29bc corbet@lwn.net 8 4 Documentation/sphinx/kerneldoc.py
+1558470223 096ea522e84ea68f8e6c41e5e7294731a81e29bc corbet@lwn.net 28 0 Documentation/sphinx/kernellog.py
+1558470223 096ea522e84ea68f8e6c41e5e7294731a81e29bc corbet@lwn.net 23 17 Documentation/sphinx/kfigure.py
+1556613473 670784fb4ebe54434e263837390e358405031d9e kai.heng.feng@canonical.com 6 31 drivers/pinctrl/intel/pinctrl-intel.c
+1554120404 e58926e781d81bb4efc90fada08183c3f04478de andriy.shevchenko@linux.intel.com 4 4 drivers/pinctrl/intel/pinctrl-intel.c
