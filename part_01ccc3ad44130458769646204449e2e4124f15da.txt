@@ -1,0 +1,9 @@
+
+1560159341 cf8929885de318c0bf73438c9e5dde59d6536f7c axboe@kernel.dk 2 4 block/bfq-cgroup.c
+1560159341 cf8929885de318c0bf73438c9e5dde59d6536f7c axboe@kernel.dk 0 3 include/linux/cgroup-defs.h
+1560159341 cf8929885de318c0bf73438c9e5dde59d6536f7c axboe@kernel.dk 4 29 kernel/cgroup/cgroup.c
+1558506614 f3440d9a0da292dc4998d9393162fcfb996fd671 supercjliu@google.com 6 1 drivers/spi/spi.c
+1558522836 44a042182cb1e9f7916e015c836967bf638b33c4 christophe.leroy@c-s.fr 1 1 drivers/spi/spi-fsl-spi.c
+1558010888 7d293f56456120efa97c4e18250d86d2a05ad0bd axel.lin@ingics.com 3 3 drivers/regulator/tps6507x-regulator.c
+1557993416 5caaf29af5ca82d5da8bc1d0ad07d9e664ccf1d8 yuehaibing@huawei.com 1 1 drivers/spi/spi-bitbang.c
+1557368837 0ed56252c9567351344cb7b5cff6140e1bcec943 broonie@kernel.org 2 2 drivers/spi/spi.c
