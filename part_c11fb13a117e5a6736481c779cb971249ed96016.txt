@@ -1,0 +1,22 @@
+
+1560347738 fec6375320c6399c708fa9801f8cfbf950fee623 blackgod016574@gmail.com 14 6 security/selinux/hooks.c
+1560346101 e2e0e09758a6f7597de0f9b819647addfb71b6bd blackgod016574@gmail.com 14 5 security/selinux/hooks.c
+1560240439 aff7ed4851680d0d28ad9f52cd2f99213e1371b2 omosnace@redhat.com 8 2 security/selinux/avc.c
+1559738648 3ed224e273ac5880eeab4c3043a6b06b0478dd56 hdegoede@redhat.com 27 15 drivers/hid/hid-logitech-dj.c
+1559738647 f9482dabfd1686987cc6044e06ae0e4c05915518 benjamin.tissoires@redhat.com 0 8 drivers/hid/hid-core.c
+1559738646 e0b7f9bc0246bc642d1de2ff3ff133730584c956 benjamin.tissoires@redhat.com 2 4 drivers/hid/hid-core.c
+1559738645 15fc1b5c86128f91c8c6699c3b0d9615740b13f1 benjamin.tissoires@redhat.com 3 3 drivers/hid/hid-core.c
+1557693193 abf82e8f7e9af40a49e3d905187c662a43c96c8f spaz16@wp.pl 8 3 drivers/hid/hid-a4tech.c
+1559237840 64caea53e07f0a3bc4af74f4123b258c1ceb4d67 Joseph.Salisbury@microsoft.com 2 0 drivers/hid/hid-hyperv.c
+1557657362 2409877d386de709606ca7eecf7c10d2838525a1 hdegoede@redhat.com 3 0 drivers/hid/hid-logitech-hidpp.c
+1558445911 81bcbad53bab4bf9f200eda303d7a05cdb9bd73b benjamin.tissoires@redhat.com 7 0 drivers/hid/hid-multitouch.c
+1557255202 69dbdfffef20c715df9f381b2cee4e9e0a4efd93 jason.gerecke@wacom.com 8 2 drivers/hid/wacom_wac.c
+1557255201 6441fc781c344df61402be1fde582c4491fa35fa jason.gerecke@wacom.com 7 4 drivers/hid/wacom_wac.c
+1557255200 fe7f8d73d1af19b678171170e4e5384deb57833d jason.gerecke@wacom.com 1 1 drivers/hid/wacom_wac.c
+1556143978 e92a7be7fe5b2510fa60965eaf25f9e3dc08b8cc jason.gerecke@wacom.com 18 15 drivers/hid/wacom_wac.c
+1556143977 2cc08800a6b9fcda7c7afbcf2da1a6e8808da725 jason.gerecke@wacom.com 16 1 drivers/hid/wacom_wac.c
+1555787991 10235380d18e8f666446970078d1ee69b33ab643 tobi291019@gmail.com 1 0 drivers/hid/hid-ids.h
+1555787991 10235380d18e8f666446970078d1ee69b33ab643 tobi291019@gmail.com 14 1 drivers/hid/hid-rmi.c
+1556479552 ced2c0c53d08e44b1443d66620c1a883db53c72f hdegoede@redhat.com 6 0 drivers/hid/hid-logitech-hidpp.c
+1556479551 b9a94fbe0ed0c37c0eb8b32c418506563259dc57 hdegoede@redhat.com 8 0 drivers/hid/hid-logitech-dj.c
+1555916224 eb6964fa6509b4f1152313f1e0bb67f0c54a6046 kai.heng.feng@canonical.com 8 0 drivers/hid/i2c-hid/i2c-hid-dmi-quirks.c
