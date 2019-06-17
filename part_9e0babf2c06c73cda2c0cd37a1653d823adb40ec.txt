@@ -1,0 +1,21 @@
+
+1560710985 9e0babf2c06c73cda2c0cd37a1653d823adb40ec torvalds@linux-foundation.org 1 1 Makefile
+1560433742 78f4e932f7760d965fb1569025d1576ab77557c5 bp@suse.de 1 1 arch/x86/kernel/cpu/microcode/core.c
+1560433742 78f4e932f7760d965fb1569025d1576ab77557c5 bp@suse.de 1 0 include/linux/cpuhotplug.h
+1560522709 f3176ec9420de0c385023afa3e4970129444ac2f aryabinin@virtuozzo.com 1 1 arch/x86/mm/kasan_init_64.c
+1560454845 e3ff9c3678b4d80e22d2557b68726174578eaf52 tglx@linutronix.de 3 2 kernel/time/timekeeping.c
+1559670852 8d3289f2fa1e0c7e2f72c7352f1efb75d2ad7c76 hch@lst.de 3 3 arch/x86/include/asm/fpu/internal.h
+1559670852 8d3289f2fa1e0c7e2f72c7352f1efb75d2ad7c76 hch@lst.de 1 1 arch/x86/kernel/fpu/core.c
+1559332074 71ab8323cc357c68985a2d6fc6cfc22b1dbbc1c3 mmullins@fb.com 1 1 arch/x86/kernel/kgdb.c
+1558689025 5d6168fc61b7f13baf27ae5567be7ea1fccb463e julien.thierry@arm.com 4 4 drivers/clocksource/arm_arch_timer.c
+1560186944 c7563e62a6d720aa3b068e26ddffab5f0df29263 prarit@redhat.com 3 0 arch/x86/kernel/cpu/resctrl/monitor.c
+1559582731 87d3aa28f345bea77c396855fa5d5fec4c24461f james.morse@arm.com 6 1 arch/x86/kernel/cpu/resctrl/rdtgroup.c
+1559917756 aab8445c4e1cceeb3f739352041ec1c2586bc923 bigeasy@linutronix.de 5 0 arch/x86/kernel/fpu/signal.c
+1555450431 0ade0b6240c4853cf9725924c46c10f4251639d7 xiyou.wangcong@gmail.com 22 24 drivers/ras/cec.c
+1555759671 f3c74b38a55aefe1004200d15a83f109b510068c bp@suse.de 20 14 drivers/ras/cec.c
+1558580264 00e5a2bbcc31d5fea853f8daeba0f06c1c88c3ff bhe@redhat.com 10 1 arch/x86/mm/kaslr.c
+1559114740 b81ff1013eb8eef2934ca7e8cf53d553c1029e84 hughd@google.com 2 9 arch/x86/kernel/fpu/signal.c
+1559569280 e35faeb64146f2015f2aec14b358ae508e4066db kan.liang@linux.intel.com 3 0 arch/x86/include/asm/intel-family.h
+1558991458 31e67340cc65edfd9dac5ef26f81de8414ce5906 rick.p.edgecombe@intel.com 3 1 mm/vmalloc.c
+1558991457 8e41f8726dcf423621e2b6938d015b9796f6f676 rick.p.edgecombe@intel.com 5 5 mm/vmalloc.c
+1558441564 cda03a9a7be6b94c637cffae5be1d269c538661b philippe.mazenauer@outlook.de 1 1 drivers/clocksource/timer-ti-dm.c
