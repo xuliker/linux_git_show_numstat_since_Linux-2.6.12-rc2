@@ -1,0 +1,12 @@
+
+1560376514 156e42996bd84eccb6acf319f19ce0cb140d00e3 mike.salvatore@canonical.com 39 8 security/apparmor/policy_unpack.c
+1559057546 8404d7a674c49278607d19726e0acc0cae299357 jannh@google.com 1 1 security/apparmor/policy_unpack.c
+1558878143 23375b13f98c5464c2b4d15f983cc062940f1f4e john.johansen@canonical.com 10 1 security/apparmor/include/policy.h
+1560463185 3e26c5feed2add218046ecf91bab3cfa9bf762a6 rafael.j.wysocki@intel.com 35 12 drivers/pci/pci-driver.c
+1560376786 9843f3e08e2144724be7148e08d77a195dea257a exalm7659@gmail.com 2 0 drivers/input/mouse/synaptics.c
+1560300644 ce9a53eb3dbca89e7ad86673d94ab886e9bea704 anson.huang@nxp.com 14 4 drivers/input/keyboard/imx_keypad.c
+1560100611 a876697b0ad1cba4d56c72395b330691aafa1593 jeff@labundy.com 13 11 drivers/input/touchscreen/iqs5xx.c
+1558641326 7c7da40da1640ce6814dab1e8031b44e19e5a3f6 andrew.smirnov@gmail.com 20 2 drivers/input/misc/uinput.c
+1558641258 0e658060e5fc50dc282885dc424a94b5d95547e5 danct12@disroot.org 1 0 drivers/input/touchscreen/silead.c
+1558415350 aa440de3058a3ef530851f9ef373fbb5f694dbc3 aaron.ma@canonical.com 2 0 drivers/input/mouse/elantech.c
+1557962044 145b11d1baa3462ba211bd845ecf94057b7d10e1 ravisadineni@chromium.org 2 0 drivers/input/mouse/elan_i2c_core.c
