@@ -1,0 +1,13 @@
+
+1560798365 63b2de12b7eeacfb2edbe005f5c3cff17a2a02e2 dan.carpenter@oracle.com 3 1 drivers/mfd/stmfx.c
+1560147844 191f5c2ed4b6fabacf1f3500242047bd844d0c3a tudor.ambarus@microchip.com 108 11 drivers/mtd/spi-nor/spi-nor.c
+1560147844 191f5c2ed4b6fabacf1f3500242047bd844d0c3a tudor.ambarus@microchip.com 3 0 include/linux/mtd/spi-nor.h
+1558887070 f4bb1f895aa07dfcb96169192ff7c9154620df87 jrdr.linux@gmail.com 2 2 drivers/auxdisplay/ht16k33.c
+1558887027 461e274b2821901ca9c084f43074ad099848199f jrdr.linux@gmail.com 3 2 drivers/auxdisplay/cfag12864bfb.c
+1559824887 cd49b84d61b2dfc0360c76d9e6be49f5116ba1a5 dan.carpenter@oracle.com 4 6 drivers/mfd/stmfx.c
+1560391679 16391bfc862342f285195013b73c1394fab28b97 mpe@ellerman.id.au 2 1 tools/testing/selftests/powerpc/mm/.gitignore
+1560391679 16391bfc862342f285195013b73c1394fab28b97 mpe@ellerman.id.au 3 1 tools/testing/selftests/powerpc/mm/Makefile
+1560391679 16391bfc862342f285195013b73c1394fab28b97 mpe@ellerman.id.au 87 0 tools/testing/selftests/powerpc/mm/large_vm_fork_separation.c
+1560346507 ca72d88378b2f2444d3ec145dd442d449d3fefbc mpe@ellerman.id.au 42 4 arch/powerpc/mm/mmu_context_book3s64.c
+1560017086 d2ba3b1714d754f190ac0527713f9b44513b5857 deller@gmx.de 4 0 arch/parisc/kernel/module.c
+1558428215 b2b5921fe4b363ff29fea9183aca089231a6bafc s.hauer@pengutronix.de 2 1 drivers/mtd/nand/raw/nand_base.c
