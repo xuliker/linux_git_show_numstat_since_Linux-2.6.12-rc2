@@ -1,0 +1,5 @@
+
+1561865136 6fbc7275c7a9ba97877050335f290341a1fd8dbf torvalds@linux-foundation.org 2 2 Makefile
+1561603652 33d4a5a7a5b4d02915d765064b2319e90a11cbde devel@etsukata.com 3 0 kernel/cpu.c
+1557990575 1bf72720281770162c87990697eae1ba2f1d917a geert@linux-m68k.org 3 0 kernel/cpu.c
+1561157754 e13e7cd4c0c1cc9984d9b6a8663e10d76b53f2aa npiggin@gmail.com 1 1 arch/powerpc/kernel/exceptions-64s.S
