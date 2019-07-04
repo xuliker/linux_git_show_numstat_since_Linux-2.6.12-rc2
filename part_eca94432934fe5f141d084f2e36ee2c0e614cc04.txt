@@ -1,0 +1,7 @@
+
+1562078109 eca94432934fe5f141d084f2e36ee2c0e614cc04 matias.karhumaa@gmail.com 1 1 net/bluetooth/l2cap_core.c
+1561989706 28dd29c06d0dede4b32b2c559cff21955a830928 christian@brauner.io 1 0 kernel/fork.c
+1561611422 5de254dca87ab614b9c058246ee94c58a840e358 lsahlber@redhat.com 60 4 fs/cifs/smb2ops.c
+1561611422 5de254dca87ab614b9c058246ee94c58a840e358 lsahlber@redhat.com 13 1 fs/cifs/smb2pdu.h
+1561522817 aa69fb62bea15126e744af2e02acc0d6cf3ed4da natechancellor@gmail.com 5 1 arch/arm64/kernel/image.h
+1561482534 6f496a555d93db7a11d4860b9220d904822f586a ard.biesheuvel@linaro.org 6 2 arch/arm64/kernel/module.c
