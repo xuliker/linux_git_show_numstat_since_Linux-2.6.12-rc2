@@ -1,0 +1,68 @@
+
+1563961393 266e85a5ec9100dcd9ae03601453bbc96fefee5d wanpengli@tencent.com 2 1 arch/x86/kvm/x86.c
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 1 1 Documentation/admin-guide/kernel-parameters.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/index.rst
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/amd-memory-encryption.rst
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 1 1 Documentation/{virtual => virt}/kvm/api.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/arm/hyp-abi.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/arm/psci.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/cpuid.rst
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/README
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/arm-vgic-its.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/arm-vgic-v3.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/arm-vgic.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/mpic.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/s390_flic.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/vcpu.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/vfio.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/vm.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/xics.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/devices/xive.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/halt-polling.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 2 2 Documentation/{virtual => virt}/kvm/hypercalls.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/index.rst
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/locking.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 1 1 Documentation/{virtual => virt}/kvm/mmu.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/msr.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/nested-vmx.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/ppc-pv.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 1 1 Documentation/{virtual => virt}/kvm/review-checklist.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/s390-diag.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/timekeeping.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/kvm/vcpu-requests.rst
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/paravirt_ops.rst
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 0 0 Documentation/{virtual => virt}/uml/UserModeLinux-HOWTO.txt
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 3 3 MAINTAINERS
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 1 1 arch/powerpc/include/uapi/asm/kvm_para.h
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 1 1 arch/x86/kvm/mmu.c
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 2 2 include/uapi/linux/kvm.h
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 2 2 tools/include/uapi/linux/kvm.h
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 1 1 virt/kvm/arm/arm.c
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 1 1 virt/kvm/arm/vgic/vgic-mmio-v3.c
+1563953089 2f5947dfcaecb99f2dd559156eecbeb7b95e4c02 hch@lst.de 2 2 virt/kvm/arm/vgic/vgic.h
+1563814309 06532750010e06dd4b6d69983773677df7fc5291 eric.auger@redhat.com 2 2 include/linux/dma-mapping.h
+1561824370 3a855b7ac7d5021674aa3e1cc9d3bfd6b604e9c0 vaibhav@linux.ibm.com 14 1 arch/powerpc/platforms/pseries/papr_scm.c
+1561824369 0d7fc080ba139a2a639d3732616403ccddfa2d36 vaibhav@linux.ibm.com 22 7 arch/powerpc/platforms/pseries/papr_scm.c
+1561824368 6d140e7569db89a1b596c1c2d1c2293d5c594432 vaibhav@linux.ibm.com 8 3 arch/powerpc/include/asm/hvcall.h
+1563717696 c6bf2ae931adbd3e10967e12142856439a211813 jan.kiszka@siemens.com 2 0 arch/x86/kvm/vmx/nested.c
+1563769581 d9a710e5fc4941944d565b013414e9fdc66242b5 wanpengli@tencent.com 1 1 arch/x86/include/asm/kvm_host.h
+1563769581 d9a710e5fc4941944d565b013414e9fdc66242b5 wanpengli@tencent.com 12 1 arch/x86/kvm/svm.c
+1563769581 d9a710e5fc4941944d565b013414e9fdc66242b5 wanpengli@tencent.com 12 1 arch/x86/kvm/vmx/vmx.c
+1563769581 d9a710e5fc4941944d565b013414e9fdc66242b5 wanpengli@tencent.com 2 2 arch/x86/kvm/x86.c
+1563769580 e751732486eb3f159089a64d1901992b1357e7cc wanpengli@tencent.com 6 3 arch/x86/kvm/x86.c
+1563795087 ec269475cba7bcdd1eb8fdf8e87f4c6c81a376fe pbonzini@redhat.com 4 3 arch/x86/include/asm/kvm_host.h
+1563795087 ec269475cba7bcdd1eb8fdf8e87f4c6c81a376fe pbonzini@redhat.com 2 2 arch/x86/kvm/x86.c
+1563709938 cf64527bb33f6cec2ed50f89182fc4688d0056b6 jan.kiszka@siemens.com 2 0 arch/x86/kvm/vmx/nested.c
+1563512702 f16d80b75a096c52354c6e0a574993f3b0dfbdfe mikey@neuling.org 3 0 arch/powerpc/kernel/signal_32.c
+1563512702 f16d80b75a096c52354c6e0a574993f3b0dfbdfe mikey@neuling.org 5 0 arch/powerpc/kernel/signal_64.c
+1563407677 b4fc36e60f25cf22bf8b7b015a701015740c3743 shawn@anastas.io 1 0 arch/powerpc/Kconfig
+1563407677 b4fc36e60f25cf22bf8b7b015a701015740c3743 shawn@anastas.io 2 1 arch/powerpc/kernel/Makefile
+1563407677 b4fc36e60f25cf22bf8b7b015a701015740c3743 shawn@anastas.io 17 0 arch/powerpc/kernel/dma-common.c
+1563486714 9798f4ea71eaf8eaad7e688c5b298528089c7bf8 clg@kaod.org 1 3 arch/powerpc/kvm/book3s_xive.c
+1563486714 9798f4ea71eaf8eaad7e688c5b298528089c7bf8 clg@kaod.org 2 2 arch/powerpc/kvm/book3s_xive_native.c
+1563359724 4d202c8c8ed3822327285747db1765967110b274 ego@linux.vnet.ibm.com 3 4 arch/powerpc/sysdev/xive/common.c
+1561472247 03800e0526ee25ed7c843ca1e57b69ac2a5af642 aarcange@redhat.com 1 1 arch/powerpc/mm/mem.c
+1562116822 c8b4083db915dfe5a3b4a755ad2317e0509b43f1 sjitindarsingh@gmail.com 11 0 arch/powerpc/kvm/book3s_hv.c
+1562116821 28d2a6e6684d9851905f379816d8a4d03587ed94 sjitindarsingh@gmail.com 2 3 arch/powerpc/include/asm/pmc.h
+1562116820 63279eeb7f93abb1692573c26f1e038e1a87358b sjitindarsingh@gmail.com 2 0 arch/powerpc/kvm/book3s_hv.c
+1562736018 da0ef93310e67ae6902efded60b6724dab27a5d1 sjitindarsingh@gmail.com 9 0 arch/powerpc/mm/book3s64/hash_utils.c
