@@ -1,0 +1,14 @@
+
+1563852285 aecea57f84b0586b62c010bea946468d77f6bf0f standby24x7@gmail.com 2 2 tools/testing/ktest/config-bisect.pl
+1562864080 d7852fbd0f0423937fa287a598bfde188bb68c22 torvalds@linux-foundation.org 19 0 fs/open.c
+1562864080 d7852fbd0f0423937fa287a598bfde188bb68c22 torvalds@linux-foundation.org 7 1 include/linux/cred.h
+1562864080 d7852fbd0f0423937fa287a598bfde188bb68c22 torvalds@linux-foundation.org 19 2 kernel/cred.c
+1563335704 e0a12445d1cb186d875410d093a00d215bec6a89 wen.yang99@zte.com.cn 9 14 drivers/cpufreq/pasemi-cpufreq.c
+1563790977 c528adefd645f5cd16fff658c863e2142d775c61 rafael.j.wysocki@intel.com 4 0 drivers/thermal/intel/int340x_thermal/processor_thermal_device.c
+1563534631 26091eef3c179f940d2967e9bef6e22c9e1c445f yash.shah@sifive.com 15 0 arch/riscv/boot/dts/sifive/fu540-c000.dtsi
+1563534631 26091eef3c179f940d2967e9bef6e22c9e1c445f yash.shah@sifive.com 9 0 arch/riscv/boot/dts/sifive/hifive-unleashed-a00.dts
+1558373366 251a44888183003b0380df184835a2c00bfa39d7 wesley@sifive.com 1 0 arch/riscv/include/asm/Kbuild
+1561681673 f4da5d074c8e51fcafd44889bf1caaa6a71ed6d9 palmer@sifive.com 1 0 MAINTAINERS
+1563549914 f76cb066edd1eef84edc85e5dd93c8aee71992da rui.zhang@intel.com 1 1 drivers/powercap/intel_rapl_common.c
+1563549914 f76cb066edd1eef84edc85e5dd93c8aee71992da rui.zhang@intel.com 1 1 drivers/powercap/powercap_sys.c
+1563495306 56ac5e2139331898f29e6990f67ae8d2f080686b paul.walmsley@sifive.com 1 0 arch/riscv/include/uapi/asm/unistd.h
