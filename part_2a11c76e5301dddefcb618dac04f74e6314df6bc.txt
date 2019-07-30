@@ -1,0 +1,11 @@
+
+1564081563 f14312a93b34b9350dc33ff0b4215c24f4c82617 info@metux.net 1 1 drivers/platform/x86/pcengines-apuv2.c
+1564141769 73f628ec9e6bcc45b77c53fe6d0c0ec55eaf82af mst@redhat.com 1 1 drivers/vhost/vhost.h
+1560499780 66013e8ec6850f9c62df6aea555fe7668e84dc3c rajneesh.bhardwaj@linux.intel.com 1 0 drivers/platform/x86/intel_pmc_core.c
+1563873622 6acf5d76ab685e921771abbbae5353929f3ebbe6 lkundrak@v3.sk 6 0 drivers/platform/olpc/olpc-xo175-ec.c
+1563558705 8732d85a69a0411f16a4b78df8fdc7b09c50a849 2pi@mok.nu 1 0 include/linux/mod_devicetable.h
+1561801296 edbfe83def34153a05439ecb3352ae0bb65024de jdelvare@suse.de 1 3 drivers/platform/x86/pcengines-apuv2.c
+1563806407 ae24fb49d01103c80d6ff3b78714259c1c62c958 jean-philippe@linaro.org 29 11 drivers/iommu/virtio-iommu.c
+1563806407 ae24fb49d01103c80d6ff3b78714259c1c62c958 jean-philippe@linaro.org 18 14 include/uapi/linux/virtio_iommu.h
+1563452364 cfe61801b0f11eb561f1adf452d995efaafbc68b mst@redhat.com 37 30 mm/balloon_compaction.c
+1563442040 dd422906799f240bfd400a5d376aa43f7b89c38a wei.w.wang@intel.com 9 3 mm/balloon_compaction.c
