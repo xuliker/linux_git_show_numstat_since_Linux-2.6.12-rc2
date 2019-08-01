@@ -1,0 +1,17 @@
+
+1564479225 b36a1552d7319bbfd5cf7f08726c23c5c66d4f73 vdronov@redhat.com 3 0 drivers/bluetooth/hci_ath.c
+1564479225 b36a1552d7319bbfd5cf7f08726c23c5c66d4f73 vdronov@redhat.com 3 0 drivers/bluetooth/hci_bcm.c
+1564479225 b36a1552d7319bbfd5cf7f08726c23c5c66d4f73 vdronov@redhat.com 3 0 drivers/bluetooth/hci_intel.c
+1564479225 b36a1552d7319bbfd5cf7f08726c23c5c66d4f73 vdronov@redhat.com 13 0 drivers/bluetooth/hci_ldisc.c
+1564479225 b36a1552d7319bbfd5cf7f08726c23c5c66d4f73 vdronov@redhat.com 3 0 drivers/bluetooth/hci_mrvl.c
+1564479225 b36a1552d7319bbfd5cf7f08726c23c5c66d4f73 vdronov@redhat.com 3 0 drivers/bluetooth/hci_qca.c
+1564479225 b36a1552d7319bbfd5cf7f08726c23c5c66d4f73 vdronov@redhat.com 1 0 drivers/bluetooth/hci_uart.h
+1564601560 1b7e816fc80e668f0ccc8542cec20b9259abace1 labbott@redhat.com 6 2 mm/slub.c
+1564230597 c2c44ec20a8496f7a3b3401c092afe96908eced1 viro@zeniv.linux.org.uk 1 4 fs/super.c
+1564495730 6c77221df96177da0520847ce91e33f539fb8b2d changbin.du@gmail.com 7 10 kernel/trace/trace_functions_graph.c
+1563619183 b1d45c23284e55a379f85554a27a548b7988d47a yamada.masahiro@socionext.com 1 1 include/trace/events/dma_fence.h
+1563619183 b1d45c23284e55a379f85554a27a548b7988d47a yamada.masahiro@socionext.com 2 2 include/trace/events/napi.h
+1563619183 b1d45c23284e55a379f85554a27a548b7988d47a yamada.masahiro@socionext.com 2 2 include/trace/events/qdisc.h
+1563619183 b1d45c23284e55a379f85554a27a548b7988d47a yamada.masahiro@socionext.com 2 2 include/trace/events/tegra_apb_dma.h
+1564401469 61c30c98ef17e5a330d7bb8494b78b3d6dffe9b8 jack@suse.cz 1 1 fs/dax.c
+1563996777 71be7b0e7d4069822c89146daed800686db8f147 Asmaa@mellanox.com 1 1 drivers/char/ipmi/ipmb_dev_int.c
