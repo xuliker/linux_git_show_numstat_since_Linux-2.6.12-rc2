@@ -1,0 +1,8 @@
+
+1562531758 d95da993383c78f7efd25957ba3af23af4b1c613 chris.packham@alliedtelesis.co.nz 11 6 drivers/gpio/gpiolib.c
+1562574223 ffe0bbabb0cffceceae07484fde1ec2a63b1537c bgolaszewski@baylibre.com 32 32 include/linux/gpio/consumer.h
+1562563388 223ecaf140b1dd1c1d2a1a1d96281efc5c906984 michael.wu@vatics.com 4 2 drivers/gpio/gpiolib.c
+1563768186 3a6ffb3c8c3274a39dc8f2514526e645c5d21753 andreas.koop@zf.com 5 0 drivers/mmc/core/queue.c
+1562735059 665e985c2f41bebc3e6cee7e04c36a44afbc58f7 joe@perches.com 1 1 drivers/mmc/host/meson-mx-sdio.c
+1562615773 ba2d139b02ba684c6c101de42fed782d6cd2b997 dianders@chromium.org 1 2 drivers/mmc/host/dw_mmc.c
+1563184814 fc62113b32c95906b3ea8ba42e91014c7d0c6fa6 baolin.wang@linaro.org 1 0 drivers/mmc/host/sdhci-sprd.c
