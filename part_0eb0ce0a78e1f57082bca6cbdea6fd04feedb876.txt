@@ -1,0 +1,14 @@
+
+1564969212 e21a712a9685488f5ce80495b37b9fdbe96c230d torvalds@linux-foundation.org 1 1 Makefile
+1564667341 a4127952859a869cf3fc5a49547dbe2ffa2eac89 jarkko.nikula@linux.intel.com 8 0 drivers/spi/spi-pxa2xx.c
+1563957151 811ba489fa524ec634933cdf83aaf6c007a4c004 nishkadg.linux@gmail.com 3 1 drivers/regulator/of_regulator.c
+1563481788 fbb01c52471c8fb4ec2422c0ab26c134bd90bbff joe.lawrence@redhat.com 20 6 tools/testing/selftests/livepatch/functions.sh
+1563581012 fc2e634e997d84f2610a482b500865ef2c04fcde cyphar@cyphar.com 15 0 tools/testing/selftests/kselftest.h
+1562149771 8d8bef50365847134b51c1ec46786bc2873e4e47 lukas@wunner.de 2 1 drivers/spi/spi-bcm2835.c
+1562844917 a853c0a0b013af3fee0f028cff3c44e275ce9abd axel.lin@ingics.com 4 4 drivers/regulator/lp87565-regulator.c
+1563539233 1274204542f683e1d8491ebe9cc86284d5a8ebcc lkundrak@v3.sk 4 2 drivers/spi/spi-pxa2xx.c
+1563310011 2922d1cc1696200a3e1fd6d82a7798fcd2cadf12 linus.walleij@linaro.org 6 0 drivers/spi/spi-gpio.c
+1563008837 8f46e22b5ac692b48d04bb722547ca17b66dda02 jernej.skrabec@siol.net 2 2 drivers/regulator/axp20x-regulator.c
+1563008836 1ef55fed9219963359a7b3bc7edca8517c6e45ac jernej.skrabec@siol.net 3 3 drivers/regulator/axp20x-regulator.c
+1562725887 d6b197a14863818a7ed7890e91f043fab49e8c60 han.xu@nxp.com 1 1 drivers/spi/spi-fsl-qspi.c
+1562700391 43167bb1f6bb7efa73adc40d2dd700bb6546cc2c robh@kernel.org 0 1 Documentation/devicetree/bindings/spi/spi-controller.yaml
