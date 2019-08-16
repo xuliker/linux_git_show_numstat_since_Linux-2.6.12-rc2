@@ -1,0 +1,19 @@
+
+1565184151 83f82d7a42583e93d0f0dde3d61ed10f75c0f4d8 lkundrak@v3.sk 1 1 drivers/of/irq.c
+1565729274 626633425c079742c04f4f2d81c16962b084605c robh@kernel.org 2 1 Documentation/devicetree/bindings/pinctrl/st,stm32-pinctrl.yaml
+1565709307 9a67b72552f8d019948453e56ca7db8c7e5a94ba efremov@linux.com 0 1 MAINTAINERS
+1563480893 fd295733e702a63c189fea8294c12e04b5e5ecc0 thesven73@gmail.com 17 13 Documentation/devicetree/bindings/net/fsl-fec.txt
+1563255810 60d437bbff358748fcfc3bce5f08da9a6b3761da nishkadg.linux@gmail.com 9 3 drivers/of/resolver.c
+1565563947 8612de3f7ba6e900465e340516b8313806d27b2d darrick.wong@oracle.com 21 8 fs/xfs/libxfs/xfs_bmap.c
+1565563946 858b44dc62a1018312fd9cbd15db24237a897e0e darrick.wong@oracle.com 12 7 fs/xfs/libxfs/xfs_da_btree.c
+1565563946 858b44dc62a1018312fd9cbd15db24237a897e0e darrick.wong@oracle.com 2 1 fs/xfs/libxfs/xfs_dir2_node.c
+1565101408 6c4d6bc5486466e3a67cc47270001d0b4a26eed4 standby24x7@gmail.com 1 1 samples/auxdisplay/cfag12864b-example.c
+1565075685 390235c3e66036351e2a89b925843a741c8afd6c yamada.masahiro@socionext.com 5 0 drivers/auxdisplay/charlcd.h
+1565075684 75354284cc3aa58f7e54d479d9bee69bd2ca828f yamada.masahiro@socionext.com 1 1 drivers/auxdisplay/charlcd.c
+1565075684 75354284cc3aa58f7e54d479d9bee69bd2ca828f yamada.masahiro@socionext.com 0 0 {include/misc => drivers/auxdisplay}/charlcd.h
+1565075684 75354284cc3aa58f7e54d479d9bee69bd2ca828f yamada.masahiro@socionext.com 1 2 drivers/auxdisplay/hd44780.c
+1565075684 75354284cc3aa58f7e54d479d9bee69bd2ca828f yamada.masahiro@socionext.com 1 1 drivers/auxdisplay/panel.c
+1562268834 ba2c1340d7c8e1ba5957d814ec18592b315fd4de mans@mansr.com 5 0 drivers/auxdisplay/Kconfig
+1562589738 b33d567560c1aadf3033290d74d4fd67af47aa61 zhengbin13@huawei.com 2 0 drivers/auxdisplay/panel.c
+1564692427 294fc7a4c8ec42b3053b1d2e87b0dafef80a76b8 penguin-kernel@I-love.SAKURA.ne.jp 1 4 fs/xfs/xfs_log.c
+1564498174 740ce365a4dccc1df4d05219cd5bf68f01359196 robh@kernel.org 3 1 Documentation/devicetree/bindings/Makefile
