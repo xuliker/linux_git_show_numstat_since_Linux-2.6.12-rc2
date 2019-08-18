@@ -1,0 +1,13 @@
+
+1565771033 69703eb9a8ae28a46cd5bce7d69ceeef6273a104 vincent.chen@sifive.com 1 1 arch/riscv/include/asm/switch_to.h
+1565771032 8ac71d7e46b94a4fc8ffc6f1c88004cdf24459e8 vincent.chen@sifive.com 6 0 arch/riscv/include/asm/switch_to.h
+1565771032 8ac71d7e46b94a4fc8ffc6f1c88004cdf24459e8 vincent.chen@sifive.com 9 2 arch/riscv/kernel/process.c
+1564841615 90865a3dc597bd8463efacb749561095ba70b0aa nishadkamdar@gmail.com 1 1 drivers/i2c/busses/i2c-stm32.h
+1565294057 d7437fc0d8291181debe032671a289b6bd93f46f wsa+renesas@sang-engineering.com 12 4 drivers/i2c/busses/i2c-emev2.c
+1565293150 7b814d852af6944657c2961039f404c4490771c0 wsa+renesas@sang-engineering.com 7 4 drivers/i2c/busses/i2c-rcar.c
+1565586497 8fc3ae3b109d17157102f0abf9c8fb1e16bf810a o.rempel@pengutronix.de 8 0 MAINTAINERS
+1565298096 e8c220fac415d9f4a994b0c2871b835feac1eb4e festevam@gmail.com 6 12 drivers/i2c/busses/i2c-imx.c
+1565739150 d568cb3f935123b4fb42b9029ebcfebc4e4533a2 alistair.francis@wdc.com 2 0 arch/riscv/configs/defconfig
+1565739149 500bc2c1f48aa6efad9474fdbe0c7cd8d600484c alistair.francis@wdc.com 3 0 arch/riscv/configs/rv32_defconfig
+1565230054 eb93685847a9055283d05951c1b205e737f38533 paul.walmsley@sifive.com 9 2 arch/riscv/include/asm/tlbflush.h
+1565647290 cd8869f4cb257f22b89495ca40f5281e58ba359c jcmvbkbc@gmail.com 1 0 arch/xtensa/kernel/setup.c
