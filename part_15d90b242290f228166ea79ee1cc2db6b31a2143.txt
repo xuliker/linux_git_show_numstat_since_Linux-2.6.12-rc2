@@ -1,0 +1,9 @@
+
+1565982054 fcf887e7caaa813eea821d11bf2b7619a37df37a skomra@gmail.com 1 1 drivers/hid/wacom_wac.c
+1565625884 2d05dba2b25ecb0f8fc3a0b4eb2232da6454a47b benjamin.tissoires@redhat.com 6 2 drivers/hid/hid-cp2112.c
+1565356709 b640be5bc8e4673dc8049cf74176ddedecea5597 even.xu@intel.com 1 0 drivers/hid/intel-ish-hid/ipc/hw-ish.h
+1565356709 b640be5bc8e4673dc8049cf74176ddedecea5597 even.xu@intel.com 1 0 drivers/hid/intel-ish-hid/ipc/pci-ish.c
+1565212315 b72fb1dcd2ea9d29417711cb302cef3006fa8d5a jason.gerecke@wacom.com 2 0 drivers/hid/wacom_wac.c
+1565703487 a3384b8d9f63cc042711293bb97bdc92dca0391d benjamin.tissoires@redhat.com 0 2 drivers/hid/hid-logitech-hidpp.c
+1565703486 addf3382c47c033e579c9c88f18e36c4e75d806a benjamin.tissoires@redhat.com 0 20 drivers/hid/hid-logitech-hidpp.c
+1565636152 7cdf6e40537f4f287c8e21b99cb4cd082a33bef0 skomra@gmail.com 2 1 drivers/hid/wacom_wac.c
