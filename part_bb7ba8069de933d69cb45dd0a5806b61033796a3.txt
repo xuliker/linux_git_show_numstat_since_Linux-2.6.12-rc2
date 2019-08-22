@@ -1,0 +1,18 @@
+
+1560187375 e4427372398c31f57450565de277f861a4db5b3b vkuznets@redhat.com 1 1 tools/testing/selftests/kvm/x86_64/platform_info_test.c
+1565855012 d012a06ab1d23178fc6856d8d2161fbcc4dd8ebd pbonzini@redhat.com 1 32 arch/x86/kvm/mmu.c
+1566315352 54577e5018a8c0cb79c9a0fa118a55c68715d398 pbonzini@redhat.com 10 6 tools/testing/selftests/kvm/lib/x86_64/processor.c
+1565084464 78e70e780b289ff59ec33a9f9c1fcecaf17a46e1 zhe.he@windriver.com 1 1 fs/nfsd/nfscache.c
+1565900306 bebd6997163addc1938db8c61754a23ffdf8ccc4 bfields@redhat.com 6 6 fs/nfsd/nfsctl.c
+1565834257 dc46bba709cfb45e4b2d40cf45aaeacb82690504 bfields@redhat.com 2 4 fs/nfsd/nfsctl.c
+1565576171 d6846bfbeeac873d85f32bd2b988fa94c89dbcb8 penguin-kernel@I-love.SAKURA.ne.jp 1 0 fs/nfsd/nfsctl.c
+1565798854 c930e19790bbbff31c018009907c813fa0925f63 pbonzini@redhat.com 14 3 tools/testing/selftests/kvm/x86_64/vmx_set_nested_state_test.c
+1565798561 65efa61dc0d536d5f0602c33ee805a57cc07e9dc pbonzini@redhat.com 2 0 tools/testing/selftests/kvm/include/evmcs.h
+1565798561 65efa61dc0d536d5f0602c33ee805a57cc07e9dc pbonzini@redhat.com 20 0 tools/testing/selftests/kvm/lib/x86_64/vmx.c
+1565798561 65efa61dc0d536d5f0602c33ee805a57cc07e9dc pbonzini@redhat.com 2 13 tools/testing/selftests/kvm/x86_64/evmcs_test.c
+1565798561 65efa61dc0d536d5f0602c33ee805a57cc07e9dc pbonzini@redhat.com 4 8 tools/testing/selftests/kvm/x86_64/hyperv_cpuid.c
+1565799535 92cd0f0be3d7adb63611c28693ec0399beded837 pbonzini@redhat.com 0 15 tools/testing/selftests/kvm/x86_64/vmx_set_nested_state_test.c
+1565577180 c8e174b39887ea1992286ff8ffdbcf79f6057cf2 linmiaohe@huawei.com 0 1 arch/x86/kvm/svm.c
+1565335802 ed4e7b057e9e75cecd56f6c3434f88eaa69c1209 pbonzini@redhat.com 9 8 MAINTAINERS
+1565335123 74260dc278a725b692b1a201c6b780a02804d3e4 pbonzini@redhat.com 1 1 MAINTAINERS
+1565753857 b14c876b994f208b6b95c222056e1deb0a45de0e rkrcmar@redhat.com 5 0 arch/x86/kvm/lapic.c
