@@ -1,0 +1,18 @@
+
+1566227131 7533be858f5b9a036b9f91556a3ed70786abca8e yuehaibing@huawei.com 1 1 fs/afs/yfsclient.c
+1566476923 c4c613ff08d92e72bf64a65ec35a2c3aa1cfcd06 marc.dionne@auristor.com 2 1 fs/afs/dir.c
+1566476923 a5fb8e6c02d6a518fb2b1a2b8c2471fa77b69436 dhowells@redhat.com 4 0 fs/afs/cell.c
+1566346066 c3cb6674df4c4a70f949e412dfe2230483092523 gustavo@embeddedor.com 1 0 drivers/video/fbdev/acornfb.c
+1566336005 da1fb2909e701ffbae8c5d6111f475603355e6e2 gustavo@embeddedor.com 1 0 drivers/scsi/libsas/sas_discover.c
+1566334989 93cbcf5d22bbe6f2ecf64765d5f6085beceb3ee8 gustavo@embeddedor.com 1 0 arch/mips/include/asm/octeon/cvmx-sli-defs.h
+1566334526 5274fdba8e3c04e9ac1ba457379afc8835f9aa0f gustavo@embeddedor.com 1 0 drivers/power/supply/ab8500_charger.c
+1566324466 c9cbbb9f04f3ee27970f08d3aa6e6742a43d4ca5 gustavo@embeddedor.com 1 1 drivers/watchdog/wdt285.c
+1566323672 3f0289cb9e0ee38e0075328e59b9cd88bf5ea474 gustavo@embeddedor.com 1 0 drivers/mtd/maps/sa1100-flash.c
+1566323226 5334653d4ff29f5e1f216a2f5d3a86c19a479b1a gustavo@embeddedor.com 1 0 drivers/gpu/drm/sun4i/sun4i_tcon.c
+1566324063 edf6a05976980b5c21f19a60fde175f736e4ab61 gustavo@embeddedor.com 1 0 drivers/gpu/drm/sun4i/sun6i_mipi_dsi.c
+1566347356 06264adfa2bcc8abb556dec9af0e86150a67faf0 gustavo@embeddedor.com 1 0 arch/arm/mach-rpc/riscpc.c
+1565569083 377ec83643efcae869528b4b26a5070fdeba3abd gustavo@embeddedor.com 1 0 drivers/dma/fsldma.c
+1565889158 7bafda88de20b2990461d253c5475007436e355c bhelgaas@google.com 1 1 Documentation/PCI/index.rst
+1565889158 7bafda88de20b2990461d253c5475007436e355c bhelgaas@google.com 0 0 Documentation/PCI/{picebus-howto.rst => pciebus-howto.rst}
+1564696877 ad54567ad5d8e938ee6cf02e4f3867f18835ae6e lyude@redhat.com 1 1 drivers/pci/quirks.c
+1559189034 9cdde85804833af77c6afbf7c53f0d959c42eb9f hyungwoo.yang@intel.com 2 2 drivers/platform/chrome/cros_ec_ishtp.c
