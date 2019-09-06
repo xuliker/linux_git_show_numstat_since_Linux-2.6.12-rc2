@@ -1,0 +1,15 @@
+
+1567427849 d41a3effbb53b1bcea41e328d16a4d046a508381 hdanton@sina.com 6 0 security/keys/request_key_auth.c
+1567583732 1251201c0d34fadf69d56efa675c2b7dd0a90eca mingo@kernel.org 39 39 kernel/sched/core.c
+1567576407 2a36c16efab254dd6017efeb35ad88ecc96f2328 hui.wang@canonical.com 2 0 sound/pci/hda/patch_realtek.c
+1566821793 5e2d2cc2588bd3307ce3937acbc2ed03c830a861 liangyan.peng@linux.alibaba.com 5 0 kernel/sched/fair.c
+1567418456 60083f9e94b2f28047d71ed778adf89357c1a8fb jian-hong@endlessm.com 12 0 sound/pci/hda/patch_realtek.c
+1567428103 4030b4c585c41eeefec7bd20ce3d0e100a0f2e4d Tianyu.Lan@microsoft.com 5 3 arch/x86/hyperv/mmu.c
+1567305090 d33cd42d86671bed870827aa399aeb9f1da74119 sambazley@fastmail.com 1 0 sound/pci/hda/patch_realtek.c
+1567067085 9b8bd476e78e89c9ea26c3b435ad0201c3d7dbf5 peterz@infradead.org 3 1 arch/x86/include/asm/uaccess.h
+1567375254 29d9a0b50736768f042752070e5cdf4e4d4c00df JohnSGruber@gmail.com 1 0 arch/x86/include/asm/bootparam_utils.h
+1567238411 52d083472e0b64d1da5b6469ed3defb1ddc45929 miguel.ojeda.sandonis@gmail.com 14 3 .clang-format
+1567159418 89781d0806c2c4f29072d3f00cb2dd4274aabc3d tiwai@suse.de 2 1 sound/pci/hda/hda_generic.c
+1567159418 89781d0806c2c4f29072d3f00cb2dd4274aabc3d tiwai@suse.de 1 0 sound/pci/hda/hda_generic.h
+1567159418 89781d0806c2c4f29072d3f00cb2dd4274aabc3d tiwai@suse.de 2 0 sound/pci/hda/patch_realtek.c
+1567065122 333f31436d3db19f4286f8862a00ea1d8d8420a1 tiwai@suse.de 2 2 sound/pci/hda/hda_auto_parser.c
