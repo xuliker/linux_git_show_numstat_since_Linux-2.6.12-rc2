@@ -1,0 +1,10 @@
+
+1567891554 950b07c14e8c59444e2359f15fd70ed5112e11a0 torvalds@linux-foundation.org 0 4 arch/x86/kernel/apic/apic.c
+1567796517 a8e0abae2fe0e788fa3d92c043605d1211c13735 tsoni@codeaurora.org 1 1 Documentation/process/embargoed-hardware-issues.rst
+1567763932 1f493162b59b09224de4d9c94e4392807e0edcce sashal@kernel.org 1 1 Documentation/process/embargoed-hardware-issues.rst
+1567614289 f56f791f6d8e8296c9dd194506ee2b703b1227d4 keescook@chromium.org 4 4 Documentation/process/embargoed-hardware-issues.rst
+1567621022 02e740aeca79e9a3c464bc2ebb510457c85d2015 andrew.cooper3@citrix.com 1 1 Documentation/process/embargoed-hardware-issues.rst
+1567424643 cf24aac38698bfa1d021afd3883df3c4c65143a4 yoshihiro.shimoda.uh@renesas.com 19 9 drivers/dma/sh/rcar-dmac.c
+1567150665 689379c2f383b1fdfdff03e84cf659daf62f2088 baolin.wang@linaro.org 8 2 drivers/dma/sprd-dma.c
+1565938568 962411b05a6d3342aa649e39cda1704c1fc042c6 wenwen@cs.uga.edu 3 1 drivers/dma/ti/omap-dma.c
+1565938135 2c231c0c1dec42192aca0f87f2dc68b8f0cbc7d2 wenwen@cs.uga.edu 3 1 drivers/dma/ti/dma-crossbar.c
