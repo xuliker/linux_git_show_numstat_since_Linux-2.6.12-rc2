@@ -1,0 +1,4 @@
+
+1565818999 3829100a63724f6dbf264b2a7f06e7f638ed952d andreas@kemnade.info 20 3 drivers/regulator/twl-regulator.c
+1565635194 5d2fc542e8c92130b55ddeb81876ec398adf4d13 raagjadav@gmail.com 4 4 drivers/regulator/act8945a-regulator.c
+1565260415 7352e72a513fd2757b2fda695a349d86faa4c94e dan.carpenter@oracle.com 2 2 drivers/regulator/slg51000-regulator.c
