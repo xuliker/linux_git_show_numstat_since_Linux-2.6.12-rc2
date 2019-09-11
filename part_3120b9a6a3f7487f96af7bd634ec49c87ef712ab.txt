@@ -1,0 +1,5 @@
+
+1567694918 fb377eb80c80339b580831a3c0fcce34a4c9d1ad arnd@arndb.de 18 15 arch/sparc/kernel/sys_sparc_64.c
+1567694918 fb377eb80c80339b580831a3c0fcce34a4c9d1ad arnd@arndb.de 19 0 include/linux/syscalls.h
+1567694918 fb377eb80c80339b580831a3c0fcce34a4c9d1ad arnd@arndb.de 2 23 ipc/util.h
+1567693209 78e05972c5e6c8e9ca4c00ccc6985409da69f904 arnd@arndb.de 1 1 include/uapi/asm-generic/unistd.h
