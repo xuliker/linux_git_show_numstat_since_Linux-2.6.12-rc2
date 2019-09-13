@@ -1,0 +1,18 @@
+
+1568292994 505a8ec7e11ae5236c4a154a1e24ef49a8349600 chris@chris-wilson.co.uk 1 9 drivers/gpu/drm/i915/gem/i915_gem_userptr.c
+1568223940 a0eb9abd8af92d1aa34bc1e24dfbd1ba0bd6a56c esyr@redhat.com 10 0 kernel/fork.c
+1567063058 c1432423a16825ef94e019808ed7330ee33ffc69 andrew@aj.id.au 29 1 drivers/pinctrl/aspeed/pinctrl-aspeed-g5.c
+1567063058 c1432423a16825ef94e019808ed7330ee33ffc69 andrew@aj.id.au 5 2 drivers/pinctrl/aspeed/pinmux-aspeed.c
+1567063058 c1432423a16825ef94e019808ed7330ee33ffc69 andrew@aj.id.au 4 3 drivers/pinctrl/aspeed/pinmux-aspeed.h
+1568195064 060423bfdee3f8bc6e2c1bac97de24d5415e2bc4 yongduan@tencent.com 2 2 drivers/vhost/vhost.c
+1567940648 a89db445fbd7f1f8457b03759aa7343fa530ef6b mst@redhat.com 4 2 drivers/vhost/vhost.c
+1566937715 61f7f7c8f978b1c0d80e43c83b7d110ca0496eb4 hdegoede@redhat.com 38 4 drivers/gpio/gpiolib-acpi.c
+1567552736 1dea33e84d33a5220aeda4ca9e918de0fd77c078 dmitry.torokhov@gmail.com 9 18 drivers/gpio/gpiolib-of.c
+1567781941 cf8f1696709ad5bb3138ed8c771c2eb98950cd8a matthias.lange@kernkonzept.com 6 2 drivers/virtio/virtio_ring.c
+1567999446 5ca2f54b597c816df54ff1b28eb99cf7262b955d warthog618@gmail.com 3 5 drivers/gpio/gpiolib.c
+1567999338 e95fbc130a162ba9ad956311b95aa0da269eea48 warthog618@gmail.com 8 0 drivers/gpio/gpiolib.c
+1567606714 59929d3a2eb6c4abafc5b61a20c98aa8728ec378 weiyongjun1@huawei.com 1 0 drivers/gpio/gpio-mockup.c
+1567896640 afa8b475c1aec185a8e106c48b3832e0b88bc2de jstancek@redhat.com 4 0 arch/x86/kernel/apic/apic.c
+1567715026 e16c2983fba0fa6763e43ad10916be35e3d8dc05 steve.wahl@hpe.com 19 16 arch/x86/purgatory/Makefile
+1567749676 310aa0a25b338b3100c94880c9a69bec8ce8c3ae mark-pk.tsai@mediatek.com 2 2 kernel/events/hw_breakpoint.c
+1567601185 eddf3e9c7c7e4d0707c68d1bb22cc6ec8aef7d4a yeyunfeng@huawei.com 2 0 kernel/irq/resend.c
