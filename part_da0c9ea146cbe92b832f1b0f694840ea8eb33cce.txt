@@ -1,0 +1,22 @@
+
+1570397250 da0c9ea146cbe92b832f1b0f694840ea8eb33cce torvalds@linux-foundation.org 2 2 Makefile
+1570395207 b212921b13bda088a004328457c5c21458262fe2 torvalds@linux-foundation.org 3 10 fs/binfmt_elf.c
+1570263810 2cf2aa6a69db0b17b3979144287af8775c1c1534 andrew.smirnov@gmail.com 2 2 kernel/dma/remap.c
+1570192825 60c1b3e25728e0485f08e72e61c3cad5331925a3 patrice.chotard@st.com 1 1 arch/arm/configs/multi_v7_defconfig
+1569915988 cdee3b60af594403bd389e6e8239bcd0b4a159fc linus.walleij@linaro.org 8 3 arch/arm/boot/dts/ste-dbx5x0.dtsi
+1568966386 a304c0a60252fde9daccd9f8a07a598021f6956a j-keerthy@ti.com 1 1 arch/arm/configs/davinci_all_defconfig
+1568966386 a304c0a60252fde9daccd9f8a07a598021f6956a j-keerthy@ti.com 1 1 arch/arm/configs/multi_v7_defconfig
+1568966386 a304c0a60252fde9daccd9f8a07a598021f6956a j-keerthy@ti.com 1 1 arch/arm/configs/omap2plus_defconfig
+1568966386 a304c0a60252fde9daccd9f8a07a598021f6956a j-keerthy@ti.com 1 1 arch/arm64/configs/defconfig
+1569833690 f90ec6cdf674248dcad85bf9af6e064bf472b841 peter.ujfalusi@ti.com 2 0 arch/arm/boot/dts/am4372.dtsi
+1569367140 cf395f7ddb9ebc6b2d28d83b53d18aa4e7c19701 tony@atomide.com 0 100 arch/arm/mach-omap2/pm.c
+1569342351 17529d43b21c72466e9109d602c6f5c360a1a9e8 tony@atomide.com 3 1 arch/arm/boot/dts/am33xx-l4.dtsi
+1569342351 17529d43b21c72466e9109d602c6f5c360a1a9e8 tony@atomide.com 3 2 arch/arm/mach-omap2/omap_hwmod_33xx_data.c
+1569342352 8ad8041b98c665b6147e607b749586d6e20ba73a tony@atomide.com 2 1 arch/arm/mach-omap2/omap_hwmod_33xx_43xx_ipblock_data.c
+1569342268 4ef5d76b453908f21341e661a9b6f96862f6f589 tony@atomide.com 1 1 arch/arm/boot/dts/am335x-icev2.dts
+1569342268 4ef5d76b453908f21341e661a9b6f96862f6f589 tony@atomide.com 1 1 arch/arm/boot/dts/am33xx-l4.dtsi
+1569175060 1d70ded8567ccf70353ff97e3b13f267c889f934 tony@atomide.com 2 0 arch/arm/configs/omap2plus_defconfig
+1569263131 04e0e1777a792223897b8c21eb4e0a5b2624d9df aford173@gmail.com 1 0 arch/arm/configs/omap2plus_defconfig
+1568995875 f1f028ff89cb0d37db299d48e7b2ce19be040d52 hns@goldelico.com 1 0 arch/arm/boot/dts/omap3-gta04.dtsi
+1569259958 2d3c8ba3cffa00f76bedb713c8c2126c82d8cd13 tony@atomide.com 21 27 arch/arm/boot/dts/dra7-l4.dtsi
+1569259957 dd8882a255388ba66175098b1560d4f81c100d30 tony@atomide.com 3 3 drivers/clk/ti/clk-7xx.c
