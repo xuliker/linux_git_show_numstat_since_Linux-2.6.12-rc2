@@ -1,0 +1,18 @@
+
+1570561115 4050d21d2009faccae5cab74eeb9f460f25d5108 pavel@ucw.cz 1 0 MAINTAINERS
+1570020042 e3f1271474182682638654021123b94e6ec1626b dmurphy@ti.com 2 3 include/linux/leds.h
+1570019303 fffa6af94894126994a7600c6f6f09b892e89fa9 treding@nvidia.com 3 3 drivers/gpio/gpio-max77620.c
+1570111162 2a5243937c700ffe6a28e6557a4562a9ab0a17a4 omosnace@redhat.com 8 1 security/selinux/ss/services.c
+1568745623 ce3a677802121e038d2f062e90f96f84e7351da0 george_davis@mentor.com 15 1 tools/testing/selftests/watchdog/watchdog-test.c
+1568745622 8f9577eda5b74de4bd8b186c67f20736bdea6e07 george_davis@mentor.com 11 0 tools/testing/selftests/watchdog/watchdog-test.c
+1568916404 852c8cbf34d3b3130a05c38064dd98614f97d3a8 keescook@chromium.org 33 3 tools/testing/selftests/kselftest/runner.sh
+1568916404 852c8cbf34d3b3130a05c38064dd98614f97d3a8 keescook@chromium.org 1 0 tools/testing/selftests/rtc/settings
+1569520339 131b30c94fbc0adb15f911609884dd39dada8f00 cristian.marussi@arm.com 4 0 tools/testing/selftests/Makefile
+1569520338 3a24f7f6b610910ee328df11392e21925cefdecb cristian.marussi@arm.com 16 0 Documentation/dev-tools/kselftest.rst
+1569520338 3a24f7f6b610910ee328df11392e21925cefdecb cristian.marussi@arm.com 7 0 tools/testing/selftests/Makefile
+1569537614 17eac6c2db8b2cdfe33d40229bdda2acd86b304a skhan@linuxfoundation.org 2 3 Makefile
+1569537614 17eac6c2db8b2cdfe33d40229bdda2acd86b304a skhan@linuxfoundation.org 6 2 tools/testing/selftests/Makefile
+1569537614 17eac6c2db8b2cdfe33d40229bdda2acd86b304a skhan@linuxfoundation.org 2 2 tools/testing/selftests/kselftest_install.sh
+1568627816 e91aafcb51f3c5001ae76c3ee027beb0b8506447 bruce.chen@unisoc.com 4 3 drivers/gpio/gpio-eic-sprd.c
+1569923361 be7ae45cfea97e787234e00e1a9eb341acacd84e m.felsch@pengutronix.de 1 1 drivers/gpio/gpiolib-of.c
+1569923093 e735244e2cf068f98b6384681a38993e0517a838 bgolaszewski@baylibre.com 19 8 drivers/gpio/gpiolib.c
