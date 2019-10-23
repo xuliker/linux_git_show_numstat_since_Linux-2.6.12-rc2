@@ -1,0 +1,18 @@
+
+1570509713 d6e7a1a5119c4e719b0d63651f09762d7384bfed johnny_huang@aspeedtech.com 32 40 drivers/pinctrl/aspeed/pinctrl-aspeed-g6.c
+1570509713 d6e7a1a5119c4e719b0d63651f09762d7384bfed johnny_huang@aspeedtech.com 1 0 drivers/pinctrl/aspeed/pinmux-aspeed.h
+1570509712 1550583432535dccaf1956c1d58e2866eacd173e johnny_huang@aspeedtech.com 2 2 drivers/pinctrl/aspeed/pinctrl-aspeed-g6.c
+1570509711 c136d4c71f755a189fe13a0cd4f3e8f538dda567 andrew@aj.id.au 1 1 drivers/pinctrl/aspeed/pinmux-aspeed.h
+1570509710 9979346f5560956daf2a73da854e88d60a5309cf johnny_huang@aspeedtech.com 8 16 drivers/pinctrl/aspeed/pinctrl-aspeed-g6.c
+1570509709 b178f91f449caec552e66d9842dcc2090a2e0987 andrew@aj.id.au 1 1 drivers/pinctrl/aspeed/pinctrl-aspeed-g6.c
+1570509708 377dfcdcc0469b6b38f7943de63a13132b066679 andrew@aj.id.au 11 11 drivers/pinctrl/aspeed/pinctrl-aspeed-g6.c
+1570509707 9091a0698be23561b2e1898139a62f8ba6d61d2d andrew@aj.id.au 42 44 Documentation/devicetree/bindings/pinctrl/aspeed,ast2600-pinctrl.yaml
+1570780545 8f1c9dffe30b04219690f8e94a27b2ab977a66f2 Jisheng.Zhang@synaptics.com 1 1 drivers/pinctrl/berlin/pinctrl-as370.c
+1569945098 b835d6953009dc350d61402a854b5a7178d8c615 alpawi@amazon.com 4 4 drivers/pinctrl/mvebu/pinctrl-armada-37xx.c
+1570191822 2fd215b8fdbe4d3a609adbe3a323696393cb1e53 amelie.delaunay@st.com 1 1 drivers/pinctrl/pinctrl-stmfx.c
+1570060989 48659227e0a1d7897a4942c7b2cf925b581b6bf7 chris.packham@alliedtelesis.co.nz 1 1 drivers/pinctrl/bcm/pinctrl-iproc-gpio.c
+1569485666 39b65fbb813089e366b376bd8acc300b6fd646dc dan.carpenter@oracle.com 2 2 drivers/pinctrl/bcm/pinctrl-ns2-mux.c
+1570021337 f876dbff857b41b0f5c6139fb1db2361cb708279 linus.walleij@linaro.org 1 9 drivers/pinctrl/bcm/pinctrl-iproc-gpio.c
+1569944791 20504fa1d2ffd5d03cdd9dc9c9dd4ed4579b97ef alpawi@amazon.com 9 9 drivers/pinctrl/mvebu/pinctrl-armada-37xx.c
+1569293398 260996c30f4f3a732f45045e3e0efe27017615e4 dmitry.torokhov@gmail.com 0 4 drivers/pinctrl/intel/pinctrl-cherryview.c
+1568645271 57ff2df1b952c7934d7b0e1d3a2ec403ec76edec andriy.shevchenko@linux.intel.com 14 13 drivers/pinctrl/intel/pinctrl-intel.c
