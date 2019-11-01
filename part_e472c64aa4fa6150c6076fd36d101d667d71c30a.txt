@@ -1,0 +1,10 @@
+
+1571844698 bacdcb6675e170bb2e8d3824da220e10274f42a7 tony@atomide.com 20 1 drivers/dma/ti/cppi41.c
+1571325966 7667819385457b4aeb5fac94f67f52ab52cc10d5 jeffrey.l.hugo@gmail.com 19 0 drivers/dma/qcom/bam_dma.c
+1570612290 ec1ac309596a7bdf206743b092748205f6cd5720 baolin.wang@linaro.org 15 0 drivers/dma/sprd-dma.c
+1569495058 6c6de1ddb1be3840f2ed5cc9d009a622720940c9 radhey.shyam.pandey@xilinx.com 7 0 drivers/dma/xilinx/xilinx_dma.c
+1569495057 68fe2b520cee829ed518b4b1f64d2a557bcbffe1 radhey.shyam.pandey@xilinx.com 2 1 drivers/dma/xilinx/xilinx_dma.c
+1569318558 bd73dfabdda280fc5f05bdec79b6721b4b2f035f yibin.gong@nxp.com 8 0 drivers/dma/imx-sdma.c
+1569318558 bd73dfabdda280fc5f05bdec79b6721b4b2f035f yibin.gong@nxp.com 3 0 include/linux/platform_data/dma-imx-sdma.h
+1568626513 9ec691f48b5ef741a48af8932ccaec859c67e8f1 spujar@nvidia.com 7 0 drivers/dma/tegra210-adma.c
+1568267238 8b6bc5fd71e677864d1a3b896b3069a6e0c5e214 zhenfang.wang@unisoc.com 10 2 drivers/dma/sprd-dma.c
