@@ -1,0 +1,7 @@
+
+1572521768 fa729c4df558936b4a1a7b3e2234011f44ede28b christian.brauner@ubuntu.com 4 0 include/uapi/linux/sched.h
+1572521768 fa729c4df558936b4a1a7b3e2234011f44ede28b christian.brauner@ubuntu.com 32 1 kernel/fork.c
+1572820871 1173c3c28abfc3d7b7665db502280ba9322320e6 linus.walleij@linaro.org 12 16 drivers/gpio/gpio-merrifield.c
+1572820848 52c75f56703e1c40a2bc3f64a140602112dfa302 linus.walleij@linaro.org 0 1 drivers/gpio/gpio-merrifield.c
+1572820719 806766af3909258ccab74265e33ce8afd21af952 linus.walleij@linaro.org 3 5 drivers/gpio/gpio-merrifield.c
+1569547001 4a6a6f5c4aeedb72db871d60bfcca89835f317aa skhan@linuxfoundation.org 5 1 tools/gpio/Makefile
