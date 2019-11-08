@@ -1,0 +1,24 @@
+
+1573070386 ff479731c3859609530416a18ddb3db5db019b66 killertofu@gmail.com 15 0 drivers/hid/wacom.h
+1573070386 ff479731c3859609530416a18ddb3db5db019b66 killertofu@gmail.com 6 4 drivers/hid/wacom_wac.c
+1573017433 869712fd3de5a90b7ba23ae1272278cddc66b37b hannes@cmpxchg.org 9 0 mm/memcontrol.c
+1573017430 656d571193262a11c2daa4012e53e4d645bbce56 david@redhat.com 8 0 mm/memory_hotplug.c
+1573017426 8731acc5068eb3f422a45c760d32198175c756f8 iii@linux.ibm.com 2 1 scripts/gdb/linux/symbols.py
+1573017423 221ec5c0a46c1a1740f34fb36fc661a5284d01b0 guro@fb.com 1 1 mm/memcontrol.c
+1573017423 221ec5c0a46c1a1740f34fb36fc661a5284d01b0 guro@fb.com 2 2 mm/slab.h
+1573017420 6981b76cf6f3252ed7b828fc9b2d333ff5f0bde8 songliubraving@fb.com 4 0 MAINTAINERS
+1573017417 5cbf2fff3bba8d3c6a4d47c1754de1cf57e2b01f haokexin@gmail.com 6 1 lib/dump_stack.c
+1573017414 a31631302abce4c80913d4dc741c4a6b07969b0e vitaly.wool@konsulko.com 1 0 MAINTAINERS
+1573017411 1be334e5c0886197cc82923ff0ac5836111b7b57 hannes@cmpxchg.org 1 6 mm/page_alloc.c
+1573017408 ec649c9d454ea372dcf16cccf48250994f1d7788 ville.syrjala@linux.intel.com 4 3 mm/khugepaged.c
+1573017404 93b3a674485f6a4b8ffff85d1682d5e8b7c51560 mhocko@suse.com 20 3 mm/vmstat.c
+1573017400 abaed0112c1db08be15a784a2c5c8a8b3063cdd3 mhocko@suse.com 1 1 mm/vmstat.c
+1573017397 df2ec7641bd03624a7e54cc926e8c3f75c7a84d8 jgg@mellanox.com 1 1 mm/mmu_notifier.c
+1573017394 e74540b285569d2b1e14fe7aee92297078f235ce sunny.s.zhang@oracle.com 90 44 fs/ocfs2/file.c
+1573017390 169226f7e0d275c1879551f37484ef6683579a5c yang.shi@linux.alibaba.com 0 5 include/linux/mm.h
+1573017390 169226f7e0d275c1879551f37484ef6683579a5c yang.shi@linux.alibaba.com 5 0 include/linux/mm_types.h
+1573017390 169226f7e0d275c1879551f37484ef6683579a5c yang.shi@linux.alibaba.com 18 2 include/linux/page-flags.h
+1573017387 3e8fc0075e24338b1117cdff6a79477427b8dbed mgorman@techsingularity.net 8 2 mm/page_alloc.c
+1573017384 64801d19eba156170340c76f70ade743defcb8ce jhubbard@nvidia.com 1 1 tools/testing/selftests/vm/gup_benchmark.c
+1573017381 7961eee3978475fd9e8626137f88595b1ca05856 shakeelb@google.com 6 6 mm/memcontrol.c
+1571608038 43b7029f475e7497da1de1f4a1742241812bf266 hdegoede@redhat.com 4 0 drivers/hid/i2c-hid/i2c-hid-core.c
