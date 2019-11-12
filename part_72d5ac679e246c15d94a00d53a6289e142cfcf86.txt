@@ -1,0 +1,6 @@
+
+1573431435 31f4f5b495a62c9a8b15b1c3581acd5efeb9af8c torvalds@linux-foundation.org 1 1 Makefile
+1572922150 9393c8de628cf0968d81a17cc11841e42191e041 schmitzmic@gmail.com 2 1 drivers/scsi/scsi_lib.c
+1572965760 8b1062d513880b3ec696945f15dc84d179f1f3c1 mwilck@suse.com 5 3 drivers/scsi/qla2xxx/qla_mid.c
+1572965760 8b1062d513880b3ec696945f15dc84d179f1f3c1 mwilck@suse.com 5 3 drivers/scsi/qla2xxx/qla_os.c
+1572185144 edc1f5432f450b486091b79697c4ddc7f0f3845a damien.lemoal@wdc.com 10 19 drivers/scsi/sd_zbc.c
