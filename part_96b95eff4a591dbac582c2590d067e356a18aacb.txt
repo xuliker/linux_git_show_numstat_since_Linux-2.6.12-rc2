@@ -1,0 +1,11 @@
+
+1573301536 80591e61a0f7e88deaada69844e4a31280c4a38f luc.vanoostenryck@gmail.com 3 0 Makefile
+1569152076 5347291415a33bfa6efa5bb61350b078f200956b yamada.masahiro@socionext.com 2 2 arch/sparc/vdso/Makefile
+1572575610 411c1e6774e2e1f96b1ccce4f119376b94ade3e4 liangwenpeng@huawei.com 1 1 drivers/infiniband/hw/hns/hns_roce_srq.c
+1572575609 531eb45b3da4267fc2a64233ba256c8ffb02edd2 wangsirong@huawei.com 1 1 drivers/infiniband/hw/hns/hns_roce_hem.h
+1572033522 ce8e8087cf3b5b4f19d29248bfc7deef95525490 kaike.wan@intel.com 8 8 drivers/infiniband/hw/hfi1/rc.c
+1572033516 c2be3865a1763c4be39574937e1aae27e917af4d kaike.wan@intel.com 0 1 drivers/infiniband/hw/hfi1/init.c
+1572033516 c2be3865a1763c4be39574937e1aae27e917af4d kaike.wan@intel.com 5 8 drivers/infiniband/hw/hfi1/tid_rdma.c
+1572033516 c2be3865a1763c4be39574937e1aae27e917af4d kaike.wan@intel.com 1 2 drivers/infiniband/hw/hfi1/tid_rdma.h
+1572033510 c1abd865bd125015783286b353abb8da51644f59 kaike.wan@intel.com 27 17 drivers/infiniband/hw/hfi1/tid_rdma.c
+1572636059 a9c3c4c597704b3a1a2b9bef990e7d8a881f6533 james.erwin@intel.com 3 1 drivers/infiniband/hw/hfi1/pcie.c
