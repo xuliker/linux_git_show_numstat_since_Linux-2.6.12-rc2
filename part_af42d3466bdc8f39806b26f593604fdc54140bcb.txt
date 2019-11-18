@@ -1,0 +1,20 @@
+
+1574030850 af42d3466bdc8f39806b26f593604fdc54140bcb torvalds@linux-foundation.org 1 1 Makefile
+1573951697 08e97aec700aeff54c4847f170e566cbd7e14e81 herbert@gondor.apana.org.au 1 4 drivers/char/hw_random/core.c
+1573951697 08e97aec700aeff54c4847f170e566cbd7e14e81 herbert@gondor.apana.org.au 1 3 drivers/char/random.c
+1573202208 a4c2fec16f5e6a5fee4865e6e0e91e2bc2d10f37 wenyang@linux.alibaba.com 2 2 drivers/i2c/i2c-core-of.c
+1573669778 7574c0db2e68c4d0bae9d415a683bdd8b2a761e9 hdegoede@redhat.com 27 1 drivers/i2c/i2c-core-acpi.c
+1573765852 6e1ff0773f49c7d38e8b4a9df598def6afb9f415 qais.yousef@arm.com 1 1 kernel/sched/core.c
+1573079796 c8eafe1495303bfd0eedaa8156b1ee9082ee9642 xiaochen.shen@intel.com 0 4 arch/x86/kernel/cpu/resctrl/rdtgroup.c
+1573046727 d00dbd29814236ad128ff9517e8f7af6b6ef4ba0 ben.dooks@codethink.co.uk 1 1 kernel/events/core.c
+1572940622 697d877849d4b34ab58d7078d6930bad0ef6fc66 alexander.shishkin@linux.intel.com 1 1 kernel/events/core.c
+1572443251 dce5affb94eb54edfff17727a6240a6a5d998666 alexander.shishkin@linux.intel.com 7 0 kernel/events/core.c
+1572443250 f25d8ba9e1b204b90fbf55970ea6e68955006068 alexander.shishkin@linux.intel.com 3 4 kernel/events/core.c
+1572621168 00496fe5e09e8c8bb115540e7e3470553cd07a5c alexander.shishkin@linux.intel.com 1 1 kernel/events/core.c
+1573041064 09f4e8f05d85bfc98fe9227e988a7c1b3ec416ec peterz@infradead.org 9 0 kernel/events/core.c
+1572434309 b90f7c9d2198d789709390280a43e0a46345682b vincent.guittot@linaro.org 20 9 kernel/sched/fair.c
+1569921517 ff51ff84d82aea5a889b85f2b9fb3aa2b8691668 peterz@infradead.org 2 1 kernel/sched/core.c
+1571222296 fc5db58539b49351e76f19817ed1102bf7c712d0 kai.heng.feng@canonical.com 2 0 arch/x86/kernel/early-quirks.c
+1573245264 2f5841349df281ecf8f81cc82d869b8476f0db0b arnd@arndb.de 1 1 kernel/time/ntp.c
+1573228683 4e7120d79edb31e4ee68e6f8421448e4603be1e9 eric.auger@redhat.com 4 2 include/linux/intel-iommu.h
+1572663191 9059f3c9c02714fcb1093cba281efb1a1bb04258 baolu.lu@linux.intel.com 5 2 MAINTAINERS
