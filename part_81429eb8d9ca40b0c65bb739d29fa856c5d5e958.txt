@@ -1,0 +1,19 @@
+
+1574269660 e50be648aaa3da196d4f4ed49d1c5d4ec105fa4a pasha.tatashin@soleen.com 0 17 arch/arm64/include/asm/asm-uaccess.h
+1574269660 e50be648aaa3da196d4f4ed49d1c5d4ec105fa4a pasha.tatashin@soleen.com 22 5 arch/arm64/include/asm/uaccess.h
+1574269660 e50be648aaa3da196d4f4ed49d1c5d4ec105fa4a pasha.tatashin@soleen.com 0 3 arch/arm64/lib/clear_user.S
+1574269660 e50be648aaa3da196d4f4ed49d1c5d4ec105fa4a pasha.tatashin@soleen.com 0 3 arch/arm64/lib/copy_from_user.S
+1574269660 e50be648aaa3da196d4f4ed49d1c5d4ec105fa4a pasha.tatashin@soleen.com 0 3 arch/arm64/lib/copy_in_user.S
+1574269660 e50be648aaa3da196d4f4ed49d1c5d4ec105fa4a pasha.tatashin@soleen.com 0 3 arch/arm64/lib/copy_to_user.S
+1574269660 e50be648aaa3da196d4f4ed49d1c5d4ec105fa4a pasha.tatashin@soleen.com 5 1 arch/arm64/lib/uaccess_flushcache.c
+1574201406 94bb804e1e6f0a9a77acf20d7c70ea141c6c821e pasha.tatashin@soleen.com 1 0 arch/arm64/lib/clear_user.S
+1574201406 94bb804e1e6f0a9a77acf20d7c70ea141c6c821e pasha.tatashin@soleen.com 1 0 arch/arm64/lib/copy_from_user.S
+1574201406 94bb804e1e6f0a9a77acf20d7c70ea141c6c821e pasha.tatashin@soleen.com 1 0 arch/arm64/lib/copy_in_user.S
+1574201406 94bb804e1e6f0a9a77acf20d7c70ea141c6c821e pasha.tatashin@soleen.com 1 0 arch/arm64/lib/copy_to_user.S
+1574210000 9e77716a75bc6cf54965e5ec069ba7c02b32251c luc.vanoostenryck@gmail.com 3 3 kernel/fork.c
+1574143751 dff10bbea4be47bdb615b036c834a275b7c68133 sunke32@huawei.com 1 0 drivers/block/nbd.c
+1573041069 2727315df3f5ffbebcb174eed3153944a858b66f hdegoede@redhat.com 17 0 drivers/gpio/gpiolib-acpi.c
+1573596626 0161a94e2d1c713bd34d72bc0239d87c31747bf7 labbott@redhat.com 1 0 tools/gpio/Build
+1573596626 0161a94e2d1c713bd34d72bc0239d87c31747bf7 labbott@redhat.com 7 3 tools/gpio/Makefile
+1573229267 f88c117b6d6d7e96557b6ee143b26b550fc51076 treding@nvidia.com 3 3 drivers/gpio/gpio-bd70528.c
+1573229266 b0391479ae04dfcbd208b9571c375064caad9a57 treding@nvidia.com 3 3 drivers/gpio/gpio-max77620.c
