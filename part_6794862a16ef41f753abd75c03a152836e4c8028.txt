@@ -1,0 +1,11 @@
+
+1574942552 78f926f72e43e4b974f69688593a9b682089e82a dsterba@suse.com 1 0 fs/btrfs/Kconfig
+1575547947 6e456dca47c5e3b8d8c6bbc4edd1377985d793b5 daniel.lezcano@linaro.org 1 2 MAINTAINERS
+1575546710 9f1fb8046bba73f4a3574286da69814e493c2b94 rui.zhang@intel.com 1 1 MAINTAINERS
+1574523783 87587a57b33342fe3c3f9f4a01a1118f9a5bb75e f.fainelli@gmail.com 0 1 MAINTAINERS
+1573642393 50260614245b09887c197c58732298f02052d61b yuehaibing@huawei.com 1 1 drivers/thermal/Kconfig
+1574902072 969bea5e4d8b96d903637b100640acb92158c4e3 wangkefeng.wang@huawei.com 0 9 scripts/checkpatch.pl
+1574902071 61ff72f4016804b99d28988a57e65c217f01769d wangkefeng.wang@huawei.com 1 2 include/linux/printk.h
+1575584703 ee19545220a8663f0ca58c3427bc08fd6a104a42 sfr@canb.auug.org.au 1 1 kernel/trace/ring_buffer.c
+1575584703 ee19545220a8663f0ca58c3427bc08fd6a104a42 sfr@canb.auug.org.au 3 3 kernel/trace/trace.c
+1574902069 1d9a6159bd04b676cb7d9b13245888fa450cec10 wangkefeng.wang@huawei.com 2 2 kernel/workqueue.c
