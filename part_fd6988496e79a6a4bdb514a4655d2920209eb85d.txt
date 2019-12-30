@@ -1,0 +1,10 @@
+
+1577662156 fd6988496e79a6a4bdb514a4655d2920209eb85d torvalds@linux-foundation.org 1 1 Makefile
+1577040328 98ca480a8f22fdbd768e3dad07024c8d4856576c amir73il@gmail.com 1 1 fs/locks.c
+1576555624 1833e327a5ea1d1f356fbf6ded0760c9ff4b0594 olof@lixom.net 1 0 arch/riscv/mm/cacheflush.c
+1576658876 556f47ac6083d778843e89aa21b1242eee2693ed david.abdurachmanov@gmail.com 1 0 arch/riscv/kernel/entry.S
+1577006764 4d47ce158efb7b145c680e79cd33e3c6fd773de4 luc.vanoostenryck@gmail.com 0 3 arch/riscv/kernel/riscv_ksyms.c
+1577006764 4d47ce158efb7b145c680e79cd33e3c6fd773de4 luc.vanoostenryck@gmail.com 4 0 arch/riscv/lib/uaccess.S
+1576703497 046aca3c25fd28da591f59a2dc1a01848e81e0b2 pc@cjr.nz 1 0 fs/cifs/cifsglob.h
+1576703497 046aca3c25fd28da591f59a2dc1a01848e81e0b2 pc@cjr.nz 54 9 fs/cifs/readdir.c
+1576638291 7935799e041ae10d380d04ea23868240f082bd11 natechancellor@gmail.com 1 1 fs/cifs/smb2file.c
