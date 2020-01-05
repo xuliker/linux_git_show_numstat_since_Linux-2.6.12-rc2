@@ -1,0 +1,21 @@
+
+1573041427 ce644cf3fa06504c2c71ab1b794160d54aaccbc0 sakari.ailus@linux.intel.com 1 1 drivers/staging/media/ipu3/include/intel-ipu3.h
+1577940638 bbcc5672b0063b0e9d65dc8787a4f09c3b5bb5cc paulburton@kernel.org 19 1 arch/mips/include/asm/thread_info.h
+1577296530 b0b5ce1010ffc50015eaec72b0028aaae3f526bb Alexander.Barabash@dell.com 2 1 drivers/dma/ioat/dma.c
+1576847460 24461d9792c2c706092805ff1b067628933441bd peter.ujfalusi@ti.com 1 2 drivers/dma/virt-dma.c
+1576696146 2f42e05b942fe2fbfb9bbc6e34e1dd8c3ce4f3a4 john.stultz@linaro.org 9 3 drivers/dma/k3dma.c
+1575619661 f596cf0d8062cb5d0a4513a8b3afca318c13be10 alobakin@dlink.ru 1 1 arch/mips/Kconfig
+1575619661 f596cf0d8062cb5d0a4513a8b3afca318c13be10 alobakin@dlink.ru 1 1 arch/mips/net/ebpf_jit.c
+1575570198 f8fffebdea752a25757b906f3dffecf1a59a6194 paulburton@kernel.org 1 1 arch/mips/Kconfig
+1575895027 a4a3893114a41e365274d5fab5d9ff5acc235ff0 jouni.hogander@unikie.com 3 0 arch/mips/boot/compressed/Makefile
+1575758603 e5a52a1d15c79bb48a430fb263852263ec1d3f11 hverkuil-cisco@xs4all.nl 13 4 drivers/media/usb/pulse8-cec/pulse8-cec.c
+1576064877 ac479b51f3f4aaa852b5d3f00ecfb9290230cf64 hverkuil-cisco@xs4all.nl 12 8 drivers/media/cec/cec-adap.c
+1575758889 95c29d46ab2a517e4c26d0a07300edca6768db17 hverkuil-cisco@xs4all.nl 12 2 drivers/media/cec/cec-adap.c
+1575445928 cec935ce69fc386f13959578deb40963ebbb85c3 hverkuil-cisco@xs4all.nl 3 3 drivers/media/cec/cec-adap.c
+1575996945 a40c94be2336f3002563c9ae16572143ae3422e2 paul@crapouillou.net 2 1 drivers/dma/dma-jz4780.c
+1575546889 53a256a9b925b47c7e67fc1f16ca41561a7b877c lukas@wunner.de 4 1 include/linux/dmaengine.h
+1574961206 a7effde99b6e8119b28c235eda5419c2e03b3089 joe@perches.com 1 1 drivers/platform/mips/Kconfig
+1575038218 7d2aa4bb90f5f6f1b8de8848c26042403f2d7bf9 vincenzo.frascino@arm.com 0 13 arch/mips/include/asm/vdso/gettimeofday.h
+1575038218 7d2aa4bb90f5f6f1b8de8848c26042403f2d7bf9 vincenzo.frascino@arm.com 20 0 arch/mips/vdso/vgettimeofday.c
+1574868372 87f67cc4c7b81273fd1d9f775192eeb3124562f9 linux@roeck-us.net 2 1 arch/mips/include/asm/cpu-type.h
+1574604451 3b1313eb32c499d46dc4c3e896d19d9564c879c4 vladimir.kondratiev@intel.com 26 1 arch/mips/kernel/cacheinfo.c
