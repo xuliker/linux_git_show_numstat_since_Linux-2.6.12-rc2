@@ -1,0 +1,23 @@
+
+1576427945 cf8ce8b80f8bf9669f6ec4e71e16668430febdac rmk+kernel@armlinux.org.uk 10 3 drivers/i2c/i2c-core-base.c
+1578141570 457677c70c7672a4586b0b8abc396cc1ecdd376d amanieu@gmail.com 1 0 arch/um/Kconfig
+1578141570 457677c70c7672a4586b0b8abc396cc1ecdd376d amanieu@gmail.com 1 1 arch/um/include/asm/ptrace-generic.h
+1578141570 457677c70c7672a4586b0b8abc396cc1ecdd376d amanieu@gmail.com 3 3 arch/um/kernel/process.c
+1578141570 457677c70c7672a4586b0b8abc396cc1ecdd376d amanieu@gmail.com 2 4 arch/x86/um/tls_32.c
+1578141570 457677c70c7672a4586b0b8abc396cc1ecdd376d amanieu@gmail.com 3 4 arch/x86/um/tls_64.c
+1577985853 dd499f7a7e34270208350a849ef103c0b3ae477f amanieu@gmail.com 10 0 kernel/fork.c
+1577985852 c346b94f8c5d1b7d637522c908209de93305a8eb amanieu@gmail.com 1 0 arch/xtensa/Kconfig
+1577985852 c346b94f8c5d1b7d637522c908209de93305a8eb amanieu@gmail.com 4 4 arch/xtensa/kernel/process.c
+1577985851 20bda4ed62f507ed72e30e817b43c65fdba60be7 amanieu@gmail.com 1 0 arch/riscv/Kconfig
+1577985851 20bda4ed62f507ed72e30e817b43c65fdba60be7 amanieu@gmail.com 3 3 arch/riscv/kernel/process.c
+1577985850 d2f36c787b2181561d8b95814f8cdad64b348ad7 amanieu@gmail.com 1 0 arch/parisc/Kconfig
+1577985850 d2f36c787b2181561d8b95814f8cdad64b348ad7 amanieu@gmail.com 4 4 arch/parisc/kernel/process.c
+1577985849 167ee0b82429cb5df272808c7a21370b7c961ab2 amanieu@gmail.com 1 0 arch/arm/Kconfig
+1577985849 167ee0b82429cb5df272808c7a21370b7c961ab2 amanieu@gmail.com 3 3 arch/arm/kernel/process.c
+1577985848 a4376f2fbcc8084832f2f114577c8d68234c7903 amanieu@gmail.com 1 0 arch/arm64/Kconfig
+1577985848 a4376f2fbcc8084832f2f114577c8d68234c7903 amanieu@gmail.com 5 5 arch/arm64/kernel/process.c
+1577985847 3e3c8ca5a351350031f0f3d5ecedf7048b1b9008 amanieu@gmail.com 0 1 arch/arm64/include/asm/unistd.h
+1577985847 3e3c8ca5a351350031f0f3d5ecedf7048b1b9008 amanieu@gmail.com 1 0 arch/arm64/include/uapi/asm/unistd.h
+1578150800 3b722da6672df8392f9c43d7c7e04bddd81d7e37 wahrenst@gmx.net 8 9 drivers/i2c/busses/i2c-bcm2835.c
+1575886807 42052d96ae59a702a0b71fafde69fe2cbee23a0e eugen.hristev@microchip.com 4 2 Documentation/devicetree/bindings/i2c/i2c-at91.txt
+1575886802 b7169a57982383a81d4227712c894e6ec2516e8c eugen.hristev@microchip.com 1 1 drivers/i2c/busses/i2c-at91-core.c
