@@ -1,0 +1,13 @@
+
+1578263818 43108c72cf1d518f3ce62d3b1c8a9ffa38ddc28b pavel@ucw.cz 2 1 drivers/leds/leds-lm3532.c
+1578000575 51eb5a24de9134f6a31a6219d147ea5c388f5200 pavel@ucw.cz 0 1 drivers/leds/leds-rb532.c
+1552244080 30d57d55abd7cc2c08ba032f1dc3079b1b42b9dc pavel@ucw.cz 2 2 drivers/leds/trigger/ledtrig-pattern.c
+1575972512 2424415d25a765d4302ddfb4de75427e9294dc09 bgolaszewski@baylibre.com 7 0 drivers/leds/leds-max77650.c
+1575446202 22cb0a76e0059701bce395bd8832ea94342cbf4a sakari.ailus@linux.intel.com 2 1 drivers/leds/leds-as3645a.c
+1575581101 90a8e82d3ca8c1f85ac63f4a94c9b034f05af4ee jacek.anaszewski@gmail.com 9 1 drivers/leds/leds-gpio.c
+1579106138 1292e972fff2b2d81e139e0c2fe5f50249e78c58 esyr@redhat.com 3 1 fs/io_uring.c
+1579106138 1292e972fff2b2d81e139e0c2fe5f50249e78c58 esyr@redhat.com 2 1 include/uapi/linux/io_uring.h
+1579200257 3bf8bdcf3bada771eb12b57f2a30caee69e8ab8d linux@roeck-us.net 41 27 drivers/hwmon/hwmon.c
+1575587819 cf3ca1877574a306c0207cbf7fdf25419d9229df luuk.paulussen@alliedtelesis.co.nz 3 2 drivers/hwmon/adt7475.c
+1575021365 e51a7dda299815e92f43960d620cdfc8dfc144f2 gilles.buloz@kontron.com 67 4 drivers/hwmon/nct7802.c
+1574874574 7713e62c8623c54dac88d1fa724aa487a38c3efb gilles.buloz@kontron.com 2 2 drivers/hwmon/nct7802.c
