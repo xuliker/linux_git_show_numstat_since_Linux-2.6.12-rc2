@@ -1,0 +1,18 @@
+
+1581502174 d91771848f0ae2eec250a9345926a1a3558fa943 geert+renesas@glider.be 1 1 arch/arm64/kernel/time.c
+1581362461 74a44bed8d93782affb707a33469bda7052b4207 robin.murphy@arm.com 1 0 arch/arm64/kernel/kaslr.c
+1581353417 0ca2c0319a7bce0e152b51b866979d62dc261e48 john.garry@huawei.com 1 1 drivers/perf/arm_smmuv3_pmu.c
+1580189061 a924eae75106258c0797706a0578c5af499c9ff5 yash.shah@sifive.com 3 3 drivers/gpio/gpio-sifive.c
+1579631868 2d5a2f913b658a7ae984773a63318ed4daadf4af swboyd@chromium.org 4 0 drivers/spmi/spmi-pmic-arb.c
+1579990450 c3afa804c58e5c30ac63858b527fffadc88bce82 pthomas8589@gmail.com 3 2 drivers/gpio/gpio-xilinx.c
+1579810851 345d52c184dc7de98cff63f1bfa6f90e9db19809 cai@lca.pw 5 1 arch/arm64/include/asm/spinlock.h
+1580985778 fca3d33d8ad61eb53eca3ee4cac476d1e31b9008 will@kernel.org 7 0 arch/arm64/kernel/process.c
+1579881087 2c614c1194f2803750c14b751871bd168dcc8054 mcroce@redhat.com 2 4 arch/arm64/kernel/process.c
+1580118575 5cb7a1113f94cec20ff16d3981b94b7fdd8d73fa anshuman.khandual@arm.com 0 4 arch/arm64/include/asm/exception.h
+1579517186 8131b73b22c25e57e926874bb284f61cc3f8ac5e warthog618@gmail.com 0 1 drivers/gpio/gpiolib.c
+1580301021 4d0cabbb8b6a6cb010c19e8a3da2da5e0aaf5ef0 axel.lin@ingics.com 0 10 drivers/gpio/gpio-bd71828.c
+1580227405 e4f41de77f96e199151117646ac6df4f18301c79 andriy.shevchenko@linux.intel.com 14 14 MAINTAINERS
+1580735776 62adc6f33d6f3c0f4831389dec0f82ea6e9a489f bgolaszewski@baylibre.com 3 3 drivers/gpio/gpiolib.c
+1580735027 91b4ea5fc57c6a0a1beea7056dc2f83e2ec6968c bgolaszewski@baylibre.com 2 0 drivers/gpio/gpiolib.c
+1580735017 d99f88761ba0d135677afe546ffdd26c58e5644d bgolaszewski@baylibre.com 23 4 drivers/gpio/gpiolib.c
+1579258896 2343d1529aff8b552589f622c23932035ed7a05d Jason@zx2c4.com 0 4 crypto/Kconfig
