@@ -1,0 +1,161 @@
+
+1581887819 11a48a5a18c63fd7621bb050228cebf13566e4d8 torvalds@linux-foundation.org 1 1 Makefile
+1581721879 d65d87a07476aa17df2dcb3ad18c22c154315bec tytso@mit.edu 4 10 fs/ext4/super.c
+1581728592 3dbae15538972c9e1578cb216964c2840361a538 gustavo@embeddedor.com 4 4 drivers/input/mouse/cyapa_gen5.c
+1581728531 94bef5d57992f9e987a9b7e8fa736ee204ac4f7a gustavo@embeddedor.com 2 2 drivers/input/keyboard/tca6416-keypad.c
+1581728506 3d87c75d84e20d8812dbfba87e46ffca29d75d40 gustavo@embeddedor.com 1 1 drivers/input/keyboard/gpio_keys_polled.c
+1580999274 685eff513183d6d64a5f413531e683d23b8b198b jgg@mellanox.com 1 1 drivers/infiniband/hw/mlx5/main.c
+1581677282 f25372ffc3f6c2684b57fb718219137e6ee2b64c yi.zhang@redhat.com 1 1 drivers/nvme/host/core.c
+1581525665 fa46c6fb5d61b1f17b06d7c6ef75478b576304c7 kbusch@kernel.org 18 5 drivers/nvme/host/pci.c
+1581379305 97b2512ad000a409b4073dd1a71e4157d76675cb nigel.kirkland@broadcom.com 5 5 drivers/nvme/host/core.c
+1581379305 97b2512ad000a409b4073dd1a71e4157d76675cb nigel.kirkland@broadcom.com 1 1 drivers/nvme/host/rdma.c
+1581379305 97b2512ad000a409b4073dd1a71e4157d76675cb nigel.kirkland@broadcom.com 1 1 drivers/nvme/host/tcp.c
+1581359838 2d570a7c0251c594489a2c16b82b14ae30345c03 anton@lightbitslabs.com 6 1 drivers/nvme/host/tcp.c
+1581560087 85db6b7ae65f33be4bb44f1c28261a3faa126437 lsahlber@redhat.com 34 1 fs/cifs/smb2ops.c
+1581568628 2c6251ad91afc2e3c671c904702e8d121d3d50c0 stfrench@microsoft.com 1 0 fs/cifs/smb2ops.c
+1581642467 5179a9dfa9440c1781816e2c9a183d1d2512dc61 benjamin.tissoires@redhat.com 1 1 drivers/input/mouse/synaptics.c
+1581642370 b8a3d819f872e0a3a0a6db0dbbcd48071042fb98 agrawalgaurav@gnome.org 1 0 drivers/input/mouse/synaptics.c
+1581641955 bf502391353b928e63096127e5fd8482080203f5 lyude@redhat.com 1 0 drivers/input/mouse/synaptics.c
+1581641820 a1b9b65edfd8f195dafaebf68f7d321eb9b3ab82 gustavo@embeddedor.com 1 1 drivers/input/keyboard/gpio_keys.c
+1581641808 cfb8d7811f815d17babadd87436300261fd54de7 gustavo@embeddedor.com 1 1 drivers/input/keyboard/goldfish_events.c
+1581575901 c96dceeabf765d0b1b1f29c3bf50a5c01315b820 yi.zhang@huawei.com 21 4 fs/jbd2/commit.c
+1581575900 6a66a7ded12baa6ebbb2e3e82f8cb91382814839 yi.zhang@huawei.com 15 28 fs/jbd2/commit.c
+1581575900 6a66a7ded12baa6ebbb2e3e82f8cb91382814839 yi.zhang@huawei.com 6 4 fs/jbd2/transaction.c
+1581383872 af133ade9a40794a37104ecbcc2827c0ea373a3c luoshijie1@huawei.com 1 0 fs/ext4/block_validity.c
+1581345796 48a34311953d921235f4d7bbd2111690d2e469cf jack@suse.cz 8 6 fs/ext4/dir.c
+1581345796 48a34311953d921235f4d7bbd2111690d2e469cf jack@suse.cz 4 1 fs/ext4/ext4.h
+1581345796 48a34311953d921235f4d7bbd2111690d2e469cf jack@suse.cz 12 0 fs/ext4/inode.c
+1581345796 48a34311953d921235f4d7bbd2111690d2e469cf jack@suse.cz 7 0 fs/ext4/namei.c
+1581028501 4f97a68192bd33b9963b400759cef0ca5963af00 tytso@mit.edu 10 8 fs/ext4/super.c
+1580382708 46d36880d1c6f9b9a0cbaf90235355ea1f4cab96 jack@suse.cz 2 8 fs/ext4/super.c
+1580076214 14c9ca0583eee8df285d68a0e6ec71053efd2228 adilger@dilger.ca 7 5 fs/ext4/mmp.c
+1581494811 1dd017882e01d2fcd9c5dbbf1eb376211111c393 leonro@mellanox.com 9 15 drivers/infiniband/core/security.c
+1581603127 4ec31cb6241d95879aac337cc6b50c45dd10cfcb colyli@suse.de 2 5 drivers/md/bcache/journal.c
+1581603126 309cc719a2c869b71a7388209a0a80d4284d98fd colyli@suse.de 0 17 drivers/md/bcache/super.c
+1581603125 0b96da639a4874311e9b5156405f69ef9fc3bef8 colyli@suse.de 16 2 drivers/md/bcache/alloc.c
+1581603125 0b96da639a4874311e9b5156405f69ef9fc3bef8 colyli@suse.de 13 0 drivers/md/bcache/btree.c
+1581492393 8ac0e6641c7ca14833a2a8c6f13d8e0a435e535c yanjunz@mellanox.com 4 4 drivers/infiniband/sw/rxe/rxe_comp.c
+1581492395 9b6d3bbc1335404b331f4f11dc896066bdf1c752 leonro@mellanox.com 2 2 drivers/infiniband/hw/mlx5/main.c
+1581492394 9ea04d0df6e6541c6736b43bff45f1e54875a1db yonatanc@mellanox.com 3 2 drivers/infiniband/core/user_mad.c
+1581492392 a8af8694a5e8ddaaef4bd7b6426c12b7759c846c yishaih@mellanox.com 28 23 drivers/infiniband/hw/mlx5/devx.c
+1581492391 a0767da7774d91a668f9c223cec3e76172cd833b michaelgur@mellanox.com 1 0 drivers/infiniband/core/uverbs_std_types.c
+1581509019 4d59588c09f2a2daedad2a544d4d1b602ab3a8af rrichter@marvell.com 1 2 drivers/edac/edac_mc_sysfs.c
+1581528318 216aa145aaf379a50b17afc812db71d893bd6683 rrichter@marvell.com 3 9 drivers/edac/edac_mc.c
+1581528318 216aa145aaf379a50b17afc812db71d893bd6683 rrichter@marvell.com 3 12 drivers/edac/edac_mc_sysfs.c
+1581543108 f52aa79df43c4509146140de0241bc21a4a3b4c7 sorenson@redhat.com 2 2 fs/cifs/cifsacl.c
+1581543108 f52aa79df43c4509146140de0241bc21a4a3b4c7 sorenson@redhat.com 1 1 fs/cifs/connect.c
+1581543108 f52aa79df43c4509146140de0241bc21a4a3b4c7 sorenson@redhat.com 1 1 fs/cifs/inode.c
+1581314586 120881b9e888689cbdb90a1dd1689684d8bc95f3 mchehab+huawei@kernel.org 9 3 Documentation/{virtual/guest-halt-polling.txt => virt/guest-halt-polling.rst}
+1581314586 120881b9e888689cbdb90a1dd1689684d8bc95f3 mchehab+huawei@kernel.org 1 0 Documentation/virt/index.rst
+1581314585 033741c6c997e60f9c2de280925519d3ccff5366 mchehab+huawei@kernel.org 2 0 Documentation/virt/kvm/index.rst
+1581314585 033741c6c997e60f9c2de280925519d3ccff5366 mchehab+huawei@kernel.org 3 0 Documentation/virt/kvm/{review-checklist.txt => review-checklist.rst}
+1581314584 6012d9a9fa693e608f4de3c5a13741794dc4b2c7 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314584 6012d9a9fa693e608f4de3c5a13741794dc4b2c7 mchehab+huawei@kernel.org 128 95 Documentation/virt/kvm/{timekeeping.txt => timekeeping.rst}
+1581314583 a9700af64e1bb28fc18fd362307bc787e10e340b mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314583 a9700af64e1bb28fc18fd362307bc787e10e340b mchehab+huawei@kernel.org 8 5 Documentation/virt/kvm/{s390-diag.txt => s390-diag.rst}
+1581314582 c849d8613991292d5f945956780bb8134cbce7ed mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314582 c849d8613991292d5f945956780bb8134cbce7ed mchehab+huawei@kernel.org 18 8 Documentation/virt/kvm/{ppc-pv.txt => ppc-pv.rst}
+1581314581 320f3f74d9a1a4a193d515de0549eafc82369f47 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314581 320f3f74d9a1a4a193d515de0549eafc82369f47 mchehab+huawei@kernel.org 21 16 Documentation/virt/kvm/{nested-vmx.txt => nested-vmx.rst}
+1581314580 037d1f92eff908f794644d49435d8849a3c10461 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314580 037d1f92eff908f794644d49435d8849a3c10461 mchehab+huawei@kernel.org 48 14 Documentation/virt/kvm/{mmu.txt => mmu.rst}
+1581314579 75e7fcdb4a6f394a6644ee1cfe193284945003b5 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314579 75e7fcdb4a6f394a6644ee1cfe193284945003b5 mchehab+huawei@kernel.org 243 0 Documentation/virt/kvm/locking.rst
+1581314579 75e7fcdb4a6f394a6644ee1cfe193284945003b5 mchehab+huawei@kernel.org 0 215 Documentation/virt/kvm/locking.txt
+1581314578 5a0af4806c25aff4b2f8d2e24d635840ec58a87b mchehab+huawei@kernel.org 73 56 Documentation/virt/kvm/{hypercalls.txt => hypercalls.rst}
+1581314578 5a0af4806c25aff4b2f8d2e24d635840ec58a87b mchehab+huawei@kernel.org 2 0 Documentation/virt/kvm/index.rst
+1581314577 cec0e48be339f06879d971702f206e9683956ef1 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/arm/index.rst
+1581314577 cec0e48be339f06879d971702f206e9683956ef1 mchehab+huawei@kernel.org 31 15 Documentation/virt/kvm/arm/{psci.txt => psci.rst}
+1581314576 69bf758bc8a4875a361d7c703995248d808fa24d mchehab+huawei@kernel.org 19 9 Documentation/virt/kvm/arm/{hyp-abi.txt => hyp-abi.rst}
+1581314576 69bf758bc8a4875a361d7c703995248d808fa24d mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/arm/index.rst
+1581314575 106ee47dc633a930bb61290713217803aee194e7 mchehab+huawei@kernel.org 1963 1387 Documentation/virt/kvm/{api.txt => api.rst}
+1581314575 106ee47dc633a930bb61290713217803aee194e7 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314574 d3b52e4976cec9c830bc14bd38f043e8ca00ba68 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314574 d3b52e4976cec9c830bc14bd38f043e8ca00ba68 mchehab+huawei@kernel.org 97 55 Documentation/virt/kvm/devices/{xive.txt => xive.rst}
+1581314573 5cccf3797435008b7cd8d9d98d37db3962368710 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314573 5cccf3797435008b7cd8d9d98d37db3962368710 mchehab+huawei@kernel.org 22 6 Documentation/virt/kvm/devices/{xics.txt => xics.rst}
+1581314572 6c972ba685d5849009e0747cf8799adc3b8d5f11 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314572 6c972ba685d5849009e0747cf8799adc3b8d5f11 mchehab+huawei@kernel.org 126 80 Documentation/virt/kvm/devices/{vm.txt => vm.rst}
+1581314571 aff7aeea548312cacd146e80efb944bd8f2c0faa mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314571 aff7aeea548312cacd146e80efb944bd8f2c0faa mchehab+huawei@kernel.org 15 10 Documentation/virt/kvm/devices/{vfio.txt => vfio.rst}
+1581314570 e777a5bd98c689f1ee15ebdbce739497e7d92f70 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314570 e777a5bd98c689f1ee15ebdbce739497e7d92f70 mchehab+huawei@kernel.org 114 0 Documentation/virt/kvm/devices/vcpu.rst
+1581314570 e777a5bd98c689f1ee15ebdbce739497e7d92f70 mchehab+huawei@kernel.org 0 76 Documentation/virt/kvm/devices/vcpu.txt
+1581314569 e944743003617aeaebebc33adef5de093e701766 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314569 e944743003617aeaebebc33adef5de093e701766 mchehab+huawei@kernel.org 40 30 Documentation/virt/kvm/devices/{s390_flic.txt => s390_flic.rst}
+1581314568 05c47036c62ea65a8f8aeaef5021c7220488a664 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314568 05c47036c62ea65a8f8aeaef5021c7220488a664 mchehab+huawei@kernel.org 8 3 Documentation/virt/kvm/devices/{mpic.txt => mpic.rst}
+1581314567 bf6154dba0a7d4defd3e8c9c85d1933f442ef01b mchehab+huawei@kernel.org 59 30 Documentation/virt/kvm/devices/{arm-vgic.txt => arm-vgic.rst}
+1581314567 bf6154dba0a7d4defd3e8c9c85d1933f442ef01b mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314566 c0d1c8a0af591c139fe7339bf6cdf0e766037cd4 mchehab+huawei@kernel.org 86 46 Documentation/virt/kvm/devices/{arm-vgic-v3.txt => arm-vgic-v3.rst}
+1581314566 c0d1c8a0af591c139fe7339bf6cdf0e766037cd4 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/devices/index.rst
+1581314565 d371c011fc5e16bc50985bab94b7141204c52153 mchehab+huawei@kernel.org 67 39 Documentation/virt/kvm/devices/{arm-vgic-its.txt => arm-vgic-its.rst}
+1581314565 d371c011fc5e16bc50985bab94b7141204c52153 mchehab+huawei@kernel.org 10 0 Documentation/virt/kvm/devices/index.rst
+1581314565 d371c011fc5e16bc50985bab94b7141204c52153 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314564 263a19ff21c4a10f0a2d77c21feb3a641e5127f0 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314564 263a19ff21c4a10f0a2d77c21feb3a641e5127f0 mchehab+huawei@kernel.org 92 55 Documentation/virt/kvm/{msr.txt => msr.rst}
+1581314563 2756df60d09748b1ccdc568690f9c4112353c920 mchehab+huawei@kernel.org 47 43 Documentation/virt/kvm/{halt-polling.txt => halt-polling.rst}
+1581314563 2756df60d09748b1ccdc568690f9c4112353c920 mchehab+huawei@kernel.org 1 0 Documentation/virt/kvm/index.rst
+1581314562 c09708ccb4612890407c10a408624c229bf91b76 mchehab+huawei@kernel.org 29 42 Documentation/virt/uml/user_mode_linux.rst
+1581314561 72f8a49dc8b9e97a7986b0e6eced00a1a2e28996 mchehab+huawei@kernel.org 9 53 Documentation/virt/uml/user_mode_linux.rst
+1581314560 7d94ab169b8f047ad61ff6ea8e3e7602d0516623 mchehab+huawei@kernel.org 1 0 Documentation/virt/index.rst
+1581314560 7d94ab169b8f047ad61ff6ea8e3e7602d0516623 mchehab+huawei@kernel.org 786 915 Documentation/virt/uml/{UserModeLinux-HOWTO.txt => user_mode_linux.rst}
+1581314559 7bd460fc1dfa7d82d99493fc5d7b5f9c7b679af4 mchehab+huawei@kernel.org 10 0 Documentation/virt/kvm/arm/index.rst
+1581314559 7bd460fc1dfa7d82d99493fc5d7b5f9c7b679af4 mchehab+huawei@kernel.org 2 0 Documentation/virt/kvm/index.rst
+1581510430 9446e6fce0ab9dfd44b96f630b4e3a0a0ab879fd pbonzini@redhat.com 1 1 arch/x86/kvm/x86.c
+1581085633 ff479025349cef3106e165a761281851fd018282 eric.auger@redhat.com 0 20 tools/testing/selftests/kvm/include/x86_64/processor.h
+1581097062 f6ab0107a4942dbf9a5cf0cca3f37e184870a360 sean.j.christopherson@intel.com 1 1 arch/x86/kvm/mmu/paging_tmpl.h
+1581097061 148d735eb55d32848c3379e460ce365f2c1cbe4b sean.j.christopherson@intel.com 3 0 arch/x86/kvm/vmx/vmx.c
+1581088965 ffdbd50dca67b1f12d6f531a0eaf2028d793e54f linmiaohe@huawei.com 13 3 arch/x86/include/asm/kvm_host.h
+1581088965 ffdbd50dca67b1f12d6f531a0eaf2028d793e54f linmiaohe@huawei.com 3 2 arch/x86/kvm/vmx/nested.c
+1581027274 7a02674d154d38da33517855b6d1d4cfc27a9a04 sean.j.christopherson@intel.com 13 0 arch/x86/kvm/mmu.h
+1581027274 7a02674d154d38da33517855b6d1d4cfc27a9a04 sean.j.christopherson@intel.com 5 6 arch/x86/kvm/mmu/mmu.c
+1581027274 7a02674d154d38da33517855b6d1d4cfc27a9a04 sean.j.christopherson@intel.com 1 1 arch/x86/kvm/x86.c
+1581088927 331ca0f89fc206f06b341f7fe037d7d8662b1b9f linmiaohe@huawei.com 0 3 arch/x86/kvm/lapic.c
+1581089271 20796447a1abee9afd0c136d5c60651bfbaf46b8 linmiaohe@huawei.com 0 1 arch/x86/kvm/x86.c
+1580986030 1ea2cc0cd7c676668841f63c915fb55244f0268c eric.auger@redhat.com 1 0 tools/testing/selftests/kvm/Makefile
+1580986030 1ea2cc0cd7c676668841f63c915fb55244f0268c eric.auger@redhat.com 79 0 tools/testing/selftests/kvm/x86_64/svm_vmcall_test.c
+1580986029 20ba262f8631aadefa87921481fe569ecc387f20 eric.auger@redhat.com 1 1 tools/testing/selftests/kvm/Makefile
+1580986029 20ba262f8631aadefa87921481fe569ecc387f20 eric.auger@redhat.com 20 0 tools/testing/selftests/kvm/include/x86_64/processor.h
+1580986029 20ba262f8631aadefa87921481fe569ecc387f20 eric.auger@redhat.com 297 0 tools/testing/selftests/kvm/include/x86_64/svm.h
+1580986029 20ba262f8631aadefa87921481fe569ecc387f20 eric.auger@redhat.com 38 0 tools/testing/selftests/kvm/include/x86_64/svm_util.h
+1580986029 20ba262f8631aadefa87921481fe569ecc387f20 eric.auger@redhat.com 161 0 tools/testing/selftests/kvm/lib/x86_64/svm.c
+1580986028 1ecaabed4e4a0d1027eadd54eb0e179350a79f99 eric.auger@redhat.com 4 4 tools/testing/selftests/kvm/include/x86_64/processor.h
+1580986028 1ecaabed4e4a0d1027eadd54eb0e179350a79f99 eric.auger@redhat.com 3 3 tools/testing/selftests/kvm/lib/x86_64/vmx.c
+1581499691 1b9867eb6120db85f8dca8ff42789d9ec9ee16a5 anand.jain@oracle.com 1 1 fs/btrfs/sysfs.c
+1581499690 a013d141eceee0f7747385e900da2858141aa0f3 anand.jain@oracle.com 15 0 fs/btrfs/sysfs.c
+1581499690 a013d141eceee0f7747385e900da2858141aa0f3 anand.jain@oracle.com 1 0 fs/btrfs/volumes.h
+1581078189 28553fa992cb28be6a65566681aac6cafabb4f2d fdmanana@suse.com 8 0 fs/btrfs/inode.c
+1580919148 10a3a3edc5b89a8cd095bc63495fb1e0f42047d9 dsterba@suse.com 2 0 fs/btrfs/super.c
+1580919136 e8294f2f6aa6208ed0923aa6d70cea3be178309a dsterba@suse.com 1 0 fs/btrfs/disk-io.c
+1580479567 ac05ca913e9f3871126d61da275bfe8516ff01ca fdmanana@suse.com 11 0 fs/btrfs/extent_map.c
+1580589518 f311ade3a7adf31658ed882aaab9f9879fdccef7 wenwen@cs.uga.edu 5 0 fs/btrfs/ref-verify.c
+1581071766 a06230b62b898e51cfb1de256b2042a09a691f58 oupton@google.com 16 13 arch/x86/kvm/x86.c
+1581071765 684c0422da71da0cd81319c90b8099b563b13da4 oupton@google.com 28 0 arch/x86/kvm/vmx/nested.c
+1581071764 307f1cfa269657c63cfe2c932386fcc24684d9dd oupton@google.com 8 0 arch/x86/kvm/x86.c
+1581093250 1f03b2bcd0d7cad4af107339cdef80ed377fe2a8 maz@kernel.org 0 12 virt/kvm/arm/vgic/vgic-mmio.c
+1581093250 1f03b2bcd0d7cad4af107339cdef80ed377fe2a8 maz@kernel.org 13 3 virt/kvm/kvm_main.c
+1581442858 bab0c318ba3da32483da8aad37b9ef98fd8edafb pbonzini@redhat.com 1 1 arch/x86/kvm/svm.c
+1581442858 bab0c318ba3da32483da8aad37b9ef98fd8edafb pbonzini@redhat.com 1 1 arch/x86/kvm/vmx/vmx.c
+1581084869 663218a3e715fd9339d143a3e10088316b180f4f krishna2@chelsio.com 2 3 drivers/infiniband/sw/siw/siw_cm.c
+1580807550 d219face9059f38ad187bde133451a2a308fdb7c krishna2@chelsio.com 4 0 drivers/infiniband/hw/cxgb4/cm.c
+1580807550 d219face9059f38ad187bde133451a2a308fdb7c krishna2@chelsio.com 2 2 drivers/infiniband/hw/cxgb4/qp.c
+1580059028 10189e8e6fe8dcde13435f9354800429c4474fb1 markz@mellanox.com 6 3 drivers/infiniband/hw/mlx5/qp.c
+1580058900 a72f4ac1d778f7bde93dfee69bfc23377ec3d74f avihaih@mellanox.com 7 8 drivers/infiniband/core/uverbs_cmd.c
+1581340240 f92e48718889b3d49cee41853402aa88cac84a6b kaike.wan@intel.com 51 33 drivers/infiniband/sw/rdmavt/qp.c
+1581340233 be8638344c70bf492963ace206a9896606b6922d mike.marciniszyn@intel.com 32 20 drivers/infiniband/hw/hfi1/file_ops.c
+1581340233 be8638344c70bf492963ace206a9896606b6922d mike.marciniszyn@intel.com 4 1 drivers/infiniband/hw/hfi1/hfi.h
+1581340233 be8638344c70bf492963ace206a9896606b6922d mike.marciniszyn@intel.com 0 3 drivers/infiniband/hw/hfi1/user_exp_rcv.c
+1581340233 be8638344c70bf492963ace206a9896606b6922d mike.marciniszyn@intel.com 12 5 drivers/infiniband/hw/hfi1/user_sdma.c
+1581340226 a70ed0f2e6262e723ae8d70accb984ba309eacc2 kaike.wan@intel.com 2 0 drivers/infiniband/hw/hfi1/user_exp_rcv.c
+1580900730 8a4f300b978edbbaa73ef9eca660e45eb9f13873 kamalheib1@gmail.com 2 0 drivers/infiniband/hw/hfi1/affinity.c
+1581357443 557d0841bc73fbd0da643b6647781bb1f790a84b wsa+renesas@sang-engineering.com 5 3 drivers/input/mouse/psmouse-smbus.c
+1581288210 d0c5e7d4f5e5b76eeb53d098157d5b1f62ebb407 luca@z3ntu.xyz 2 1 Documentation/devicetree/bindings/input/ilitek,ili2xxx.txt
+1581288210 d0c5e7d4f5e5b76eeb53d098157d5b1f62ebb407 luca@z3ntu.xyz 32 0 drivers/input/touchscreen/ili210x.c
+1581288156 fbd1ec000213c8b457dd4fb15b6de9ba02ec5482 luca@z3ntu.xyz 1 1 drivers/input/touchscreen/ili210x.c
+1581327494 3f6166aaf19902f2f3124b5426405e292e8974dd petr.pavlu@suse.com 5 1 fs/cifs/cifsfs.c
+1579012831 e0354d147e5889b5faa12e64fa38187aed39aad4 colin.king@canonical.com 1 1 drivers/char/ipmi/ipmb_dev_int.c
+1577119339 6b8526d3abc02c08a2f888e8c20b7ac9e5776dfe cminyard@mvista.com 7 3 drivers/char/ipmi/ipmi_ssif.c
+1576090915 380665becdeeb4f455c23582b7f32e6b3cea27d2 vijaykhemka@fb.com 1 1 drivers/char/ipmi/ipmb_dev_int.c
+1576090564 042f057fe2dcf38682d85d9f88df00d1a8d45dbd vijaykhemka@fb.com 4 0 Documentation/driver-api/ipmb.rst
+1576090564 042f057fe2dcf38682d85d9f88df00d1a8d45dbd vijaykhemka@fb.com 29 0 drivers/char/ipmi/ipmb_dev_int.c
