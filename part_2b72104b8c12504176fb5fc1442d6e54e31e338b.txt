@@ -1,0 +1,13 @@
+
+1582049578 6551d5c56eb0d02db2274d7a8d26c333deba7fd2 torvalds@linux-foundation.org 10 8 fs/pipe.c
+1581328841 dc10e4181c05a2315ddc375e963b7c763b5ee0df roberto.sassu@huawei.com 2 0 drivers/char/tpm/tpm2-cmd.c
+1580818587 faaca0a0d48e7b122f6e7e2521f4f6fc487d0451 jarkko.sakkinen@linux.intel.com 5 3 drivers/char/tpm/Makefile
+1580818587 faaca0a0d48e7b122f6e7e2521f4f6fc487d0451 jarkko.sakkinen@linux.intel.com 0 0 drivers/char/tpm/{tpm_tis_spi.c => tpm_tis_spi_main.c}
+1579269740 52e29e331070cd7d52a64cbf1b0958212a340e28 josef@toxicpanda.com 0 2 fs/btrfs/inode.c
+1581704461 2c2a7552dd6465e8fde6bc9cccf8d66ed1c1eb72 pakki001@umn.edu 4 2 fs/ecryptfs/crypto.c
+1581629154 f8e48a8408f5e23dd514916fda128a87e34f8ffd code@tyhicks.com 1 1 fs/ecryptfs/ecryptfs_kernel.h
+1581629154 f8e48a8408f5e23dd514916fda128a87e34f8ffd code@tyhicks.com 1 1 fs/ecryptfs/main.c
+1581629154 f8e48a8408f5e23dd514916fda128a87e34f8ffd code@tyhicks.com 1 1 fs/ecryptfs/messaging.c
+1581550503 726464596b5d3f10b7c655129a62168e5c17d60c tyhicks@canonical.com 2 2 MAINTAINERS
+1566279234 b4a81b87a4cfe2bb26a4a943b748d96a43ef20e8 wenwen@cs.uga.edu 1 0 fs/ecryptfs/messaging.c
+1566278200 fe2e082f5da5b4a0a92ae32978f81507ef37ec66 wenwen@cs.uga.edu 1 1 fs/ecryptfs/keystore.c
