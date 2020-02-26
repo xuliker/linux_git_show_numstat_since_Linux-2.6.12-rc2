@@ -1,0 +1,18 @@
+
+1582391057 3234f4ed3066a58cd5ce8edcf752fa4fe0c95cb5 paulburton@kernel.org 5 0 CREDITS
+1582391057 3234f4ed3066a58cd5ce8edcf752fa4fe0c95cb5 paulburton@kernel.org 2 4 MAINTAINERS
+1581069165 8458ca147c204e7db124e8baa8fede219006e80d zong.li@sifive.com 15 11 arch/riscv/mm/kasan_init.c
+1581069164 a0a31fd84f8f66828790d860545d4167777d58c6 zong.li@sifive.com 16 11 arch/riscv/mm/kasan_init.c
+1581503663 e7167043ee508739fc9c5030494f94bea48cee23 damien.lemoal@wdc.com 2 0 arch/riscv/boot/.gitignore
+1581432817 11479e8e3cd896673a15af21cd0f145a4752f01a paul@crapouillou.net 9 8 arch/mips/boot/dts/ingenic/jz4740.dtsi
+1581432817 11479e8e3cd896673a15af21cd0f145a4752f01a paul@crapouillou.net 9 8 arch/mips/boot/dts/ingenic/jz4780.dtsi
+1581855028 eb41113870c94dd7e519c69184efc171b7327699 zhouyanjie@wanyeetech.com 2 4 arch/mips/boot/dts/ingenic/x1000.dtsi
+1581973909 72cf3b3df423c1bbd8fa1056fed009d3a260f8a9 natechancellor@gmail.com 1 1 arch/mips/vdso/Makefile
+1580641322 6a1ce99dc4bde564e4a072936f9d41f4a439140e anup.patel@wdc.com 2 2 arch/riscv/kernel/traps.c
+1578539860 c68a9032299e837b56d356de9250c93094f7e0e3 greentime.hu@sifive.com 12 0 arch/riscv/include/asm/csr.h
+1578539860 c68a9032299e837b56d356de9250c93094f7e0e3 greentime.hu@sifive.com 6 0 arch/riscv/kernel/head.S
+1580674762 bef8e2dfceed6daeb6ca3e8d33f9c9d43b926580 christophe.jaillet@wanadoo.fr 1 1 arch/mips/kernel/vpe.c
+1581456295 97e914b7de3c943011779b979b8093fdc0d85722 mark.tomlinson@alliedtelesis.co.nz 3 1 arch/mips/include/asm/sync.h
+1581449074 976c23af3ee5bd3447a7bfb6c356ceb4acf264a6 kamensky@cisco.com 7 1 arch/mips/vdso/Makefile
+1581799116 07015d7a103c4420b69a287b8ef4d2535c0f4106 paulburton@kernel.org 17 2 arch/mips/vdso/Makefile
+1581449073 d3f703c4359ff06619b2322b91f69710453e6b6d kamensky@cisco.com 1 0 arch/mips/vdso/Makefile
