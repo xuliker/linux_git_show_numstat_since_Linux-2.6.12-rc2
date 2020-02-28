@@ -1,0 +1,23 @@
+
+1582739098 eabc8bcb292fb9a5757b0c8ab7751f41b0a104f8 masahiroy@kernel.org 1 1 Documentation/kbuild/makefiles.rst
+1582398274 c473a8d03ea8e03ca9d649b0b6d72fbcf6212c05 masahiroy@kernel.org 2 1 Makefile
+1582398273 964a596db8db8c77c9903dd05655696696e6b3ad masahiroy@kernel.org 1 1 Makefile
+1582398272 fd63fab48f143f73b534821408a303241ed174f9 masahiroy@kernel.org 1 1 scripts/Makefile.lib
+1582398271 7a04960560640ac5b0b89461f7757322b57d0c7a masahiroy@kernel.org 2 2 scripts/Makefile.lib
+1582074919 eccbde4f6c2b6ebc52b3e9103e6f2f73f5a9f79a masahiroy@kernel.org 0 3 Documentation/kbuild/makefiles.rst
+1581568857 505b12b3861bc79d1b81c815faaf4910469a7006 rdunlap@infradead.org 1 0 Makefile
+1582329759 adc10f5b0a03606e30c704cff1f0283a696d0260 keescook@chromium.org 1 1 Documentation/sphinx/parallel-wrapper.sh
+1582318653 53ace1195263b30fd593677dd67559e879ed9aa2 steve@sk2.org 0 1 Documentation/x86/index.rst
+1582580337 756125289285f6e55a03861bf4b6257aa3d19a93 paul@paul-moore.com 21 19 kernel/audit.c
+1582421807 2ad3e17ebf94b7b7f3f64c050ff168f9915345eb paul@paul-moore.com 39 32 kernel/auditfilter.c
+1582025971 4eb1b01de5b9d8596d6c103efcf1a15cfc1bedf7 kontakt@hanno.de 6 0 drivers/hid/hid-bigbenff.c
+1582025914 976a54d0f4202cb412a3b1fc7f117e1d97db35f3 kontakt@hanno.de 10 5 drivers/hid/hid-bigbenff.c
+1582025867 789a2c250340666220fa74bc6c8f58497e3863b3 kontakt@hanno.de 8 2 drivers/hid/hid-bigbenff.c
+1581663187 be0aba826c4a6ba5929def1962a90d6127871969 kai.heng.feng@canonical.com 8 0 drivers/hid/i2c-hid/i2c-hid-dmi-quirks.c
+1575430525 8d2e77b39b8fecb794e19cd006a12f90b14dd077 christophe.jaillet@wanadoo.fr 1 1 drivers/hid/hid-alps.c
+1579110388 5c02c447eaeda29d3da121a2e17b97ccaf579b51 dan.carpenter@oracle.com 1 1 drivers/hid/usbhid/hiddev.c
+1579262916 84a4062632462c4320704fcdf8e99e89e94c0aba jkorsnes@cisco.com 1 1 include/linux/hid.h
+1579262915 5ebdffd25098898aff1249ae2f7dbfddd76d8f8f jkorsnes@cisco.com 3 1 drivers/hid/hid-core.c
+1580279191 e433be929e63265b7412478eb7ff271467aee2d7 mansour@oxplot.com 2 1 drivers/hid/hid-apple.c
+1580558208 beae56192a2570578ae45050e73c5ff9254f63e6 hdegoede@redhat.com 3 2 drivers/hid/hid-ite.c
+1578770659 4ab2bb3c311a45d80d31f2f189606871669ed792 lains@archlinux.org 21 22 drivers/hid/hid-logitech-hidpp.c
