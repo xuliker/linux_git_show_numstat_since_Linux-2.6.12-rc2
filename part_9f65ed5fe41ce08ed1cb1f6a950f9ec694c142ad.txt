@@ -1,0 +1,21 @@
+
+1582997407 5313b2a58ef02e2b077d7ae8088043609e3155b0 tanure@linux.com 2 4 drivers/hid/hid-hyperv.c
+1583333229 8c1b0767ae0c4b18cd967556aa6ddc7aab5bef0d wei.liu@kernel.org 1 0 MAINTAINERS
+1580938362 acb4d372a0311cb1c2b03e471007708b2a50c5da sashal@kernel.org 0 1 MAINTAINERS
+1582619000 25962e1a7f1d522f1b57ead2f266fab570042a70 frieder.schrempf@kontron.de 2 2 drivers/dma/imx-sdma.c
+1581266019 c33ee1301c393a241d6424e36eff1071811b1064 digetx@gmail.com 1 1 drivers/dma/tegra20-apb-dma.c
+1581266018 94788af4ed039476ff3527b0e6a12c1dc42cb022 digetx@gmail.com 0 4 drivers/dma/tegra20-apb-dma.c
+1580305206 d288bddd8374e0a043ac9dde64a1ae6a09411d74 martin.fuzzey@flowbird.group 1 0 drivers/dma/imx-sdma.c
+1582133096 50e7e7f6f2d040dd16a636f408eab9184abc63f8 dave.jiang@intel.com 15 1 drivers/dma/idxd/sysfs.c
+1582133048 88402c5b1ba7498217027c8a54e8df61d030500c dave.jiang@intel.com 4 2 drivers/dma/idxd/sysfs.c
+1581950450 36d5d22090d13fd3a7a8c9663a711cbe6970aac8 dan.carpenter@oracle.com 0 4 drivers/dma/coh901318.c
+1582044718 2d0b1919457ad78036f24169968cadc6f55d37ec dave.jiang@intel.com 1 1 drivers/dma/idxd/sysfs.c
+1581671681 8390318c04bb24cc4d41ac03e009b0748882f99f peter.ujfalusi@ti.com 15 14 drivers/dma/ti/k3-udma.c
+1581671680 c7450bb211f3ded7cb6e4d305855683ed7d04e60 peter.ujfalusi@ti.com 3 9 drivers/dma/ti/k3-udma.c
+1581671679 6cf668a4ef829b9a11d74a4954f02a1767403246 peter.ujfalusi@ti.com 88 42 drivers/dma/ti/k3-udma.c
+1581671678 a97934071fc3b0a5e52c89e06da68bcac0481de3 peter.ujfalusi@ti.com 51 23 drivers/dma/ti/k3-udma.c
+1581671677 16cd3c670183d788f5a0dfe41415d3386ba92ed9 peter.ujfalusi@ti.com 151 17 drivers/dma/ti/k3-udma.c
+1581671676 1c83767c9d417c4cc45d95f09b3a6e6c6b5417b5 vigneshr@ti.com 53 27 drivers/dma/ti/k3-udma.c
+1580905968 2227ab4216cd4d56619733bcfaee7e6943cdc9aa dan.carpenter@oracle.com 2 2 drivers/dma/idxd/cdev.c
+1580820675 83c49f734463980802d6dba376f69e787fb07a8e changbin.du@gmail.com 10 4 Documentation/driver-api/dmaengine/client.rst
+1581442967 61b5865d56bbb09dd5887b197dd324d1d4333d47 dave.jiang@intel.com 3 0 drivers/dma/idxd/sysfs.c
