@@ -1,0 +1,18 @@
+
+1583942830 e3a36eb6dfaeea8175c05d5915dcf0b939be6dab hch@lst.de 6 19 drivers/base/platform.c
+1583942830 e3a36eb6dfaeea8175c05d5915dcf0b939be6dab hch@lst.de 1 1 include/linux/platform_device.h
+1583516597 d9815bff6b379ff46981bea9dfeb146081eab314 asavkov@redhat.com 2 0 kernel/trace/ftrace.c
+1583674157 10dab84caf400f2f5f8b010ebb0c7c4272ec5093 christian.brauner@ubuntu.com 8 0 kernel/pid.c
+1583767564 1cada2f307665e208a486d7ac2294ed9a6f74a6f linus.walleij@linaro.org 1 2 drivers/pinctrl/qcom/pinctrl-msm.c
+1583432565 d62e7fbea4951c124a24176da0c7bf3003ec53d4 dev@kresin.me 1 1 drivers/pinctrl/pinctrl-falcon.c
+1583505255 f98371476f36359da2285d1807b43e5b17fd18de linus.walleij@linaro.org 1 1 drivers/pinctrl/qcom/pinctrl-ssbi-gpio.c
+1583571622 f7d5f5655ef7e5d2a128f6696ac35256e83b119b tsbogend@alpha.franken.de 1 1 MAINTAINERS
+1583515394 b26ebfe12f34f372cf041c6f801fa49c3fb382c5 cminyard@mvista.com 2 0 kernel/pid.c
+1583397698 2b4eae95c7361e0a147b838715c8baa1380a428f ebiggers@google.com 9 0 fs/crypto/keysetup.c
+1583515710 130ab8819d81bd96f1a71e8461a8f73edf1fbe82 hns@goldelico.com 4 1 arch/mips/boot/dts/ingenic/ci20.dts
+1583515678 e8d87a0b822d4b3d9a94a5da915f93aa1b674c93 hns@goldelico.com 24 15 arch/mips/boot/dts/ingenic/ci20.dts
+1582904534 3567ee83c413a939d45fea2e2f2c4968a9f81460 ckeepax@opensource.cirrus.com 13 0 drivers/pinctrl/cirrus/pinctrl-madera-core.c
+1582904502 aafd56fc79041bf36f97712d4b35208cbe07db90 ckeepax@opensource.cirrus.com 0 1 drivers/pinctrl/core.c
+1582644489 8e029eb0bcd6a7fab6dc9191152c085784c31ee6 paul@crapouillou.net 2 1 arch/mips/kernel/setup.c
+1582216177 4c48e549f39f8ed10cf8a0b6cb96f5eddf0391ce leonard.crestez@nxp.com 2 2 drivers/pinctrl/freescale/pinctrl-scu.c
+1582204512 dc7a06b0dbbafac8623c2b7657e61362f2f479a7 nbelin@baylibre.com 2 2 drivers/pinctrl/meson/pinctrl-meson-gxl.c
