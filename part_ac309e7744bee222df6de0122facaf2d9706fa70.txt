@@ -1,0 +1,11 @@
+
+1584029766 819d578d51d0ce73f06e35d69395ef55cd683a74 tony.fischetti@gmail.com 1 0 drivers/hid/hid-ids.h
+1584029766 819d578d51d0ce73f06e35d69395ef55cd683a74 tony.fischetti@gmail.com 1 0 drivers/hid/hid-quirks.c
+1584343459 58322a1590fc189a8e1e349d309637d4a4942840 chentsung@chromium.org 2 0 drivers/hid/hid-google-hammer.c
+1584343459 58322a1590fc189a8e1e349d309637d4a4942840 chentsung@chromium.org 1 0 drivers/hid/hid-ids.h
+1583912304 62a1a58039595698f644f560f00105bb4d5f5c7f tiwai@suse.de 3 3 drivers/hid/hid-sensor-custom.c
+1583912239 42f502dfe132edb8d7a47e6c0641ed82d718ad0b tiwai@suse.de 2 2 drivers/hid/hid-picolcd_fb.c
+1582013734 89604523a76eb3e13014b2bdab7f8870becee284 ardb@kernel.org 3 1 arch/arm/Makefile
+1582013734 89604523a76eb3e13014b2bdab7f8870becee284 ardb@kernel.org 2 2 arch/arm/boot/compressed/Makefile
+1581296657 f87b1c49bc675da30d8e1e8f4b60b800312c7b90 keescook@chromium.org 1 1 arch/arm/lib/copy_from_user.S
+1580239333 45939ce292b4b11159719faaf60aba7d58d5fe33 f.fainelli@gmail.com 2 0 arch/arm/kernel/vdso.c
