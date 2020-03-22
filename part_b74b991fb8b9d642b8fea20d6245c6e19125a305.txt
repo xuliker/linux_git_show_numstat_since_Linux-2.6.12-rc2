@@ -1,0 +1,24 @@
+
+1574043511 b95fffb9b4afa8b9aa4a389ec7a0c578811eaf42 len.brown@intel.com 1 1 tools/power/x86/turbostat/turbostat.c
+1584766067 abdcbdb265264f736df316622a695ad30019c05f len.brown@intel.com 26 0 tools/power/x86/turbostat/turbostat.c
+1584054398 98fd5c723730f560e5bea919a64ac5b83d45eb72 sagi@grimberg.me 9 3 drivers/nvme/target/tcp.c
+1584670616 09952e3e7826119ddd4357c453d54bcc7ef25156 axboe@kernel.dk 4 1 fs/io_uring.c
+1584670616 09952e3e7826119ddd4357c453d54bcc7ef25156 axboe@kernel.dk 2 1 include/linux/socket.h
+1584670616 09952e3e7826119ddd4357c453d54bcc7ef25156 axboe@kernel.dk 5 3 net/socket.c
+1584667398 4022e7af86be2dd62975dedb6b7ea551d108695e axboe@kernel.dk 6 1 fs/file.c
+1584667398 4022e7af86be2dd62975dedb6b7ea551d108695e axboe@kernel.dk 4 1 fs/io_uring.c
+1584667398 4022e7af86be2dd62975dedb6b7ea551d108695e axboe@kernel.dk 1 0 include/linux/file.h
+1584674657 fcaa681c03ea82193e60d7f2cdfd94fbbcd4cae9 len.brown@intel.com 1 1 tools/power/x86/turbostat/Makefile
+1584674657 fcaa681c03ea82193e60d7f2cdfd94fbbcd4cae9 len.brown@intel.com 30 16 tools/power/x86/turbostat/turbostat.c
+1584656765 1f81c5efc020314b2db30d77efe228b7e117750d len.brown@intel.com 14 9 tools/power/x86/turbostat/turbostat.c
+1584528948 f6708400707fec5cb56600710a9be59266df09ad yu.c.chen@intel.com 30 1 tools/power/x86/turbostat/turbostat.c
+1578974985 d7814c3098ddb2780bb66e787aa3949110dd4a41 yu.c.chen@intel.com 3 0 tools/power/x86/turbostat/turbostat.c
+1578974809 23274faf96500700da83c4f0ff12d78ae03d5604 yu.c.chen@intel.com 3 0 tools/power/x86/turbostat/turbostat.c
+1578974695 4bf7132a0ace8888398af8cec6485ee4c6db5ea8 yu.c.chen@intel.com 2 0 tools/power/x86/turbostat/turbostat.c
+1584657192 d8d005ba6afa502ca37ced5782f672c4d2fc1515 len.brown@intel.com 2 2 tools/power/x86/turbostat/turbostat.c
+1572527662 081c54323b27d8d4b40df6b2375b9e1f6846d827 yu.c.chen@intel.com 2 0 tools/power/x86/turbostat/turbostat.c
+1584553410 1d0c32ec3b860a32df593a22bad0d1dbc5546a59 groug@kaod.org 1 0 arch/powerpc/kvm/book3s_pr.c
+1584553410 1d0c32ec3b860a32df593a22bad0d1dbc5546a59 groug@kaod.org 0 2 arch/powerpc/kvm/powerpc.c
+1584127754 f1d96a8fcbbbb22d4fbc1d69eaaa678bbb0ff6e2 asml.silence@gmail.com 8 0 fs/io_uring.c
+1583513389 af3d0a68698c7e5df8b72267086b23422a3954bb christophe.leroy@c-s.fr 2 7 arch/powerpc/mm/kasan/kasan_init_32.c
+1583788073 9134ae2a2546cb96abddcd4469a79c77ee3a4480 psajeepa@purestorage.com 5 3 drivers/nvme/host/rdma.c
