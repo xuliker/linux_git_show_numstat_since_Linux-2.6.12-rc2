@@ -1,0 +1,4 @@
+
+1584927116 16fbf79b0f83bc752cee8589279f1ebfe57b3b6e torvalds@linux-foundation.org 1 1 Makefile
+1584584852 c8cfcb78c65877313cda7bcbace624d3dbd1f3b3 Jason@zx2c4.com 4 4 arch/arm64/crypto/chacha-neon-glue.c
+1584584852 c8cfcb78c65877313cda7bcbace624d3dbd1f3b3 Jason@zx2c4.com 8 3 lib/crypto/chacha20poly1305-selftest.c
