@@ -1,0 +1,16 @@
+
+1584558729 018af9be3dd54e6f24f828966bdd873f4d63ad9b christophe.jaillet@wanadoo.fr 19 10 drivers/dma/ti/k3-udma-glue.c
+1584062624 01c4df39a2bb732e0593ba3cdacc1552fd07f7b9 wangzhou1@hisilicon.com 6 0 MAINTAINERS
+1584030233 988aad2f111c768c66efc87d073c73ecb32b682c dave.jiang@intel.com 2 2 drivers/dma/idxd/cdev.c
+1584628976 564200ed8e71d91327d337e46bc778cee02da866 acme@redhat.com 2 0 tools/include/uapi/linux/in.h
+1584556068 870b4333a62e45b0b2000d14b301b7b8b8cad9da bp@suse.de 3 0 arch/x86/mm/ioremap.c
+1583614657 195967c088aa856fc7a2698230cddef3b8d7cda9 lukas.bulwahn@gmail.com 0 1 MAINTAINERS
+1583502618 f91da3bd21721c05cc7054156fa993edbb16777a vkoul@kernel.org 1 1 drivers/dma/dmaengine.c
+1582818121 1efde2754275dbd9d11c6e0132a4f09facf297ab mhiramat@kernel.org 8 3 tools/perf/util/probe-finder.c
+1582876662 6b8d68f1ce9266b05a55e93c62923ff51daae4c1 mhiramat@kernel.org 3 0 tools/perf/util/probe-file.c
+1583566281 05e54e2386733dfdb62b6784b3d6e1b0bd9bb559 irogers@google.com 23 23 tools/perf/util/parse-events.c
+1583744177 a7ffd416d80497f03d1f62c0b330cff76a86d5ad ilie.halip@gmail.com 6 4 tools/perf/util/setup.py
+1583750933 db2c549407d4a76563c579e4768f7d6d32afefba dominik.b.czarnota@gmail.com 1 1 tools/perf/util/map.c
+1583519578 be40920fbf1003c38ccdc02b571e01a75d890c82 mhiramat@kernel.org 1 1 tools/perf/Makefile
+1583519578 be40920fbf1003c38ccdc02b571e01a75d890c82 mhiramat@kernel.org 2 2 tools/scripts/Makefile.include
+1583250633 cf7da891b624983ffadd6b97ef63a0def3e985ad mchehab+huawei@kernel.org 10 2 Documentation/driver-api/dmaengine/provider.rst
