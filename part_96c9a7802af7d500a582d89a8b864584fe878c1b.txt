@@ -1,0 +1,20 @@
+
+1588105668 dd7bc8158b413e0b580c491e8bd18cb91057c7c2 dhowells@redhat.com 1 1 fs/super.c
+1587997582 b0d3869ce9eeacbb1bbd541909beeef4126426d5 viro@zeniv.linux.org.uk 4 5 fs/pnode.c
+1587621682 f0abc761bbb9418876cc4d1ebc473e4ea6352e42 leonro@mellanox.com 1 1 drivers/infiniband/core/rdma_core.c
+1587749506 47c370c1a5eea9b2f6f026d49e060c3748c89667 sudipm.mukherjee@gmail.com 2 2 drivers/infiniband/sw/rdmavt/cq.c
+1587749506 47c370c1a5eea9b2f6f026d49e060c3748c89667 sudipm.mukherjee@gmail.com 2 2 drivers/infiniband/sw/rdmavt/mmap.c
+1587749506 47c370c1a5eea9b2f6f026d49e060c3748c89667 sudipm.mukherjee@gmail.com 2 2 drivers/infiniband/sw/rdmavt/qp.c
+1587749506 47c370c1a5eea9b2f6f026d49e060c3748c89667 sudipm.mukherjee@gmail.com 2 2 drivers/infiniband/sw/rdmavt/srq.c
+1587663927 3815f1be546e752327b5868af103ccdddcc4db77 viro@zeniv.linux.org.uk 12 15 fs/ocfs2/dlmfs/dlmfs.c
+1587457769 83a2670212215a569ed133efc10c92055c96cc8c leonro@mellanox.com 2 3 drivers/infiniband/core/rdma_core.c
+1587457768 0fb00941dc63990a10951146df216fc7b0e20bc2 leonro@mellanox.com 1 1 drivers/infiniband/core/rdma_core.c
+1586784096 39c011a538272589b9eb02ff1228af528522a22c jgg@mellanox.com 4 0 drivers/infiniband/core/uverbs_main.c
+1586784028 2d7e3ff7b6f2c614eb21d0dc348957a47eaffb57 aharonl@mellanox.com 3 1 drivers/infiniband/hw/mlx5/qp.c
+1586956861 316ec154810960052d4586b634156c54d0778f74 borntraeger@de.ibm.com 4 0 arch/s390/lib/uaccess.c
+1586956861 316ec154810960052d4586b634156c54d0778f74 borntraeger@de.ibm.com 14 2 arch/s390/mm/pgalloc.c
+1586959762 6e051971b0e2eeb0ce7ec65d3cc8180450512d36 jgg@mellanox.com 11 4 drivers/infiniband/sw/siw/siw_qp_tx.c
+1586784155 c08cfb2d8d78bfe81b37cc6ba84f0875bddd0d5c alaa@mellanox.com 2 1 drivers/infiniband/hw/mlx4/main.c
+1586252234 983653515849fb56b78ce55d349bb384d43030f6 dan.carpenter@oracle.com 1 1 drivers/infiniband/core/cm.c
+1586194362 0c6949c3d1b284d90473834f2fb865368a12f30a leonro@mellanox.com 13 11 drivers/infiniband/core/cm.c
+1585781361 f70968f05de4e7c24d839ca0d3e40f17c8024498 colin.king@canonical.com 1 1 drivers/infiniband/hw/i40iw/i40iw_ctrl.c
