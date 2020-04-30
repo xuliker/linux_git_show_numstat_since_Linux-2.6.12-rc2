@@ -1,0 +1,13 @@
+
+1586768689 a5fe13c7b49478c95e74f31f5b8b8347735684a7 damien.lemoal@wdc.com 1 1 arch/riscv/Kconfig
+1587125542 7d0ce3b2b483480cc2784e25ae00fddcf815f803 wangkefeng.wang@huawei.com 8 5 arch/riscv/kernel/sbi.c
+1587125541 f9d89c944a046bd18795875b5775e11a1e124076 wangkefeng.wang@huawei.com 1 1 drivers/tty/hvc/Kconfig
+1587125541 f9d89c944a046bd18795875b5775e11a1e124076 wangkefeng.wang@huawei.com 1 1 drivers/tty/serial/Kconfig
+1587125540 72df61d9d66e5bbe7e2c8b5accc240f66276147f wangkefeng.wang@huawei.com 2 2 arch/riscv/kernel/sbi.c
+1586960998 3c1918c8f54166598195d938564072664a8275b1 ilie.halip@gmail.com 3 3 arch/riscv/kernel/vdso/Makefile
+1586794354 af2bdf828f7963fd139ea8c5e23fd2c4e0dfca97 linux@roeck-us.net 2 2 arch/riscv/kernel/stacktrace.c
+1586275125 55b3209acbb01cb02b1ee6b1afe80d83b1aab36d iuliana.prodan@nxp.com 1 1 drivers/crypto/caam/caamalg.c
+1586213248 80994e3f5e8dfd95343d07499117134aae006d46 iuliana.prodan@nxp.com 6 2 drivers/crypto/caam/caampkc.c
+1586213247 63db32e6531c1d47cf5bcd2082ed074fba4633ca iuliana.prodan@nxp.com 6 2 drivers/crypto/caam/caamhash.c
+1586213246 5ed1e8b8877f259e4f2053cd59d133a9de6e2250 iuliana.prodan@nxp.com 3 1 drivers/crypto/caam/caamalg.c
+1586213245 5af4e8d448a8c78fdb7d63a4f55b7acd1f7fa974 iuliana.prodan@nxp.com 3 1 drivers/crypto/caam/caamalg.c
