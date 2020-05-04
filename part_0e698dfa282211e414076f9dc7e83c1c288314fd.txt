@@ -1,0 +1,16 @@
+
+1588542964 0e698dfa282211e414076f9dc7e83c1c288314fd torvalds@linux-foundation.org 1 1 Makefile
+1588376657 eb91db63a90d8f8e8768b82fcb2cae5f7198cf6b ebiggers@google.com 1 1 MAINTAINERS
+1587217623 b52649aee6243ea661905bdc5fbe28cc5f6dec76 tangbin@cmss.chinamobile.com 4 1 drivers/iommu/qcom_iommu.c
+1588248080 ae74c19faa7d7996e857e13165bd40fc4a285e0d gregkh@linuxfoundation.org 1 1 drivers/iommu/iommu.c
+1588317867 ba61c3da00f4a5bf8805aeca1ba5ac3c9bd82e96 baolu.lu@linux.intel.com 2 2 drivers/iommu/intel-iommu.c
+1587562202 b74aa02d7a30ee5e262072a7d6e8deff10b37924 suravee.suthikulpanit@amd.com 1 1 drivers/iommu/amd_iommu_init.c
+1588166852 9c6c723f48f5f05eab133b4fee8f2a2b7ec57a15 arnd@arndb.de 1 1 fs/btrfs/backref.c
+1586874390 9dd124b63a2e03c85dab42cc009a6fd9b9e571a1 krzk@kernel.org 1 1 drivers/iommu/Kconfig
+1586529047 d1dcb7255c2b0ae77fbe297e4543c6cfff54e9b9 geert@linux-m68k.org 1 1 drivers/iommu/Kconfig
+1585838269 5375e874c7634f0e1795ec4b37260b724d481e86 haokexin@gmail.com 1 0 drivers/iommu/iommu.c
+1587970214 fcc99734d1d4ced30167eb02e17f656735cb9928 wqu@suse.com 11 2 fs/btrfs/transaction.c
+1587655853 f135cea30de5f74d5bfb5116682073841fb4af8f fdmanana@suse.com 40 3 fs/btrfs/tree-log.c
+1587455716 a9b760b0266f563b4784f695bbd0e717610dc10a kai.heng.feng@canonical.com 2 2 drivers/acpi/device_pm.c
+1587699616 2351f8d295ed63393190e39c2f7c1fee1a80578f decui@microsoft.com 7 0 kernel/power/hibernate.c
+1586546789 8c539776ac83c0857395e1ccc9c6b516521a2d32 chris@chris-wilson.co.uk 1 1 drivers/cpufreq/intel_pstate.c
