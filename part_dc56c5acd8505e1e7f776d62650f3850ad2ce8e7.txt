@@ -1,0 +1,27 @@
+
+1588150780 f8a31eca47bec197f5ec5dc40ad675450c2058a5 wangxiongfeng2@huawei.com 1 1 drivers/platform/x86/thinkpad_acpi.c
+1588109798 01f259f3720c3965443109d82a0f12611ea8bb58 arnd@arndb.de 2 16 drivers/platform/x86/intel_pmc_core.c
+1588109798 01f259f3720c3965443109d82a0f12611ea8bb58 arnd@arndb.de 0 2 drivers/platform/x86/intel_pmc_core.h
+1587593159 3bd12da7f50b8bc191fcb3bab1f55c582234df59 hdegoede@redhat.com 24 0 drivers/platform/x86/asus-nb-wmi.c
+1587458419 e87fa339d413c540c065c280ba9e7cc9a8dbcfd1 archana.patni@intel.com 3 3 drivers/platform/x86/intel_pmc_core.c
+1588443522 1e189f267015a098bdcb82cc652d13fbf2203fa0 hdegoede@redhat.com 1 0 drivers/hid/hid-ids.h
+1588443522 1e189f267015a098bdcb82cc652d13fbf2203fa0 hdegoede@redhat.com 1 0 drivers/hid/hid-quirks.c
+1588109417 2465f0d5c9e36d4c99eb424d38f72ea250f0ee92 arnd@arndb.de 1 0 drivers/hid/Kconfig
+1587812297 538f67407e2c0e5ed2a46e7d7ffa52f2e30c7ef8 daniel.playfair.cal@gmail.com 3 0 drivers/hid/hid-ids.h
+1587812297 538f67407e2c0e5ed2a46e7d7ffa52f2e30c7ef8 daniel.playfair.cal@gmail.com 2 0 drivers/hid/i2c-hid/i2c-hid-core.c
+1587762240 dcce8ef8f70a8e38e6c47c1bae8b312376c04420 killertofu@gmail.com 6 3 drivers/hid/wacom_wac.c
+1587586728 0ed08faded1da03eb3def61502b27f81aef2e615 stern@rowland.harvard.edu 29 8 drivers/hid/usbhid/hid-core.c
+1587586728 0ed08faded1da03eb3def61502b27f81aef2e615 stern@rowland.harvard.edu 1 0 drivers/hid/usbhid/usbhid.h
+1586313720 f585c9d5436a2dbedcd6c581bcabd41d7e372e21 yanaijie@huawei.com 1 1 drivers/platform/x86/intel-uncore-frequency.c
+1585811749 713df99a9ef0133c09ad05bac10cf7d0163cd272 yuehaibing@huawei.com 2 2 drivers/platform/x86/xiaomi-wmi.c
+1586251852 4dbccb873f2b35ad1b26419ff88c80509e2d4cbb dan.carpenter@oracle.com 2 2 drivers/platform/x86/surface3_power.c
+1586357917 b43f977dd281945960c26b3ef67bba0fa07d39d9 killertofu@gmail.com 16 63 drivers/hid/wacom_wac.c
+1586955102 185af3e775b693f773d9a4b5a8c3cda69fc8ca0f jkosina@suse.cz 1 1 drivers/hid/hid-alps.c
+1586955102 185af3e775b693f773d9a4b5a8c3cda69fc8ca0f jkosina@suse.cz 1 1 drivers/hid/hid-ids.h
+1586130915 640e403b1fd24e7f31ac6f29f0b6a21d285ed729 dedsa2002@gmail.com 1 0 drivers/hid/hid-alps.c
+1586130915 640e403b1fd24e7f31ac6f29f0b6a21d285ed729 dedsa2002@gmail.com 1 1 drivers/hid/hid-ids.h
+1586796388 b1bd0f75288f60e8d142a1b3e979ed0192c04931 fabian.schindlatz@fau.de 1 0 drivers/hid/hid-ids.h
+1586796388 b1bd0f75288f60e8d142a1b3e979ed0192c04931 fabian.schindlatz@fau.de 4 0 drivers/hid/hid-lg-g15.c
+1586793757 f9e82295eec141a0569649d400d249333d74aa91 sebastian.reichel@collabora.com 1 0 drivers/hid/hid-ids.h
+1586793757 f9e82295eec141a0569649d400d249333d74aa91 sebastian.reichel@collabora.com 3 0 drivers/hid/hid-multitouch.c
+1585776209 778fbf4179991e7652e97d7f1ca1f657ef828422 jason.gerecke@wacom.com 3 1 drivers/hid/wacom_sys.c
