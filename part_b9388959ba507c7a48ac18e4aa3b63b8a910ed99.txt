@@ -1,0 +1,15 @@
+
+1587597534 a9a8ba90fa5857c2c8a0e32eef2159cec717da11 Jason@zx2c4.com 1 1 arch/arm/crypto/nhpoly1305-neon-glue.c
+1587597534 a9a8ba90fa5857c2c8a0e32eef2159cec717da11 Jason@zx2c4.com 1 1 arch/arm64/crypto/nhpoly1305-neon-glue.c
+1587597534 a9a8ba90fa5857c2c8a0e32eef2159cec717da11 Jason@zx2c4.com 1 1 arch/x86/crypto/nhpoly1305-avx2-glue.c
+1587597534 a9a8ba90fa5857c2c8a0e32eef2159cec717da11 Jason@zx2c4.com 1 1 arch/x86/crypto/nhpoly1305-sse2-glue.c
+1587597533 706024a52c614b478b63f7728d202532ce6591a9 Jason@zx2c4.com 11 3 arch/arm/crypto/chacha-glue.c
+1587597533 706024a52c614b478b63f7728d202532ce6591a9 Jason@zx2c4.com 11 4 arch/arm/crypto/poly1305-glue.c
+1587597533 706024a52c614b478b63f7728d202532ce6591a9 Jason@zx2c4.com 11 3 arch/arm64/crypto/chacha-neon-glue.c
+1587597533 706024a52c614b478b63f7728d202532ce6591a9 Jason@zx2c4.com 11 4 arch/arm64/crypto/poly1305-glue.c
+1587597533 706024a52c614b478b63f7728d202532ce6591a9 Jason@zx2c4.com 4 6 arch/x86/crypto/blake2s-glue.c
+1587597533 706024a52c614b478b63f7728d202532ce6591a9 Jason@zx2c4.com 11 3 arch/x86/crypto/chacha_glue.c
+1587597533 706024a52c614b478b63f7728d202532ce6591a9 Jason@zx2c4.com 6 7 arch/x86/crypto/poly1305_glue.c
+1588028342 b31d1d2b1c3a8452f425b09ebd374ecd3ddd5179 gwendal@chromium.org 46 34 drivers/platform/chrome/cros_ec_sensorhub.c
+1588028342 b31d1d2b1c3a8452f425b09ebd374ecd3ddd5179 gwendal@chromium.org 46 27 drivers/platform/chrome/cros_ec_sensorhub_ring.c
+1588028342 b31d1d2b1c3a8452f425b09ebd374ecd3ddd5179 gwendal@chromium.org 1 0 include/linux/platform_data/cros_ec_sensorhub.h
