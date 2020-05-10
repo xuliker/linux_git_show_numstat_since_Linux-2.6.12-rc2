@@ -1,0 +1,24 @@
+
+1589065084 1a263ae60b04de959d9ce9caea4889385eefcc7b torvalds@linux-foundation.org 3 3 crypto/lrw.c
+1589065084 1a263ae60b04de959d9ce9caea4889385eefcc7b torvalds@linux-foundation.org 3 3 crypto/xts.c
+1589064321 adc71920969870dfa54e8f40dac8616284832d02 torvalds@linux-foundation.org 3 0 Makefile
+1589064052 5a76021c2eff7fcf2f0918a08fd8a37ce7922921 torvalds@linux-foundation.org 1 0 Makefile
+1589061164 44720996e2d79e47d508b0abe99b931a726a3197 torvalds@linux-foundation.org 1 0 Makefile
+1589059829 5c45de21a2223fe46cf9488c99a7fbcf01527670 torvalds@linux-foundation.org 3 0 Makefile
+1589057830 78a5255ffb6a1af189a83e493d916ba1c54d8c75 torvalds@linux-foundation.org 3 4 Makefile
+1589057830 78a5255ffb6a1af189a83e493d916ba1c54d8c75 torvalds@linux-foundation.org 0 18 init/Kconfig
+1589057830 78a5255ffb6a1af189a83e493d916ba1c54d8c75 torvalds@linux-foundation.org 0 1 kernel/trace/Kconfig
+1588884975 63ff822358b276137059520cf16e587e8073e80f axboe@kernel.dk 7 25 fs/io_uring.c
+1588621175 90da2e3f25c8b4d742b2687b8fed8fc4eb8851da asml.silence@gmail.com 18 27 fs/splice.c
+1588564999 73cb8e2a5863ccc5215660f5123db621bd57dff7 atish.patra@wdc.com 0 8 arch/riscv/include/asm/set_memory.h
+1588564999 73cb8e2a5863ccc5215660f5123db621bd57dff7 atish.patra@wdc.com 0 16 arch/riscv/mm/init.c
+1588667333 7f13657d141346125f4d0bb93eab4777f40c406e xiaoguang.wang@linux.alibaba.com 11 13 fs/io_uring.c
+1588564488 d6d5161280b3d57163f5310f0a0007cdeb729984 zong.li@sifive.com 2 2 arch/riscv/kernel/cpu_ops.c
+1588000414 0a9f2a6161dcd6be057f6c501453d28b3c4a3b0c schwab@suse.de 1 1 arch/riscv/kernel/vdso/Makefile
+1588000414 0a9f2a6161dcd6be057f6c501453d28b3c4a3b0c schwab@suse.de 12 0 arch/riscv/kernel/vdso/note.S
+1587970764 c749bb2d554825e007cbc43b791f54e124dadfce vincent.chen@sifive.com 2 1 arch/riscv/mm/init.c
+1587704368 a2da5b181f888b3cdb4727b6c60a8755cedce272 anup.patel@wdc.com 0 3 arch/riscv/include/asm/csr.h
+1587704367 6bcff51539ccae5431a01f60293419dbae21100f anup.patel@wdc.com 22 0 arch/riscv/include/asm/hwcap.h
+1587704367 6bcff51539ccae5431a01f60293419dbae21100f anup.patel@wdc.com 80 3 arch/riscv/kernel/cpufeature.c
+1587704366 7391efa48d88c8555a802bac562d02a38567127c anup.patel@wdc.com 2 0 arch/riscv/kernel/smp.c
+1587887683 d8f1b9716cfd1a1f74c0fedad40c5f65a25aa208 xiaoguang.wang@linux.alibaba.com 4 5 fs/io_uring.c
