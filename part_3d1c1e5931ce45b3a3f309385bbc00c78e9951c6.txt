@@ -1,0 +1,11 @@
+
+1589395999 9d9e88a24c1f20ebfc2f28b1762ce78c0b9e1cb3 axboe@kernel.dk 1 5 fs/io_uring.c
+1588968246 b69e2ef24b7b4867f80f47e2781e95d0bacd15cb kbusch@kernel.org 5 0 drivers/nvme/host/pci.c
+1588314617 dca4f40742e09ec5d908a7fc2862498e6cf9d911 vnkgutta@codeaurora.org 25 0 drivers/pinctrl/qcom/pinctrl-msm.c
+1588622454 c96874265cd04b4bd4a8e114ac9af039a6d83cfe asml.silence@gmail.com 7 4 fs/io_uring.c
+1587096714 69388e15f5078c961b9e5319e22baea4c57deff1 grace.kao@intel.com 4 0 drivers/pinctrl/intel/pinctrl-cherryview.c
+1586824646 90bcb0c3ca0809d1ed358bfbf838df4b3d4e58e0 ansuelsmth@gmail.com 1 1 drivers/pinctrl/qcom/pinctrl-msm.c
+1586757912 6a27268cdeb035aca092c3bc2a426594fb558cc1 amittomer25@gmail.com 1 1 drivers/pinctrl/actions/pinctrl-s700.c
+1586255632 d1f7af4b4a11bcd85a18b383cb6fae1915916a83 light.hsieh@mediatek.com 0 2 drivers/pinctrl/mediatek/pinctrl-paris.c
+1576085574 ccd025eaddaeb99e982029446197c544252108e2 andriy.shevchenko@linux.intel.com 1 0 drivers/pinctrl/intel/pinctrl-baytrail.c
+1585731180 6b7275c87717652daace4c0b8131eb184c7d7516 andriy.shevchenko@linux.intel.com 8 7 drivers/pinctrl/intel/pinctrl-sunrisepoint.c
