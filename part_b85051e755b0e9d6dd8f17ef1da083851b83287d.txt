@@ -1,0 +1,17 @@
+
+1589932319 566d136289dc57816ac290de87a9a0f7d9bd3cbb penguin-kernel@I-love.SAKURA.ne.jp 1 1 fs/splice.c
+1588452096 f3a6a6c5e0f5a303fd8ec84ea33c0da5869d715f kdasu.kdev@gmail.com 1 2 drivers/mtd/nand/raw/brcmnand/brcmnand.c
+1588252641 7b01b7239d0dc9832e0d0d23605c1ff047422a2c ribalda@kernel.org 1 1 drivers/mtd/mtdcore.c
+1589375429 3507273d5a4d3c2e46f9d3f9ed9449805f5dff07 miquel.raynal@bootlin.com 4 0 drivers/mtd/nand/spi/core.c
+1589540299 607b9df63057a56f6172d560d5366cca6a030c76 rafael.j.wysocki@intel.com 5 1 drivers/acpi/ec.c
+1589540299 607b9df63057a56f6172d560d5366cca6a030c76 rafael.j.wysocki@intel.com 4 11 drivers/acpi/sleep.c
+1588423682 0e7572cffe442290c347e779bf8bd4306bb0aa7c richard@nod.at 2 10 drivers/mtd/ubi/debug.c
+1588399185 3c3c32f85b6cc05e5db78693457deff03ac0f434 ebiggers@google.com 4 13 fs/ubifs/auth.c
+1588399185 3c3c32f85b6cc05e5db78693457deff03ac0f434 ebiggers@google.com 2 11 fs/ubifs/replay.c
+1588703611 9aafc1b0187322fa4fd4eb905d0903172237206c dan.carpenter@oracle.com 3 0 fs/overlayfs/export.c
+1587560930 15fd2ea9f4f3d85fef787ba7db1b87939d0a2754 vgoyal@redhat.com 14 3 fs/overlayfs/inode.c
+1587560929 e67f0216939c048f02fe58dc1113738380480061 vgoyal@redhat.com 7 0 fs/overlayfs/inode.c
+1587802722 2e27d33d22afa3d12746f854d6a4fad7ad7b86de ignat@cloudflare.com 1 1 arch/um/drivers/vector_user.h
+1586937112 e6da5df0eefc0ff5c48aba29157d738888b214e1 johannes.berg@intel.com 1 0 arch/um/kernel/skas/syscall.c
+1586115237 d0e20fd4c1db7cb28874402f78f39870d84398e9 johannes.berg@intel.com 1 1 arch/um/include/asm/xor.h
+1586431985 ecf84096a526f2632ee85c32a3d05de3fa60ce80 hch@lst.de 1 5 fs/ubifs/file.c
