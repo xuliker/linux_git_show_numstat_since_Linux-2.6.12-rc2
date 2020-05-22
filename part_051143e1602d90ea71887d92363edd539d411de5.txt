@@ -1,0 +1,17 @@
+
+1590102610 907fa893258ba6076f5fff32900a461decb9e8c5 namjae.jeon@samsung.com 19 0 fs/exfat/super.c
+1571671427 c54d481d71c6849e044690d3960aaebc730224cc navid.emamdoost@gmail.com 2 1 security/apparmor/audit.c
+1587360928 c6b39f070722ea9963ffe756bfe94e89218c5e63 xiyuyang19@fudan.edu.cn 2 1 security/apparmor/apparmorfs.c
+1586063515 a0b845ffa0d91855532b50fc040aeb2d8338dca4 xiyuyang19@fudan.edu.cn 1 2 security/apparmor/domain.c
+1588693395 959f7584512941a614113bfddb41b6812214169d hch@lst.de 31 0 fs/ext4/extents.c
+1588693395 959f7584512941a614113bfddb41b6812214169d hch@lst.de 2 31 fs/ext4/ioctl.c
+1588693394 9f44eda19529b1c3eef50676dc54b8cd0aa86aa3 riteshh@linux.ibm.com 1 1 fs/ext4/ext4.h
+1589665325 3a5fd0dbd87853f8bd2ea275a5b3b41d6686e761 christophe.jaillet@wanadoo.fr 1 1 drivers/dma/tegra210-adma.c
+1589556593 1b0be99f1a426d9f17ced95c4118c6641a2ff13d mst@redhat.com 2 2 drivers/vhost/vhost.c
+1589291131 be4054b8b6671ebc977eb7774b8e889d2d05d3e3 peter.ujfalusi@ti.com 4 2 drivers/dma/ti/k3-udma.c
+1588760925 ee63fab3ccf9795a8fb014415fefdaa74bb0ba46 rafal.hibner@secom.com.pl 1 2 drivers/dma/xilinx/zynqmp_dma.c
+1588144522 6b41030fdc79086db5d673c5ed7169f3ee8c13b9 vladimir.murzin@arm.com 5 4 drivers/dma/dmatest.c
+1586519662 0f8e3823c02c2e7412477dc3d49d179803c3fdfa yuehaibing@huawei.com 7 8 drivers/vdpa/vdpa_sim/vdpa_sim.c
+1588346478 4f302642b70c1348773fe7e3ded9fc315fa92990 dave.jiang@intel.com 7 0 drivers/dma/idxd/device.c
+1588346478 4f302642b70c1348773fe7e3ded9fc315fa92990 dave.jiang@intel.com 19 7 drivers/dma/idxd/irq.c
+1588439751 f8f482deb078389b42768b2193e050a81aae137d cristian.ciocaltea@gmail.com 3 5 drivers/dma/owl-dma.c
