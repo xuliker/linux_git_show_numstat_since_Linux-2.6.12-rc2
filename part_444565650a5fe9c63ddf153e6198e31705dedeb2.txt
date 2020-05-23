@@ -1,0 +1,23 @@
+
+1590157401 8cfb347ad0cffdbfc69c82506fb3be9429563211 viro@zeniv.linux.org.uk 1 1 arch/arm64/include/asm/uaccess.h
+1590092906 8356c379cfba8b1b90b0a2423f6afbbe2cdc5d91 palmerdabbelt@google.com 1 1 arch/riscv/kernel/process.c
+1590015712 1592cd15eec6e2952453f9a82da6e8a53e2b8db5 chaitanya.kulkarni@wdc.com 7 0 drivers/block/null_blk_main.c
+1590015711 e274832590211c4b1b1e807ca66fad8b5bb8b328 chaitanya.kulkarni@wdc.com 4 0 drivers/block/null_blk_zoned.c
+1589981765 8659a0e0efdd975c73355dbc033f79ba3b31e82c mpe@ellerman.id.au 1 1 arch/powerpc/Kconfig
+1589457215 8fa3cdff05f009855a6a99a7d77a41004009bbab wangkefeng.wang@huawei.com 1 1 arch/riscv/mm/init.c
+1589981075 d4ae271dfaae2a5f41c015f2f20d62a1deeec734 xiaoguang.wang@linux.alibaba.com 1 0 fs/io_uring.c
+1589970225 40bb0e904212cf7d6f041a98c58c8341b2016670 christophe.leroy@csgroup.eu 4 4 arch/powerpc/include/asm/book3s/32/hash.h
+1589970225 40bb0e904212cf7d6f041a98c58c8341b2016670 christophe.leroy@csgroup.eu 6 3 arch/powerpc/kernel/head_32.S
+1589970225 40bb0e904212cf7d6f041a98c58c8341b2016670 christophe.leroy@csgroup.eu 8 6 arch/powerpc/mm/book3s32/hash_low.S
+1589581373 1cf6022bd9161081215028203919c33fcfa6debb keno@juliacomputing.com 4 3 arch/arm64/kernel/ptrace.c
+1589944827 b532576ed39efe3b351ae8320b2ab67a4c4c3719 axboe@kernel.dk 2 1 fs/io_uring.c
+1589925169 4f4eeba87cc731b200bff9372d14a80f5996b277 bijan.mottahedeh@oracle.com 8 8 fs/io_uring.c
+1589871012 259eb82475316672a5d682a94dc8bdd53cf8d8c3 pshou@realtek.com 3 0 sound/pci/hda/patch_realtek.c
+1589824648 b0cb099062b0c18246c3a20caaab4c0afc303255 sbahling@suse.com 2 1 sound/pci/ice1712/ice1712.c
+1589821457 e3aabf9554fd04eb14cd44ae7583fc9d40edd250 axboe@kernel.dk 5 3 fs/io_uring.c
+1589780324 d9e8fe0cffbfdd18de96fa68ee2a8b667a0b046e gladiac@gmail.com 1 0 sound/pci/hda/patch_realtek.c
+1589776238 e7513c5786f8b33f0c107b3759e433bc6cbb2efa brent.lu@intel.com 1 0 sound/core/pcm_lib.c
+1589746898 948a7749454b1712f1b2f2429f9493eb3e4a89b0 axboe@kernel.dk 1 4 fs/io_uring.c
+1589713332 bd2ab18a1d6267446eae1b47dd839050452bdf7f asml.silence@gmail.com 9 3 fs/io_uring.c
+1589713331 650b548129b60b0d23508351800108196f4aa89f asml.silence@gmail.com 7 6 fs/io_uring.c
+1589728800 583863ed918136412ddf14de2e12534f17cfdc6f axboe@kernel.dk 1 1 fs/io_uring.c
