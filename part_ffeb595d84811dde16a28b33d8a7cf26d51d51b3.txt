@@ -1,0 +1,10 @@
+
+1590588478 e9bdf7e655b9ee81ee912fae1d59df48ce7311b6 linus.walleij@linaro.org 9 2 drivers/gpio/gpiolib.c
+1590732886 2f26ed1764b42a8c40d9c48441c73a70d805decf dja@axtens.net 3 0 arch/powerpc/kernel/Makefile
+1590473888 595d153dd1022392083ac93a1550382cbee127e0 mpe@ellerman.id.au 2 0 arch/powerpc/kernel/exceptions-64s.S
+1590120738 98f7d1b15e87c84488b30ecc4ec753b0690b9dbf yangtiezhu@loongson.cn 1 1 drivers/gpio/gpio-bcm-kona.c
+1590120739 558ab2e8155e5f42ca0a6407957cd4173dc166cc yangtiezhu@loongson.cn 2 2 drivers/gpio/gpio-pxa.c
+1590026233 e6862430fa5ef557d40c221c7f9bb3beb5feaca4 axel.lin@ingics.com 3 3 drivers/gpio/gpio-mlxbf2.c
+1589033293 9fefca775c8ddbbbcd97f2860218188b8641819d bgolaszewski@baylibre.com 13 2 drivers/gpio/gpiolib.c
+1588168614 333830aa149a87cabeb5d30fbcf12eecc8040d2c tiwai@suse.de 5 2 drivers/gpio/gpio-exar.c
+1587115317 19c26d90ff4ca08ef2a2fef23cc9c13cfbfd891e s.hauer@pengutronix.de 9 6 drivers/gpio/gpio-mvebu.c
