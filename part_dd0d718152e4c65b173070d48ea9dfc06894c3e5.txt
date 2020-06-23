@@ -1,0 +1,21 @@
+
+1592794942 625d3449788f85569096780592549d0340e9c0c7 Jason@zx2c4.com 0 5 Documentation/ABI/testing/dev-kmsg
+1592794942 625d3449788f85569096780592549d0340e9c0c7 Jason@zx2c4.com 0 10 kernel/printk/printk.c
+1592450485 06096cc6c5a84ced929634b0d79376b94c65a4bd zhenzhong.duan@gmail.com 10 10 drivers/spi/spidev.c
+1592450484 abd42781c3d2155868821f1b947ae45bbc33330d zhenzhong.duan@gmail.com 2 2 drivers/spi/spidev.c
+1592407289 95b2c3ec4cb1689db2389c251d39f64490ba641c ckeepax@opensource.cirrus.com 1 0 drivers/base/regmap/regmap.c
+1592307035 35700e221b18fa53401e5f315be90af9e0bbcdca patrice.chotard@st.com 26 20 drivers/spi/spi-stm32-qspi.c
+1592315430 1b3bcca2085865c1facfbea9baf2f5cde5dc15e4 axel.lin@ingics.com 1 1 drivers/regulator/Kconfig
+1592033874 27784a256c2a453d891c0aaff84c3ac3f2e8a5a0 geert+renesas@glider.be 4 4 include/uapi/linux/spi/spidev.h
+1592171648 6f1cf5257acc6e6242ddf2f52bc7912aed77b79f yibin.gong@nxp.com 39 21 drivers/regulator/pfuze100-regulator.c
+1591953797 92919679d31721381e3c376488477efe49b915f3 matti.vaittinen@fi.rohmeurope.com 1 1 drivers/regulator/helpers.c
+1591959033 d7442ba13d62de9afc4e57344a676f9f4623dcaa martin.fuzzey@flowbird.group 0 1 drivers/regulator/da9063-regulator.c
+1591803717 03fe7aaf0c3d40ef7feff2bdc7180c146989586a krzk@kernel.org 4 4 drivers/spi/spi-fsl-dspi.c
+1591880212 7bb64402a092136fb2fda995b0e0304b43c163c5 zhangqing@loongson.cn 4 0 include/uapi/linux/spi/spidev.h
+1591880211 bd2077915bfebf6965480753f9dd6a8319d06d14 zhangqing@loongson.cn 3 3 tools/spi/spidev_test.c
+1591721727 a575357b6435c6dd988b8194c59eec83f6e5d5af alexander.stein@mailbox.org 17 9 Documentation/devicetree/bindings/spi/amlogic,meson-gx-spicc.yaml
+1591610374 e0fe70051f12c25c4afb04cb10ca8648c6e761cf geert+renesas@glider.be 21 7 drivers/spi/spi-rspi.c
+1591610449 9ec8ade812240f3ef553b5e8bfc74deec3f14339 geert+renesas@glider.be 2 2 tools/spi/spidev_test.c
+1591522461 e680a4098f6404191e0e438a9758715b0bff6d7f bgolaszewski@baylibre.com 3 2 drivers/base/regmap/regmap.c
+1591086255 8bdd79dae1ff5397351b95e249abcae126572617 ling_ling.xu@unisoc.com 1 1 drivers/spi/spi-sprd-adi.c
+1590918780 53d860952c8215cf9ae1ea33409c8cb71ad6ad3d jt@toerring.de 46 54 drivers/base/regmap/regmap.c
