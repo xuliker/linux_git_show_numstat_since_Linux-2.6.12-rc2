@@ -1,0 +1,24 @@
+
+1592365283 e4553b4976d1178c13da295cb5c7b21f55baf8f9 sean.j.christopherson@intel.com 0 2 arch/x86/kvm/vmx/vmx.h
+1592308061 26769f96e6231095f6b1cc3090c903280d44bb57 mtosatti@redhat.com 2 1 arch/x86/kvm/x86.c
+1592292787 bf10bd0be53282183f374af23577b18b5fbf7801 xiaoyao.li@intel.com 2 2 arch/x86/kvm/x86.c
+1592873495 bf09fb6cba4f7099620cc9ed32d94c27c4af992e sean.j.christopherson@intel.com 0 2 arch/x86/include/asm/mwait.h
+1592873495 bf09fb6cba4f7099620cc9ed32d94c27c4af992e sean.j.christopherson@intel.com 0 6 arch/x86/kernel/cpu/umwait.c
+1592873495 bf09fb6cba4f7099620cc9ed32d94c27c4af992e sean.j.christopherson@intel.com 0 18 arch/x86/kvm/vmx/vmx.c
+1592863109 2dbebf7ae1ed9a420d954305e2c9d5ed39ec57c3 sean.j.christopherson@intel.com 1 1 arch/x86/include/asm/kvm_host.h
+1592863109 2dbebf7ae1ed9a420d954305e2c9d5ed39ec57c3 sean.j.christopherson@intel.com 1 1 arch/x86/kvm/mmu.h
+1592863109 2dbebf7ae1ed9a420d954305e2c9d5ed39ec57c3 sean.j.christopherson@intel.com 2 2 arch/x86/kvm/mmu/mmu.c
+1592863109 2dbebf7ae1ed9a420d954305e2c9d5ed39ec57c3 sean.j.christopherson@intel.com 4 3 arch/x86/kvm/mmu/paging_tmpl.h
+1592863109 2dbebf7ae1ed9a420d954305e2c9d5ed39ec57c3 sean.j.christopherson@intel.com 3 3 arch/x86/kvm/vmx/vmx.c
+1592838875 312d16c7c06174f44f96ef4a61c2936e6e360414 vkuznets@redhat.com 3 6 arch/x86/kvm/mmu/paging_tmpl.h
+1592836662 44d527170731c75587e95052f3eea72b8c651daf pbonzini@redhat.com 1 1 arch/x86/include/asm/kvm_host.h
+1592836662 44d527170731c75587e95052f3eea72b8c651daf pbonzini@redhat.com 31 20 arch/x86/kvm/lapic.c
+1592842110 af28dfacbe00d53df5dec2bf50640df33138b1fe imammedo@redhat.com 1 0 arch/x86/kvm/lapic.c
+1592559646 49097762fa405cdc16f8f597f6d27c078d4a31e9 vkuznets@redhat.com 1 2 arch/x86/kvm/vmx/vmx.c
+1592347734 86f56395feb2b106b125c47e72192e37da5dd088 christian.brauner@ubuntu.com 5 0 tools/testing/selftests/pidfd/pidfd.h
+1592347734 86f56395feb2b106b125c47e72192e37da5dd088 christian.brauner@ubuntu.com 0 5 tools/testing/selftests/pidfd/pidfd_getfd_test.c
+1592347734 86f56395feb2b106b125c47e72192e37da5dd088 christian.brauner@ubuntu.com 12 0 tools/testing/selftests/pidfd/pidfd_setns_test.c
+1592346792 e571d4ee334719727f22cce30c4c74471d4ef68a christian.brauner@ubuntu.com 1 1 kernel/nsproxy.c
+1591667118 88c200d929c969408779dbae4c4fad32bc510373 sean.j.christopherson@intel.com 20 12 arch/x86/kvm/vmx/vmcs.h
+1586965029 b95273f1272398a9f7145de37703f1930244e465 cai@lca.pw 1 1 arch/x86/kvm/svm/svm.c
+1592204215 0ae705f3d2b22d9d762f67fd49aa6c290987c6a3 chenhc@lemote.com 2 0 arch/mips/kvm/mips.c
