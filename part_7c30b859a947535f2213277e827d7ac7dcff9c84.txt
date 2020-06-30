@@ -1,0 +1,19 @@
+
+1593441705 b6509f6a8c4313c068c69785c001451415969e44 mgorman@techsingularity.net 1 1 fs/file_table.c
+1593085099 5f8f06425a0dcdad7bedbb77e67f5c65ab4dacfc dien.pham.ry@renesas.com 1 1 drivers/thermal/rcar_gen3_thermal.c
+1592557705 371a3bc79c11b707d7a1b7a2c938dc3cc042fffb finley.xiao@rock-chips.com 3 3 drivers/thermal/cpufreq_cooling.c
+1590577726 3ecc82926be729cb107a287cb6b1f07a2adb44bb amit.kucheria@linaro.org 5 5 drivers/thermal/qcom/tsens.c
+1590371941 b4147917ad4ff2c755e01a7ca296b14030d2d507 yangtiezhu@loongson.cn 2 2 drivers/thermal/sprd_thermal.c
+1584965735 14533a5a6c12e8d7de79d309d4085bf186058fe1 michael.kao@mediatek.com 4 1 drivers/thermal/mtk_thermal.c
+1585232945 b45fd13be340e4ed0a2a9673ba299eb2a71ba829 Anson.Huang@nxp.com 4 3 drivers/thermal/imx_thermal.c
+1593093641 cf961fce30f8269d0c2662c48b2618005b67dfd4 jarkko.nikula@linux.intel.com 5 0 drivers/spi/spi-pxa2xx.c
+1592823943 f148915f91fccd8c3df1b0bff7d1c8458cad3be5 krzk@kernel.org 2 2 drivers/spi/spi-fsl-dspi.c
+1592823942 3d87b613d6a3c6f0980e877ab0895785a2dde581 krzk@kernel.org 13 4 drivers/spi/spi-fsl-dspi.c
+1592823941 3c525b69e8c1a9a6944e976603c7a1a713e728f9 krzk@kernel.org 1 14 drivers/spi/spi-fsl-dspi.c
+1592823940 7684580d45bd3d84ed9b453a4cadf7a9a5605a3f krzk@kernel.org 10 1 drivers/spi/spi-fsl-dspi.c
+1591651612 e04ec0de61c1eb9693179093e83ab8ca68a30d08 daniel.m.jordan@oracle.com 2 2 kernel/padata.c
+1591598923 34c86f4c4a7be3b3e35aa48bd18299d4c756064d herbert@gondor.apana.org.au 11 15 crypto/af_alg.c
+1591598923 34c86f4c4a7be3b3e35aa48bd18299d4c756064d herbert@gondor.apana.org.au 3 6 crypto/algif_aead.c
+1591598923 34c86f4c4a7be3b3e35aa48bd18299d4c756064d herbert@gondor.apana.org.au 3 6 crypto/algif_hash.c
+1591598923 34c86f4c4a7be3b3e35aa48bd18299d4c756064d herbert@gondor.apana.org.au 3 6 crypto/algif_skcipher.c
+1591598923 34c86f4c4a7be3b3e35aa48bd18299d4c756064d herbert@gondor.apana.org.au 2 2 include/crypto/if_alg.h
