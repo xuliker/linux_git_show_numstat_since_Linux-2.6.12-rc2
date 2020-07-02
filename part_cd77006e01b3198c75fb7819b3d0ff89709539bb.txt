@@ -1,0 +1,14 @@
+
+1593210497 77b48bea2fee47c15a835f6725dd8df0bc38375a joseph.salisbury@microsoft.com 1 1 drivers/hv/vmbus_drv.c
+1592480606 5267456e953fd8c5abd8e278b1cc6a9f9027ac0a sj1557.seo@samsung.com 1 1 fs/exfat/dir.c
+1592480606 5267456e953fd8c5abd8e278b1cc6a9f9027ac0a sj1557.seo@samsung.com 1 0 fs/exfat/exfat_fs.h
+1592480606 5267456e953fd8c5abd8e278b1cc6a9f9027ac0a sj1557.seo@samsung.com 18 1 fs/exfat/file.c
+1592363838 3bcfb701099acf96b0e883bf5544f96af473aa1d namjae.jeon@samsung.com 1 1 fs/exfat/namei.c
+1592285685 a0271a15cf2cf907ea5b0f2ba611123f1b7935ec hyc.lee@gmail.com 10 0 fs/exfat/super.c
+1591809733 e8dd3cda8667118b70d9fe527f61fe22623de04d dan.carpenter@oracle.com 10 2 fs/exfat/namei.c
+1591680644 4ba6ccd695f5ed3ae851e59b443b757bbe4557fe Hyeongseok@gmail.com 6 4 fs/exfat/dir.c
+1592927852 20c59ce010f84300f6c655d32db2610d3433f85c maurizio.drocco@ibm.com 1 1 security/integrity/ima/ima.h
+1592927852 20c59ce010f84300f6c655d32db2610d3433f85c maurizio.drocco@ibm.com 14 1 security/integrity/ima/ima_crypto.c
+1592778095 23e390cdbe6f85827a43d38f9288dcd3066fa376 kpsingh@google.com 1 1 include/linux/lsm_hook_defs.h
+1592778095 23e390cdbe6f85827a43d38f9288dcd3066fa376 kpsingh@google.com 16 1 security/security.c
+1592244752 4bc799dcb67066e0531004d5bdbe755bb02b5488 samitolvanen@google.com 1 1 include/linux/lsm_hook_defs.h
