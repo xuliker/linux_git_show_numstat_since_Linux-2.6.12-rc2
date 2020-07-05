@@ -1,0 +1,26 @@
+
+1593814530 8beeae86b8e19a4714531f8764b68bd828ffba2a jsavitz@redhat.com 1 1 mm/page_alloc.c
+1593814527 a3a66c3822e03692ed7c5888e8f2d384cc698d34 hch@lst.de 1 1 arch/arm64/kernel/probes/kprobes.c
+1593814527 a3a66c3822e03692ed7c5888e8f2d384cc698d34 hch@lst.de 2 1 arch/x86/hyperv/hv_init.c
+1593814527 a3a66c3822e03692ed7c5888e8f2d384cc698d34 hch@lst.de 1 1 kernel/module.c
+1593814524 40366bd70bbbbf822ca224dfc227a8c8e868c44f song.bao.hua@hisilicon.com 2 2 mm/cma.c
+1593814521 c3eeaae9fd736b7f2afbda8d3cbb1cbae06decf3 keescook@chromium.org 2 0 samples/vfs/test-statx.c
+1593814518 1139d336fff425f9a20374945cdd28eb44d09fa8 mike.kravetz@oracle.com 1 1 mm/hugetlb.c
+1593799814 d4d80e69927ab5da67026c1c94e23c305dbc799e willy@infradead.org 3 3 fs/proc/proc_sysctl.c
+1593728029 0d242479b3e6f7b5aebea3ef07b8a73c4f45b50c rentao.bupt@gmail.com 1 1 drivers/hwmon/pmbus/Kconfig
+1593605798 578c1bb9056263ad3c9e09746b3d6e4daf63bdb0 jgross@suse.com 6 16 drivers/xen/xenbus/xenbus_client.c
+1593605797 3848e4e0a32afb96dc3b84e1358c3b9d103c6a2c jgross@suse.com 83 78 drivers/xen/xenbus/xenbus_client.c
+1593651341 19e888678bac8c82206eb915eaf72741b2a2615c lsahlber@redhat.com 1 1 fs/cifs/transport.c
+1593392798 9ffad9263b467efd8f8dc7ae1941a0a655a2bab2 zhangxiaoxu5@huawei.com 8 2 fs/cifs/inode.c
+1593201489 5391b8e1b7b7e5cfa2dd4ffdc4b8c6b64dfd1866 paul@darkrain42.org 1 4 fs/cifs/connect.c
+1593201488 6b356f6cf941d5054d7fab072cae4a5f8658e3db paul@darkrain42.org 1 0 fs/cifs/connect.c
+1593201487 ad35f169db6cd5a4c5c0a5a42fb0cad3efeccb83 paul@darkrain42.org 1 0 fs/cifs/connect.c
+1593201486 00dfbc2f9c61185a2e662f27c45a0bb29b2a134f paul@darkrain42.org 2 0 fs/cifs/connect.c
+1593201485 cc15461c73d7d044d56c47e869a215e49bd429c8 paul@darkrain42.org 1 0 fs/cifs/connect.c
+1593201484 aadd69cad07b4afe9e4c260bfcfcd954c6e696e1 paul@darkrain42.org 5 1 fs/cifs/cifs_debug.c
+1593305826 caef73cf207074a62701c95c317a97b2f8c1e04e tanxiaofei@huawei.com 0 1 arch/arm/xen/enlighten.c
+1593059562 8b97f9922211c44a739c5cbd9502ecbb9f17f6d1 misono.tomohiro@jp.fujitsu.com 3 1 drivers/hwmon/acpi_power_meter.c
+1592950388 016983d138cbe99a5c0aaae0103ee88f5300beb3 linchuyuan@google.com 4 3 drivers/hwmon/max6697.c
+1592898459 b4c8af4c2a226fc9c25e1decbd26fdab1b0993ee jan.kundrat@cesnet.cz 4 4 drivers/hwmon/pmbus/pmbus_core.c
+1591626096 26797d8b467b18f7c71cd5fca75d17ae7cd832ab linux@roeck-us.net 4 4 drivers/hwmon/bt1-pvt.c
+1591142873 332516947ef83343b9bcc7275ff99db392592c94 Sergey.Semin@baikalelectronics.ru 2 2 drivers/hwmon/bt1-pvt.c
