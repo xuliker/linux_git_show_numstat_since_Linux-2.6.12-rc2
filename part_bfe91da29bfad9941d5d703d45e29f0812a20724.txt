@@ -1,0 +1,26 @@
+
+1594029179 b9e10d4a6c9f5cbe6369ce2c17ebc67d2e5a4be5 ascull@google.com 7 4 arch/arm64/kvm/hyp-init.S
+1593865855 146f76cc84b787c4eec6ed73ebeec708a06e4ae4 maz@kernel.org 6 1 arch/arm64/kvm/pmu.c
+1593749062 fa71e9527f6a0153ae6a880031b902818af1bdaf sean.j.christopherson@intel.com 2 2 arch/x86/kvm/vmx/nested.c
+1593749062 fa71e9527f6a0153ae6a880031b902818af1bdaf sean.j.christopherson@intel.com 5 10 arch/x86/kvm/vmx/vmx.c
+1593749061 7c83d096aed055a7763a03384f92115363448b71 sean.j.christopherson@intel.com 1 1 arch/x86/kvm/kvm_cache_regs.h
+1593749061 7c83d096aed055a7763a03384f92115363448b71 sean.j.christopherson@intel.com 2 0 arch/x86/kvm/vmx/vmx.c
+1593742634 d74fcfc1f0ff4b6c26ecef1f9e48d8089ab4eaac sean.j.christopherson@intel.com 2 0 arch/x86/kvm/x86.c
+1593743188 d8ca55addb9315ecd9fc4397f4c94d3f1980161c sean.j.christopherson@intel.com 1 0 drivers/s390/cio/vfio_ccw_chp.c
+1593682771 1393b4aaf9e1e803d59726053d542cebd4e2b5b2 pbonzini@redhat.com 2 1 virt/kvm/kvm_main.c
+1593581533 9e9f85e029a2ee4167aacf3ff04e4288a5e5c74e heiko.carstens@de.ibm.com 35 9 arch/s390/configs/debug_defconfig
+1593581533 9e9f85e029a2ee4167aacf3ff04e4288a5e5c74e heiko.carstens@de.ibm.com 33 10 arch/s390/configs/defconfig
+1593581533 9e9f85e029a2ee4167aacf3ff04e4288a5e5c74e heiko.carstens@de.ibm.com 5 0 arch/s390/configs/zfcpdump_defconfig
+1593163474 5aa98879efe77d33d1639e006d4b0c1579cde9f6 tmricht@linux.ibm.com 10 1 arch/s390/kernel/perf_cpum_sf.c
+1593515240 5ecad245de2ae23dc4e2dbece92f8ccfbaed2fa7 pbonzini@redhat.com 1 1 arch/x86/kvm/mmu/mmu.c
+1593426391 9d3c447c72fb2337ca39f245c6ae89f2369de216 wanpengli@tencent.com 3 0 arch/x86/kvm/x86.c
+1592493439 95e61b1b5d6394b53d147c0fcbe2ae70fbe09446 gor@linux.ibm.com 1 0 arch/s390/kernel/setup.c
+1593013154 d6df52e9996dcc2062c3d9c9123288468bb95b52 gor@linux.ibm.com 9 5 arch/s390/mm/maccess.c
+1592493387 3047766bc6ec9c6bc9ece85b45a41ff401e8d988 schnelle@linux.ibm.com 12 1 arch/s390/pci/pci_event.c
+1592905448 a3f574cd65487cd993f79ab235d70229d9302c1e maz@kernel.org 8 0 arch/arm64/kvm/vgic/vgic-v4.c
+1592905448 a3f574cd65487cd993f79ab235d70229d9302c1e maz@kernel.org 8 0 drivers/irqchip/irq-gic-v3-its.c
+1592836030 a25e91028ac2f544e0140aff2c9360a0e995dd86 drjones@redhat.com 12 3 arch/arm64/kvm/pvtime.c
+1592391296 66b7e05dc0239c5817859f261098ba9cc2efbd2b steven.price@arm.com 7 3 arch/arm64/kvm/reset.c
+1592500374 7733306bd593c737c63110175da6c35b4b8bb32c alexandru.elisei@arm.com 1 1 arch/arm64/include/asm/arch_gicv3.h
+1592500374 7733306bd593c737c63110175da6c35b4b8bb32c alexandru.elisei@arm.com 1 1 arch/arm64/include/asm/cpufeature.h
+1592382980 774911290c589e98e3638e73b24b0a4d4530e97c borntraeger@de.ibm.com 4 4 arch/s390/include/asm/kvm_host.h
