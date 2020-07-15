@@ -1,0 +1,16 @@
+
+1594665459 f81fdd0c4ab7ac2c57302283309bf776557d35ff torvalds@linux-foundation.org 21 2 mm/mremap.c
+1591303144 a082121b55bac125f7d09d78de00607ea75a6903 jcrouse@codeaurora.org 1 1 drivers/iommu/arm-smmu-qcom.c
+1593821403 9ac8545199a1b711f5643f535b82981faa0b4bf1 cai@lca.pw 1 1 drivers/iommu/iommu.c
+1594272303 a50ca29523b18baea548bdf5df9b4b923c2bb4f6 dave.wang@emc.com.tw 7 0 include/linux/input/elan-i2c-ids.h
+1594086531 17d51429da722cd8fc77a365a112f008abf4f8b3 limero1337@gmail.com 7 0 drivers/input/serio/i8042-x86ia64io.h
+1594082855 93b9de223c0135db495c25334e66cb669bef13e2 dmitry.torokhov@gmail.com 0 1 drivers/input/touchscreen/elants_i2c.c
+1594082381 966334dfc472bdfa67bed864842943b19755d192 dbasehore@chromium.org 5 4 drivers/input/mouse/elan_i2c_core.c
+1594074463 dcb00fc799dc03fd320e123e4c81b3278c763ea5 me@0upti.me 1 0 drivers/input/mouse/synaptics.c
+1593542860 ed3e98e919aaaa47e9d9f8a40c3f6f4a22577842 merlijn@wizzup.org 8 4 arch/arm/boot/dts/omap3-n900.dts
+1593542824 c463bb2a8f8d7d97aa414bf7714fc77e9d3b10df merlijn@wizzup.org 1 1 include/linux/mod_devicetable.h
+1593542824 c463bb2a8f8d7d97aa414bf7714fc77e9d3b10df merlijn@wizzup.org 2 1 include/uapi/linux/input-event-codes.h
+1593521171 e7fc23838ebbdbb227c8d45fe02904d0d67a0540 jroedel@suse.de 1 1 drivers/iommu/amd/amd_iommu.h
+1593432706 c7451e495b2abfc35b2bb4347c8d0aaa7699df26 geert@linux-m68k.org 1 0 drivers/iommu/Kconfig
+1593367724 ce0fd3892bfafca7cd352638ba84e8c17658b803 maxime@cerno.tech 0 2 drivers/iommu/sun50i-iommu.c
+1593367723 bc8784f348836ab8967e6116486c5079c7025999 maxime@cerno.tech 3 3 drivers/iommu/sun50i-iommu.c
