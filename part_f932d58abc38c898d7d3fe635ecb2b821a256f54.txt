@@ -1,0 +1,18 @@
+
+1595075530 c66ef39eb27fe123ee05082b90eb2985c33c7715 mail@maciej.szmigiero.name 43 0 drivers/hwmon/drivetemp.c
+1594925846 38b7c2a3ffb1fce8358ddc6006cfe5c038ff9963 palmerdabbelt@google.com 9 1 arch/riscv/include/asm/barrier.h
+1594814513 07d3f04550023395bbf34b99ec7e00fc50d9859f chandrakanth.patil@broadcom.com 0 2 drivers/scsi/megaraid/megaraid_sas_fusion.c
+1594815218 3ce17cd2b94907f6d91b81b32848044b84c97606 cristian.marussi@arm.com 1 1 drivers/hwmon/scmi-hwmon.c
+1594424998 f0479c4bcbd92d1a457d4a43bcab79f29d11334a haren@linux.ibm.com 2 2 tools/testing/selftests/powerpc/nx-gzip/gunz_test.c
+1594424998 f0479c4bcbd92d1a457d4a43bcab79f29d11334a haren@linux.ibm.com 2 2 tools/testing/selftests/powerpc/nx-gzip/gzfht_test.c
+1594424839 6068e1a4427e88f5cc62f238d1baf94a8b824ef4 haren@linux.ibm.com 1 1 Documentation/powerpc/vas-api.rst
+1594424839 6068e1a4427e88f5cc62f238d1baf94a8b824ef4 haren@linux.ibm.com 2 0 arch/powerpc/include/asm/icswx.h
+1594424839 6068e1a4427e88f5cc62f238d1baf94a8b824ef4 haren@linux.ibm.com 1 1 arch/powerpc/platforms/powernv/vas-fault.c
+1594762271 8a03746c8baf82e1616f05a1a716d34378dcf780 linux@roeck-us.net 3 3 drivers/hwmon/nct6775.c
+1594038746 0cac21b02ba5f3095fd2dcc77c26a25a0b2432ed schwab@suse.de 4 0 arch/riscv/include/asm/thread_info.h
+1592550073 b710d27bf72068b15b2f0305d825988183e2ff28 sathnaga@linux.vnet.ibm.com 1 1 arch/powerpc/kernel/paca.c
+1594560047 192b6a780598976feb7321ff007754f8511a4129 aneesh.kumar@linux.ibm.com 7 5 arch/powerpc/mm/book3s64/pkeys.c
+1594267572 6d1d41c075a1a54ba03370e268171fec20e06563 linchuyuan@google.com 8 2 drivers/hwmon/pmbus/adm1275.c
+1594132067 14b0e83dc4f1e52b94acaeb85a18fd7fdd46d2dc vishwas.reddy.vr@gmail.com 1 1 drivers/hwmon/emc2103.c
+1594055835 f28e360f29031fdef8df3a1bcad666243bd6872d nchatrad@amd.com 1 1 drivers/hwmon/amd_energy.c
+1593774918 bc4071aafcf4d0535ee423b69167696d6c03207d novikov@ispras.ru 2 0 drivers/hwmon/aspeed-pwm-tacho.c
