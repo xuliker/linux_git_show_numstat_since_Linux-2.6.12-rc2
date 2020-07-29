@@ -1,0 +1,14 @@
+
+1595459599 04a8a3d0a73f51c7c2da84f494db7ec1df230e69 kernel@mkarcher.dialup.fu-berlin.de 3 3 arch/sh/kernel/entry-common.S
+1594984207 c7bcbc8ab9cb20536b8f50c62a48cebda965fdba peterz@infradead.org 1 9 arch/sh/include/asm/pgalloc.h
+1595733114 214ba3584b2e2c57536fa8aed52521ac59c5b448 shorne@gmail.com 2 2 include/asm-generic/io.h
+1595626941 fe1d899f4212a08dad98accb47cd335b58cc9085 grygorii.strashko@ti.com 1 1 arch/arm/boot/dts/keystone-k2g-evm.dts
+1595342438 09781ba0395c46b1c844f47e405e3ce7856f5989 rmk+kernel@armlinux.org.uk 2 1 arch/arm/boot/dts/armada-38x.dtsi
+1594973032 4a601da92c2a782e5c022680d476104586b74994 michael@amarulasolutions.com 2 1 arch/arm/boot/dts/imx6qdl-icore.dtsi
+1594650205 d36f260718d83928e6012247a7e1b9791cdb12ff festevam@gmail.com 1 1 arch/arm/boot/dts/imx6sx-sabreauto.dts
+1594650204 c696afd331be1acb39206aba53048f2386b781fc festevam@gmail.com 1 1 arch/arm/boot/dts/imx6sx-sdb.dtsi
+1593367684 62a8ccf3a248cd222985ee5568b6bd6217282dbc maxime@cerno.tech 3 0 Documentation/devicetree/bindings/media/allwinner,sun4i-a10-video-engine.yaml
+1593367684 62a8ccf3a248cd222985ee5568b6bd6217282dbc maxime@cerno.tech 1 0 arch/arm64/boot/dts/allwinner/sun50i-h6.dtsi
+1593868109 92025b90f18d45e26b7f17d68756b1abd771b9d3 maxime@cerno.tech 1 1 arch/arm/boot/dts/sun4i-a10.dtsi
+1593868109 92025b90f18d45e26b7f17d68756b1abd771b9d3 maxime@cerno.tech 1 1 arch/arm/boot/dts/sun5i.dtsi
+1593868109 92025b90f18d45e26b7f17d68756b1abd771b9d3 maxime@cerno.tech 1 1 arch/arm/boot/dts/sun7i-a20.dtsi
