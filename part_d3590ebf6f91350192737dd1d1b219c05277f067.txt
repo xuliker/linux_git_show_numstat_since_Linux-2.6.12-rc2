@@ -1,0 +1,26 @@
+
+1594387399 f227e3ec3b5cad859ad15666874405e8c1bbc1d4 w@1wt.eu 1 0 drivers/char/random.c
+1594387399 f227e3ec3b5cad859ad15666874405e8c1bbc1d4 w@1wt.eu 3 0 include/linux/random.h
+1594387399 f227e3ec3b5cad859ad15666874405e8c1bbc1d4 w@1wt.eu 8 0 kernel/time/timer.c
+1594387399 f227e3ec3b5cad859ad15666874405e8c1bbc1d4 w@1wt.eu 1 1 lib/random32.c
+1595964801 8ac68dc455d9d18241d44b96800d73229029ed34 paul@paul-moore.com 0 1 kernel/audit.c
+1595964801 8ac68dc455d9d18241d44b96800d73229029ed34 paul@paul-moore.com 0 8 kernel/audit.h
+1595964801 8ac68dc455d9d18241d44b96800d73229029ed34 paul@paul-moore.com 3 0 kernel/auditsc.c
+1595284250 8490d6a7e0a0a6fab5c2d82d57a3937306660864 cohens@codeaurora.org 4 6 drivers/gpu/drm/drm_gem.c
+1593785621 900ab59e2621053b009f707f80b2c19ce0af5dee paul@crapouillou.net 1 1 drivers/gpu/drm/drm_mipi_dbi.c
+1594323016 2a1658bf922ffd9b7907e270a7d9cdc9643fc45d sam@ravnborg.org 1 0 drivers/gpu/drm/bochs/bochs_kms.c
+1594323016 2a1658bf922ffd9b7907e270a7d9cdc9643fc45d sam@ravnborg.org 5 1 drivers/gpu/drm/drm_fb_helper.c
+1594323016 2a1658bf922ffd9b7907e270a7d9cdc9643fc45d sam@ravnborg.org 12 0 include/drm/drm_mode_config.h
+1595115202 aa7bf898d4bf921f61fab078040e8baec3f28126 linus.walleij@linaro.org 8 3 drivers/gpu/drm/mcde/mcde_display.c
+1595096797 07c08f5210e08dd6d4e0c3f8df2cf1c7de6d4ea4 agx@sigxcpu.org 0 5 drivers/gpu/drm/bridge/nwl-dsi.c
+1594730012 d76acc9fcddeda53b985b029c890976a87fcc3fc jitao.shi@mediatek.com 3 3 drivers/gpu/drm/panel/panel-boe-tv101wum-nl6.c
+1594930882 667d73d72f3188909914c60e97a1db33edc21971 dianders@chromium.org 15 1 drivers/gpu/drm/panel/panel-simple.c
+1595248947 f10761c9df96a882438faa09dcd25261281d69ca laurentiu.palcu@nxp.com 1 0 drivers/gpu/drm/bridge/adv7511/adv7511_drv.c
+1595502654 4ee48cc5586bf519df19894273002aa8ef7b70ad biju.das.jz@bp.renesas.com 1 3 drivers/gpu/drm/drm_of.c
+1595574168 15fbc3b938534cc8eaac584a7b0c1183fc968b86 bskeggs@redhat.com 1 1 drivers/gpu/drm/nouveau/nouveau_fbcon.c
+1595574099 498595abf5bd51f0ae074cec565d888778ea558f bskeggs@redhat.com 1 0 drivers/gpu/drm/nouveau/nouveau_fbcon.c
+1595499042 705d9d022949e3cdae82d89db6a8fc773eb23dad bskeggs@redhat.com 1 1 drivers/gpu/drm/nouveau/dispnv50/disp.c
+1595561200 0508831470fb5ba02485156cb8bea9aeda74248b bskeggs@redhat.com 1 1 drivers/gpu/drm/nouveau/dispnv50/disp.c
+1594193289 163d5446c37af92c85e6d58f87fe9840abac71ea bskeggs@redhat.com 21 9 drivers/gpu/drm/nouveau/nvkm/engine/disp/outp.c
+1591952913 74d6a5d5662975aed7f25952f62efbb6f6dadd29 wanghai38@huawei.com 14 1 net/9p/trans_fd.c
+1594371442 a39c46067c845a8a2d7144836e9468b7f072343e hch@lst.de 16 8 net/9p/trans_fd.c
