@@ -1,0 +1,12 @@
+
+1596911833 2217b982624680d19a80ebb4600d05c8586c4f96 jcmvbkbc@gmail.com 12 8 fs/binfmt_flat.c
+1597851756 c2affe920b0e0669650943ac086215cf6519be34 ahuang12@lenovo.com 6 0 drivers/dax/super.c
+1597773244 5b0545dc184442fa509a311b8c855370441ad5bc jkosina@suse.cz 24 29 drivers/hid/usbhid/hid-core.c
+1597773244 5b0545dc184442fa509a311b8c855370441ad5bc jkosina@suse.cz 0 2 drivers/hid/usbhid/usbhid.h
+1597222501 62c789270c0b1ed5598c6b87c53b6908cd3c6eb5 qiang.zhang@windriver.com 1 0 drivers/nvdimm/dimm_devs.c
+1596022632 25a097f5204675550afb879ee18238ca917cba7a yepeilin.cs@gmail.com 4 0 drivers/hid/usbhid/hiddev.c
+1597653388 627a49975bdc3220f360a8237603a6344ee6a588 s.parschauer@gmx.de 3 0 drivers/hid/hid-ids.h
+1597653388 627a49975bdc3220f360a8237603a6344ee6a588 s.parschauer@gmx.de 3 0 drivers/hid/hid-quirks.c
+1597153198 eef4016243e94c438f177ca8226876eb873b9c75 hdegoede@redhat.com 13 9 drivers/hid/i2c-hid/i2c-hid-core.c
+1595856120 d71c8008e194bf947fe260110c8553ff91469294 rikard.falkeborn@gmail.com 1 1 drivers/hid/hid-macally.c
+1595856119 857ce8c1c504e25d08724a86df4e64bf6f282323 rikard.falkeborn@gmail.com 1 1 drivers/hid/hid-cougar.c
