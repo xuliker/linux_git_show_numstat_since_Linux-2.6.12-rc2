@@ -1,0 +1,20 @@
+
+1598734256 0a4c56c80f90797e9b9f8426c6aae4c0cf1c9785 torvalds@linux-foundation.org 6 6 drivers/dma/fsldma.h
+1598561072 c165a08d2b2857c91c627039c4881f9d7ad1a3bd gustavoars@kernel.org 0 1 arch/arm64/kernel/cpuinfo.c
+1598560588 0cc4a0c486f37af1ea3932ae8f76afbefe105a32 gustavoars@kernel.org 5 5 drivers/media/usb/dvb-usb/dib0700_devices.c
+1598548824 c1ae18d313e24bc7833e1749dd36dba5d47f259c tharvey@gateworks.com 1 0 drivers/hwmon/gsc-hwmon.c
+1598441534 210e799ed275488bcae16f1acd3d259043ec6c68 dan.carpenter@oracle.com 0 1 fs/afs/flock.c
+1598347913 9d3004bf7ba32c89873bb8422671d52b4bb52ce1 simon@leiner.me 5 1 include/xen/arm/page.h
+1598347912 d742db70033c745e410523e00522ee0cfe2aa416 simon@leiner.me 8 2 drivers/xen/xenbus/xenbus_client.c
+1598368978 c330fb1ddc0a922f044989492b7fcca77ee1db46 tglx@linutronix.de 8 8 drivers/xen/events/events_base.c
+1598399832 b19a8b3d36697d8cf8f9a305d85a313d931fef71 gustavoars@kernel.org 2 1 drivers/iio/dac/dpot-dac.c
+1598027256 bffc2f7aa96343f91931272d7a8a2d8d925e1ab2 gor@linux.ibm.com 1 0 arch/s390/mm/vmem.c
+1597909703 1196f12a2c960951d02262af25af0bb1775ebcc2 svens@linux.ibm.com 14 14 arch/s390/include/asm/percpu.h
+1597444808 0204081128d582965e9e39ca83ee6e4f7d27142b ray.jui@broadcom.com 2 2 drivers/i2c/busses/i2c-bcm-iproc.c
+1597666770 914a7b3563b8fb92f976619bbd0fa3a4a708baae wsa+renesas@sang-engineering.com 1 0 drivers/i2c/busses/i2c-rcar.c
+1598029414 e4682b8a688bc3352e663545ad51997c3d84877b andriy.shevchenko@linux.intel.com 0 10 drivers/i2c/i2c-core-acpi.c
+1598029414 e4682b8a688bc3352e663545ad51997c3d84877b andriy.shevchenko@linux.intel.com 0 9 drivers/i2c/i2c-core.h
+1598029413 e3cb82c6d6f6c27ab754e13ae29bdd6b949982e2 andriy.shevchenko@linux.intel.com 1 1 drivers/i2c/i2c-core-base.c
+1597929572 cecf7560f00a8419396a2ed0f6e5d245ccb4feac trix@redhat.com 16 15 drivers/hwmon/applesmc.c
+1598026814 8aebbbb2d573d0b4afc08b90ac7d73dba2d9da97 jbaron@akamai.com 2 2 drivers/hwmon/nct7904.c
+1597084587 51fb91ed5a6fa855a74731610cd5435d83d6e17f grantpeltier93@gmail.com 6 1 drivers/hwmon/pmbus/isl68137.c
