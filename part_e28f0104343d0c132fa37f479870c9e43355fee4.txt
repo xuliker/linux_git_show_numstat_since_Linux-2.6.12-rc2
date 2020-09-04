@@ -1,0 +1,16 @@
+
+1598659286 5f7b81c18366c38446f6eedab570b98dbdc07cff rdunlap@infradead.org 1 1 arch/ia64/kernel/ia64_ksyms.c
+1598659270 08134e79e0ab138db211287ef3a705b09ba45f50 rdunlap@infradead.org 3 0 arch/microblaze/mm/init.c
+1598543340 d3a84a8d0dde4e26bc084b36ffcbdc5932ac85e2 max@enpas.org 10 6 Documentation/filesystems/affs.rst
+1598543340 d3a84a8d0dde4e26bc084b36ffcbdc5932ac85e2 max@enpas.org 27 0 fs/affs/amigaffs.c
+1598543340 d3a84a8d0dde4e26bc084b36ffcbdc5932ac85e2 max@enpas.org 25 1 fs/affs/file.c
+1597471957 ddecfc76979d5585847c76c4c489dcac389f86dd christophe.jaillet@wanadoo.fr 1 1 drivers/media/rc/mceusb.c
+1597309729 1451b93223bbe3b4e9c91fca6b451d00667c5bf0 sean@mess.org 5 11 drivers/media/rc/gpio-ir-tx.c
+1596886682 a2e2d73fa28136598e84db9d021091f1b98cbb1a sean@mess.org 12 0 drivers/media/rc/rc-main.c
+1596885552 4f0835d6677dc69263f90f976524cb92b257d9f4 sean@mess.org 16 16 drivers/media/rc/rc-main.c
+1596445626 8a30c017c99603b216907c2f7aa22d3afe4137c3 sakari.ailus@linux.intel.com 1 1 drivers/media/i2c/Kconfig
+1592844232 bca82e3557ee1fbfbdacb09033a2d81ac76c86eb jacopo+renesas@jmondi.org 1 1 drivers/media/i2c/Kconfig
+1597346313 b30063976f29fc221a99d18d37d22ca035068aa9 ezequiel@collabora.com 6 1 drivers/staging/media/sunxi/cedrus/cedrus.c
+1597228233 2e7c8fb8942773f412fe12f3b63e8bb92c18ab3f hverkuil-cisco@xs4all.nl 1 0 drivers/media/test-drivers/vicodec/vicodec-core.c
+1595836802 4ffb879ea648c2b42da4ca992ed3db87e564af69 yepeilin.cs@gmail.com 27 23 drivers/media/v4l2-core/v4l2-ioctl.c
+1598158977 bec2ddfd39f07ac2c1dec9fd5299424ad75c0a9d laurent.pinchart@ideasonboard.com 1 1 drivers/media/platform/ti-vpe/cal.h
