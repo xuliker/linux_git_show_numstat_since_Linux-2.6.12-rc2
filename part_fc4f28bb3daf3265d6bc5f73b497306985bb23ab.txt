@@ -1,0 +1,16 @@
+
+1599688430 973c096f6a85e5b5f2a295126ba6928d9a6afd45 torvalds@linux-foundation.org 0 1 arch/powerpc/configs/pasemi_defconfig
+1599688430 973c096f6a85e5b5f2a295126ba6928d9a6afd45 torvalds@linux-foundation.org 0 1 arch/powerpc/configs/ppc6xx_defconfig
+1599688430 973c096f6a85e5b5f2a295126ba6928d9a6afd45 torvalds@linux-foundation.org 0 1 arch/x86/configs/i386_defconfig
+1599688430 973c096f6a85e5b5f2a295126ba6928d9a6afd45 torvalds@linux-foundation.org 0 1 arch/x86/configs/x86_64_defconfig
+1599688430 973c096f6a85e5b5f2a295126ba6928d9a6afd45 torvalds@linux-foundation.org 0 46 drivers/video/console/Kconfig
+1599688430 973c096f6a85e5b5f2a295126ba6928d9a6afd45 torvalds@linux-foundation.org 1 220 drivers/video/console/vgacon.c
+1599587787 06a0df4d1b8b13b551668e47b11fd7629033b7df torvalds@linux-foundation.org 1 10 drivers/video/fbdev/core/bitblit.c
+1599587787 06a0df4d1b8b13b551668e47b11fd7629033b7df torvalds@linux-foundation.org 2 2 drivers/video/fbdev/core/fbcon.c
+1599587787 06a0df4d1b8b13b551668e47b11fd7629033b7df torvalds@linux-foundation.org 1 1 drivers/video/fbdev/core/fbcon.h
+1599587787 06a0df4d1b8b13b551668e47b11fd7629033b7df torvalds@linux-foundation.org 1 10 drivers/video/fbdev/core/fbcon_ccw.c
+1599587787 06a0df4d1b8b13b551668e47b11fd7629033b7df torvalds@linux-foundation.org 1 10 drivers/video/fbdev/core/fbcon_cw.c
+1599587787 06a0df4d1b8b13b551668e47b11fd7629033b7df torvalds@linux-foundation.org 1 10 drivers/video/fbdev/core/fbcon_ud.c
+1599587787 06a0df4d1b8b13b551668e47b11fd7629033b7df torvalds@linux-foundation.org 1 1 drivers/video/fbdev/core/tileblit.c
+1599504327 50145474f6ef4a9c19205b173da6264a644c7489 torvalds@linux-foundation.org 4 330 drivers/video/fbdev/core/fbcon.c
+1600070464 1c78544eaa4660096aeb6a57ec82b42cdb3bfe5a fdmanana@suse.com 2 1 fs/btrfs/ioctl.c
