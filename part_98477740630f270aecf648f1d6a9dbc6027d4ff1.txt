@@ -1,0 +1,9 @@
+
+1600680803 88b67edd7247466bc47f01e1dc539b0d0d4b931e jack@suse.cz 8 9 include/linux/dax.h
+1600607412 7d1f8691ccffe88cec70a6e4044adf1b9bbd8a7c vkuznets@redhat.com 3 19 arch/x86/kernel/kvm.c
+1600166538 620cf45f7a516bf5fe9e5dce675a652e935c8bde maz@kernel.org 2 2 arch/arm64/include/asm/kvm_emulate.h
+1600166537 c4ad98e4b72cb5be30ea282fce935248f2300e62 maz@kernel.org 10 2 arch/arm64/include/asm/kvm_emulate.h
+1600166537 c4ad98e4b72cb5be30ea282fce935248f2300e62 maz@kernel.org 1 1 arch/arm64/kvm/hyp/include/hyp/switch.h
+1600166537 c4ad98e4b72cb5be30ea282fce935248f2300e62 maz@kernel.org 2 2 arch/arm64/kvm/mmu.c
+1598368180 78edc005f477a4987ee0a5d96bfe117295c231fd paulmck@kernel.org 1 1 kernel/rcu/tasks.h
+1593097643 f20d4e924b4465822c4a35290b85aadf88ddf466 walling@linux.ibm.com 20 0 Documentation/virt/kvm/api.rst
