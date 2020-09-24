@@ -1,0 +1,13 @@
+
+1600880656 79a1971c5f14ea3a6e2b0c4caf73a1760db7cab8 torvalds@linux-foundation.org 12 12 mm/memory.c
+1600880219 df3a57d1f6072d07978bafa7dbd9904cdf8f3e13 torvalds@linux-foundation.org 79 67 mm/memory.c
+1597951226 4c07ae0ad493b7b2d3dd3e53870e594f136ce8a5 gmazyland@gmail.com 1 1 Documentation/admin-guide/device-mapper/dm-crypt.rst
+1597945538 4a5caa4af0df5cd8f1c7f0c2f871d382662b022e gmazyland@gmail.com 8 0 Documentation/admin-guide/device-mapper/dm-crypt.rst
+1599240861 b5ddcffa37778244d5e786fe32f778edf2bfc93e anand.jain@oracle.com 10 6 fs/btrfs/sysfs.c
+1600681511 2f5fb555637eff4a3e5579f2323cd358c77efdc8 mhiramat@kernel.org 13 0 tools/bootconfig/test-bootconfig.sh
+1600681502 1d210c166b693c3a659abbac4b58385c2d4cf887 mhiramat@kernel.org 12 0 tools/bootconfig/test-bootconfig.sh
+1600681491 c7af4ecdffe1537ba8aeed0ac12c3326f908df43 mhiramat@kernel.org 1 1 lib/bootconfig.c
+1600681482 ead1e19ad905b97261f0ad7a98bb64abb9323b2b mhiramat@kernel.org 23 13 lib/bootconfig.c
+1600729710 cf9c37865557d39292d82da29e9ebda1dbc584b3 snitzer@redhat.com 3 1 drivers/md/dm.c
+1600103059 ee1dfad5325ff1cfb2239e564cd411b3bfe8667a snitzer@redhat.com 2 21 drivers/md/dm.c
+1600675034 35be8851d172c6e3db836c0f28c19087b10c9e00 johannes.thumshirn@wdc.com 5 6 fs/btrfs/disk-io.c
