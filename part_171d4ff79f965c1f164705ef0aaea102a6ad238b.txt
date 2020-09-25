@@ -1,0 +1,25 @@
+
+1600962092 be068f29034fb00530a053d18b8cf140c32b12b3 torvalds@linux-foundation.org 1 1 mm/memory.c
+1600166363 c413c3102703a453c1312ce2160c6b7ffd55403e kai.heng.feng@canonical.com 0 1 sound/usb/mixer_maps.c
+1599906645 d0254f82d702a1d0d92e42f87676111de88846cf jacopo+renesas@jmondi.org 0 38 Documentation/devicetree/bindings/media/i2c/imx274.txt
+1599906645 d0254f82d702a1d0d92e42f87676111de88846cf jacopo+renesas@jmondi.org 76 0 Documentation/devicetree/bindings/media/i2c/sony,imx274.yaml
+1599906645 d0254f82d702a1d0d92e42f87676111de88846cf jacopo+renesas@jmondi.org 1 1 MAINTAINERS
+1600683992 8f8bf00b1c00b37ef5c32a642e5c3e0a364182b6 tiwai@suse.de 0 1 sound/pci/hda/patch_realtek.c
+1599728008 315c7ad7a701baba28c628c4c5426b3d9617ceed joakim.tjernlund@infinera.com 4 3 sound/usb/quirks.c
+1600066949 f73bbf639b32acb6b409e188fdde5644b301978f kai.heng.feng@canonical.com 7 0 sound/pci/hda/patch_realtek.c
+1600066278 3f74249057827c5f6676c41c18f6be12ce1469ce hui.wang@canonical.com 5 1 sound/pci/hda/patch_realtek.c
+1600015950 472eb39103e885f302fd8fd6eff104fcf5503f1b trix@redhat.com 2 2 sound/pci/asihpi/hpioctl.c
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 0 17 Documentation/userspace-api/media/v4l/buffer.rst
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 1 5 Documentation/userspace-api/media/v4l/vidioc-create-bufs.rst
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 2 10 Documentation/userspace-api/media/v4l/vidioc-reqbufs.rst
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 6 40 drivers/media/common/videobuf2/videobuf2-core.c
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 0 19 drivers/media/common/videobuf2/videobuf2-dma-contig.c
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 1 2 drivers/media/common/videobuf2/videobuf2-dma-sg.c
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 2 16 drivers/media/common/videobuf2/videobuf2-v4l2.c
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 1 1 drivers/media/dvb-core/dvb_vb2.c
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 2 8 drivers/media/v4l2-core/v4l2-compat-ioctl32.c
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 4 1 drivers/media/v4l2-core/v4l2-ioctl.c
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 2 5 include/media/videobuf2-core.h
+1599793678 129134e5415d46f38b9978b3809af94ed649b57d sergey.senozhatsky@gmail.com 2 11 include/uapi/linux/videodev2.h
+1600076563 14801c624066a55139c2c57963eb1b859d0a316a geert@linux-m68k.org 1 1 drivers/mmc/host/mmc_spi.c
+1599559373 288eceb0858323d66bff03cf386630a797b248ad hverkuil-cisco@xs4all.nl 1 1 drivers/media/cec/core/cec-adap.c
