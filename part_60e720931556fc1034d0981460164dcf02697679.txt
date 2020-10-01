@@ -1,0 +1,16 @@
+
+1601425114 90fb702791bf99b959006972e8ee7bb4609f441b torvalds@linux-foundation.org 1 1 fs/autofs/waitq.c
+1601425114 90fb702791bf99b959006972e8ee7bb4609f441b torvalds@linux-foundation.org 8 0 fs/read_write.c
+1600526362 efe84d408bf41975db8506d3a1cc02e794e2309c u.kleine-koenig@pengutronix.de 1 1 scripts/dtc/Makefile
+1601306576 64ff609b551914d8c2c51d828920f2ffc5237de7 robh@kernel.org 4 4 Documentation/devicetree/bindings/display/xlnx/xlnx,zynqmp-dpsub.yaml
+1601306576 64ff609b551914d8c2c51d828920f2ffc5237de7 robh@kernel.org 1 1 Documentation/devicetree/bindings/dma/xilinx/xlnx,zynqmp-dpdma.yaml
+1600936002 6a7548305a04ae0cd9e9f062c050f265d4bf2d2e maxime@cerno.tech 2 2 Documentation/devicetree/bindings/arm/bcm/raspberrypi,bcm2835-firmware.yaml
+1600936002 6a7548305a04ae0cd9e9f062c050f265d4bf2d2e maxime@cerno.tech 1 1 arch/arm/boot/dts/bcm2835-rpi.dtsi
+1598905617 b02cf0c4736c65c6667f396efaae6b5521e82abf dinguyen@kernel.org 1 1 drivers/clk/socfpga/clk-s10.c
+1600778446 f3bb0f796f5ffe32f0fbdce5b1b12eb85511158f m.szyprowski@samsung.com 2 2 drivers/clk/samsung/clk-exynos4.c
+1592806106 2f878d04218c8b26f6d0ab26955ca6b03848a1ad treding@nvidia.com 2 0 drivers/clk/tegra/clk-tegra210-emc.c
+1591182787 5105660ee80862b85f7769626d0f936c18ce1885 treding@nvidia.com 0 3 drivers/clk/tegra/clk-pll.c
+1591182732 6402e780e9434246a4c221034e1f8a0fd67f20bd treding@nvidia.com 2 2 drivers/clk/tegra/clk-pll.c
+1600131266 e5467b672bd99f0c1904900013e778e3a5ce30b7 marek.behun@nic.cz 1 1 Documentation/devicetree/bindings/leds/cznic,turris-omnia-leds.yaml
+1596807103 0212a0483b0a36cc94cfab882b3edbb41fcfe1cd m.szyprowski@samsung.com 5 0 drivers/clk/samsung/clk-exynos5420.c
+1598362265 d89a80ddbfd86d04d0901e576ca2016d324bcb85 t-kristo@ti.com 1 1 Documentation/devicetree/bindings/crypto/ti,sa2ul.yaml
