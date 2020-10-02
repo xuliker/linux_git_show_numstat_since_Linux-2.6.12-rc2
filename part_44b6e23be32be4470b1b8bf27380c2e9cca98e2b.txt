@@ -1,0 +1,27 @@
+
+1601187868 1a3f2fd7fc4e8f24510830e265de2ffb8e3300d2 baolu.lu@linux.intel.com 2 2 drivers/iommu/intel/iommu.c
+1601115962 0bbe4ced53e36786eafc2ecbf9a1761f55b4a82e ahuang12@lenovo.com 10 46 drivers/iommu/amd/init.c
+1601385922 a509a66a9d0d4f4e304d58fad38c078d0336c445 ardb@kernel.org 20 2 arch/arm64/kernel/acpi.c
+1601385922 a509a66a9d0d4f4e304d58fad38c078d0336c445 ardb@kernel.org 1 1 include/linux/acpi.h
+1601451024 95433a1305a000aa91f558b062ce614a3bb8ceb5 Jiansong.Chen@amd.com 3 0 drivers/gpu/drm/amd/amdgpu/gfx_v10_0.c
+1601438876 b195152536237acf65962b703394614d9c4d307b evan.quan@amd.com 11 11 drivers/gpu/drm/amd/powerplay/amdgpu_smu.c
+1601049250 f54c4442893b8dfbd3aff8e903c54dfff1aef990 zackr@vmware.com 1 1 drivers/gpu/drm/vmwgfx/vmwgfx_gmrid_manager.c
+1601049250 f54c4442893b8dfbd3aff8e903c54dfff1aef990 zackr@vmware.com 1 1 drivers/gpu/drm/vmwgfx/vmwgfx_thp.c
+1601199585 548c7ba7dc9e9dacb43bd2af00b586da48015d04 dirk@gouders.net 0 1 drivers/gpu/drm/amd/display/dc/clk_mgr/dcn21/rn_clk_mgr.c
+1601316985 3c26d0314c10ceb77511e2cc81894001d488c1d0 alexander.deucher@amd.com 5 3 drivers/gpu/drm/amd/powerplay/renoir_ppt.c
+1601284237 a39d0d7bdf8c21ac7645c02e9676b5cb2b804c31 jdelvare@suse.de 1 1 drivers/gpu/drm/amd/amdgpu/amdgpu_display.c
+1600788856 c73d05eaba1c2d60558364f2d980090ebec6b082 alexander.deucher@amd.com 16 2 drivers/gpu/drm/amd/display/dc/dcn30/Makefile
+1600843379 898c7302f4de1d91065e80fc46552b3ec70894ff flora.cui@amd.com 1 1 drivers/gpu/drm/amd/display/amdgpu_dm/amdgpu_dm_hdcp.c
+1600833503 0c7014154d6397d6a35bf3759839207f1c702a42 Jiansong.Chen@amd.com 2 8 drivers/gpu/drm/amd/amdgpu/amdgpu_device.c
+1600154300 97cf32996c46d9935cc133d910a75fb687dd6144 sudheesh.mavila@amd.com 6 4 drivers/gpu/drm/amd/powerplay/hwmgr/smu10_hwmgr.c
+1601397631 b40341fad6cc2daa195f8090fd3348f18fff640a rostedt@goodmis.org 2 4 kernel/trace/ftrace.c
+1601396843 851e6f61cd076954f9d521e0d79b173ad3a2453b rostedt@goodmis.org 6 4 kernel/trace/trace.c
+1600391615 1a26044954a6d1f4d375d5e62392446af663be7a yukuai3@huawei.com 6 2 drivers/iommu/exynos-iommu.c
+1600191380 b4ebd0827fd024d0d23c1c9ee33be39c57cf7ad0 alexander.deucher@amd.com 2 2 drivers/gpu/drm/amd/amdgpu/amdgpu_drv.c
+1579142738 fc08ce66c0f3776b185b099b8093df2fd7f81151 Likun.Gao@amd.com 8 0 drivers/gpu/drm/amd/amdgpu/amdgpu_drv.c
+1588365971 8a410da6aaf6e9a1903aeefc6353f62dfcf0065a alexander.deucher@amd.com 8 8 drivers/gpu/drm/amd/amdgpu/vcn_v3_0.c
+1588365909 1b51916b9734acd609c4f552e582cdc59ac254d6 alexander.deucher@amd.com 34 0 drivers/gpu/drm/amd/include/asic_reg/vcn/vcn_3_0_0_sh_mask.h
+1588365776 5d5b71e8a0f2f5649991d651d005181dc087981c alexander.deucher@amd.com 2 0 drivers/gpu/drm/amd/include/asic_reg/gc/gc_10_3_0_default.h
+1588365776 5d5b71e8a0f2f5649991d651d005181dc087981c alexander.deucher@amd.com 4 0 drivers/gpu/drm/amd/include/asic_reg/gc/gc_10_3_0_offset.h
+1588365776 5d5b71e8a0f2f5649991d651d005181dc087981c alexander.deucher@amd.com 50 0 drivers/gpu/drm/amd/include/asic_reg/gc/gc_10_3_0_sh_mask.h
+1600204055 1d0e16ac1a9e800598dcfa5b6bc53b704a103390 Philip.Yang@amd.com 1 0 drivers/gpu/drm/amd/amdgpu/amdgpu_ttm.c
