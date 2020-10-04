@@ -1,0 +1,18 @@
+
+1601702508 d43ca1386bf21b783d618e3a5f61c3b2e8759df2 ebiggers@google.com 1 1 scripts/spelling.txt
+1601702505 1d91df85f399adbe4f318f3e74ac5a5d84c0ca7c iamjoonsoo.kim@lge.com 16 3 mm/page_alloc.c
+1601702501 484cfaca95925f1a38ded6d0561de06a70409a32 farman@linux.ibm.com 1 5 mm/slub.c
+1601382692 b502e6ecdc3b6d381bd72c5f879bc1e00d6fe7db pbonzini@redhat.com 12 10 arch/x86/kvm/vmx/vmx.c
+1601457374 0891fb39ba67bd7ae023ea0d367297ffff010781 jgross@suse.com 21 8 drivers/xen/events/events_base.c
+1594649714 452d62227958e149e5c7b0084a559c0957c3ff2a maz@kernel.org 7 0 arch/arm64/kvm/hyp/nvhe/tlb.c
+1601335277 5fc27b098dafb8e30794a9db0705074c7d766179 jkosina@suse.cz 7 0 drivers/input/serio/i8042-x86ia64io.h
+1601335145 996d585b079ad494a30cac10e08585bcd5345125 vincent.huang@tw.synaptics.com 2 0 drivers/input/mouse/trackpoint.c
+1600634889 8947efc077168c53b84d039881a7c967086a248a tali.perry1@gmail.com 9 0 drivers/i2c/busses/i2c-npcm7xx.c
+1600870120 a2bd970aa62f2f7f80fd0d212b1d4ccea5df4aed nicolas.vincent@vossloh.com 3 0 drivers/i2c/busses/i2c-cpm.c
+1600772823 3fce39601a1a34d940cf62858ee01ed9dac5d459 m.v.b@runbox.com 31 6 drivers/usb/core/driver.c
+1600772822 4df30e7603432704380b12fe40a604ee7f66746d m.v.b@runbox.com 2 9 drivers/usb/core/driver.c
+1600772821 aea850cd35ae3d266fe6f93fb9edb25e4a555230 m.v.b@runbox.com 1 1 drivers/usb/core/driver.c
+1600772820 d6407613c1e2ef90213dee388aa16b6e1bd08cbc m.v.b@runbox.com 0 6 drivers/usb/usbip/stub_dev.c
+1600621318 2b405533c2560d7878199c57d95a39151351df72 bryan.odonoghue@linaro.org 2 28 drivers/usb/gadget/function/f_ncm.c
+1599731828 845b89127bc5458d0152a4d63f165c62a22fcb70 jdelvare@suse.de 1 0 drivers/i2c/busses/i2c-i801.c
+1599310008 850280156f6421a404f2351bee07a0e7bedfd4c6 dan.carpenter@oracle.com 4 2 drivers/phy/ti/phy-am654-serdes.c
