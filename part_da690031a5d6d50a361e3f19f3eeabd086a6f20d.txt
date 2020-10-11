@@ -1,0 +1,11 @@
+
+1602354354 64b7f674c292207624b3d788eda2dde3dc1415df vladimir@tuxera.com 1 1 fs/cifs/smb2ops.c
+1602299279 033b5d77551167f8c24ca862ce83d3e0745f9245 hughd@google.com 12 0 mm/khugepaged.c
+1602193479 f5b3f433641c543ebe5171285a42aa6adcdb2d22 cristian.ciocaltea@gmail.com 6 0 drivers/i2c/busses/i2c-owl.c
+1602327834 5a02e7c429cb5e082e5d7be6e5b768828014ba70 wsa@kernel.org 5 15 drivers/i2c/busses/i2c-imx.c
+1602058071 1334d3b4e49e35d8912a7c37ffca4c5afb9a0516 nbelin@baylibre.com 12 11 drivers/i2c/busses/i2c-meson.c
+1602058070 79e137b1540165f788394658442284d55a858984 jbrunet@baylibre.com 3 7 drivers/i2c/busses/i2c-meson.c
+1602058069 28683e847e2f20eed22cdd24f185d7783db396d3 jbrunet@baylibre.com 18 1 drivers/i2c/busses/i2c-meson.c
+1602060322 fa4d30556883f2eaab425b88ba9904865a4d00f3 ceggers@arri.de 15 5 drivers/i2c/busses/i2c-imx.c
+1601673407 1c33524f79853f41e80390b1a223254aadd30bd4 Sergey.Semin@baikalelectronics.ru 7 0 MAINTAINERS
+1601283300 6e3837668e00fb914ac2b43158ef51b027ec385c michael@walle.cc 3 2 drivers/spi/spi-fsl-dspi.c
