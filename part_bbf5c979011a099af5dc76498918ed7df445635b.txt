@@ -1,0 +1,16 @@
+
+1602450950 bbf5c979011a099af5dc76498918ed7df445635b torvalds@linux-foundation.org 1 1 Makefile
+1602397000 4aab2be0983031a05cb4a19696c9da5749523426 vijayb@linux.microsoft.com 5 0 include/linux/khugepaged.h
+1602397000 4aab2be0983031a05cb4a19696c9da5749523426 vijayb@linux.microsoft.com 11 2 mm/khugepaged.c
+1602397000 4aab2be0983031a05cb4a19696c9da5749523426 vijayb@linux.microsoft.com 3 0 mm/page_alloc.c
+1602396997 8b7b2eb131d3476062ffd34358785b44be25172f minchan@kernel.org 2 1 include/linux/pagemap.h
+1602396994 bc4fe4cdd602b3bee5eeb49d843bd6b3296cfc86 linmiaohe@huawei.com 5 1 mm/mmap.c
+1602396990 512b557ac8a869932e03f1fd522419f4348118bf atenart@kernel.org 2 1 .mailmap
+1602396990 512b557ac8a869932e03f1fd522419f4348118bf atenart@kernel.org 2 2 MAINTAINERS
+1602396987 ae4a380109d154ffbc7e2b6204d79b1a171671bb keescook@chromium.org 1 0 .mailmap
+1602396987 ae4a380109d154ffbc7e2b6204d79b1a171671bb keescook@chromium.org 2 2 MAINTAINERS
+1598510852 6d6b8b9f4fceab7266ca03d194f60ec72bd4b654 kjain@linux.ibm.com 3 2 kernel/events/core.c
+1601665583 0c7689830e907668288a1a1da84dca66dbdb4728 xypron.glpk@gmx.de 3 3 Documentation/x86/boot.rst
+1601556655 8a018eb55e3ac033592afbcb476b0ffe64465b12 cai@redhat.com 5 6 fs/pipe.c
+1601556655 8a018eb55e3ac033592afbcb476b0ffe64465b12 cai@redhat.com 6 0 include/linux/watch_queue.h
+1601453989 bc21a291fc11bbd60868c45b9f5a79ceed97fd4e tglx@linutronix.de 4 2 arch/x86/kernel/cpu/mce/core.c
