@@ -1,0 +1,7 @@
+
+1603752322 4525c8781ec0701ce824e8bd379ae1b129e26568 torvalds@linux-foundation.org 0 4 drivers/scsi/qla2xxx/qla_tmpl.c
+1603751977 bf9a76a470d83355200adaa5d5b55d118f229ecb torvalds@linux-foundation.org 1 1 arch/um/kernel/skas/clone.c
+1603751977 bf9a76a470d83355200adaa5d5b55d118f229ecb torvalds@linux-foundation.org 1 1 arch/x86/um/stub_segv.c
+1603703530 9480b4e75b7108ee68ecf5bc6b4bd68e8031c521 willy@infradead.org 2 1 fs/cachefiles/rdwr.c
+1603705946 8e90b4b1305a80b1d7712370a163eff269ac1ba2 gor@linux.ibm.com 2 2 arch/s390/include/asm/sections.h
+1603492068 c3a98c3ad5c0dc60a1ac66bf91147a3f39cac96b ebiggers@google.com 1 0 arch/x86/crypto/poly1305_glue.c
