@@ -1,0 +1,17 @@
+
+1604279290 3b70ae4f5c4e050bdebeeefe0c369524f37917cf lukas.bulwahn@gmail.com 1 2 kernel/hung_task.c
+1604279287 afabdf3338728c3aaa9f55d127e903dcd5f4acc7 soheil@google.com 95 0 tools/testing/selftests/filesystems/epoll/epoll_wakeup_test.c
+1604279280 f8f6ae5d077a9bdaf5cbf2ac960a5d1a04b47482 jgg@nvidia.com 9 0 include/linux/mm.h
+1604279280 f8f6ae5d077a9bdaf5cbf2ac960a5d1a04b47482 jgg@nvidia.com 0 4 include/linux/pgtable.h
+1604279276 66606567dedf395e0857f531976efad4cbbd39ea chaithco@redhat.com 2 0 fs/proc/base.c
+1604279273 6993d0fdbee0eb38bfac350aa016f65ad11ed3b1 qiang.zhang@windriver.com 2 1 kernel/kthread.c
+1604279270 a77eedbc871ee3b435bffc30b123b60eecca402c yanaijie@huawei.com 1 1 mm/truncate.c
+1604279267 aa4e460f0976351fddd2f5ac6e08b74320c277a1 gor@linux.ibm.com 0 4 lib/crc32test.c
+1604279264 7b3c36fc4c231ca532120bbc0df67a12f09c1d96 oleg@redhat.com 10 9 kernel/signal.c
+1604279260 3f08842098e842c51e3b97d0dcdebf810b32558e luoshijie1@huawei.com 3 3 mm/mempolicy.c
+1604279257 58b999d7a22c59313e1e84832607c7a61640f4e7 andreyknvl@google.com 107 42 lib/test_kasan.c
+1604279254 8de15e920dc85d1705ab9c202c95d56845bc2d48 guro@fb.com 10 5 mm/memcontrol.c
+1604279250 7de2e9f195b9cb27583c5c64deaaf5e6afcc163e zhongjiang-ali@linux.alibaba.com 8 2 mm/memcontrol.c
+1604279247 79aa925bf239c234be8586780e482872dc4690dd mike.kravetz@oracle.com 11 9 mm/hugetlb.c
+1604279243 46b1ee38b2ba1a9524c8e886ad078bd3ca40de2a rcampbell@nvidia.com 16 23 mm/memremap.c
+1604314462 495023e4e49e4b7dee35928800bf0317276576c1 geert+renesas@glider.be 1 1 drivers/of/device.c
