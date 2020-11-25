@@ -1,0 +1,13 @@
+
+1606236403 073861ed77b6b957c3c8d54a11dc503f7d986ceb hughd@google.com 8 0 mm/filemap.c
+1606236403 073861ed77b6b957c3c8d54a11dc503f7d986ceb hughd@google.com 0 6 mm/page-writeback.c
+1605878272 1179f170b6f0af7bb0b3b7628136eaac450ddf31 svens@linux.ibm.com 5 5 arch/s390/kernel/asm-offsets.c
+1605878272 1179f170b6f0af7bb0b3b7628136eaac450ddf31 svens@linux.ibm.com 2 0 arch/s390/kernel/entry.S
+1604713054 f737561c709667013d832316dd3198a7fe3d1260 vgupta@synopsys.com 18 19 arch/arc/kernel/stacktrace.c
+1604710767 e42404fa10fd11fe72d0a0e149a321d10e577715 vgupta@synopsys.com 15 8 arch/arc/kernel/stacktrace.c
+1604928090 5f840df591a9554e4e1355ef1f8946bc2120ca9f f.suligoi@asem.it 12 12 arch/arc/mm/tlb.c
+1603314740 78aec9bb1f3c79e4570eb50260d6320063f823a2 gustavo.pimentel@synopsys.com 1 3 arch/arc/include/asm/bitops.h
+1603951676 1254100030b3377e8302f9c75090ab191d73ee7c rohiths@microsoft.com 19 1 fs/cifs/smb2ops.c
+1603947790 ac873aa3dc21707c47db5db6608b38981c731afe rohiths@microsoft.com 46 9 fs/cifs/smb2ops.c
+1603892541 de9ac0a6e9efdffc8cde18781f48fb56ca4157b7 rohiths@microsoft.com 8 5 fs/cifs/smb2ops.c
+1604910933 98128572084c3dd8067f48bb588aa3733d1355b5 namjae.jeon@samsung.com 1 0 fs/cifs/cifsacl.c
