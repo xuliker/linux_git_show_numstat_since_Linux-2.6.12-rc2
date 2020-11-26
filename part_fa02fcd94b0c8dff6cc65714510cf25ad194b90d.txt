@@ -1,0 +1,18 @@
+
+1604234152 9215f6bb4705ffe205885411394732bfc439dee0 stanimir.varbanov@linaro.org 2 2 drivers/media/platform/qcom/venus/pm_helpers.c
+1603790376 a7a20f721e812a52a62a00de20dcd0779fbb587f stanimir.varbanov@linaro.org 13 2 drivers/media/platform/qcom/venus/core.h
+1603790376 a7a20f721e812a52a62a00de20dcd0779fbb587f stanimir.varbanov@linaro.org 30 1 drivers/media/platform/qcom/venus/venc.c
+1603790376 a7a20f721e812a52a62a00de20dcd0779fbb587f stanimir.varbanov@linaro.org 12 2 drivers/media/platform/qcom/venus/venc_ctrls.c
+1603312405 9ac924b98728c3733c91c6c59fc410827d0da49f jernej.skrabec@siol.net 1 1 drivers/staging/media/sunxi/cedrus/cedrus_h264.c
+1603173724 e6fcf468c51da28c56ea447e147475a731acbdf1 rdunlap@infradead.org 2 0 drivers/media/platform/marvell-ccic/mmp-driver.c
+1602593068 2da185d6fe969ade346ad03461c3da860c602503 acourbot@chromium.org 21 7 drivers/media/platform/Kconfig
+1602593068 2da185d6fe969ade346ad03461c3da860c602503 acourbot@chromium.org 8 2 drivers/media/platform/mtk-vcodec/Makefile
+1602593068 2da185d6fe969ade346ad03461c3da860c602503 acourbot@chromium.org 18 0 drivers/media/platform/mtk-vcodec/mtk_vcodec_fw_priv.h
+1602593067 46233e91fa24a91bffca0680b1c55282ba601918 acourbot@chromium.org 3 1 drivers/media/platform/mtk-vcodec/Makefile
+1602593067 46233e91fa24a91bffca0680b1c55282ba601918 acourbot@chromium.org 1 1 drivers/media/platform/mtk-vcodec/mtk_vcodec_dec_drv.c
+1602593067 46233e91fa24a91bffca0680b1c55282ba601918 acourbot@chromium.org 1 1 drivers/media/platform/mtk-vcodec/mtk_vcodec_enc_drv.c
+1602593067 46233e91fa24a91bffca0680b1c55282ba601918 acourbot@chromium.org 5 169 drivers/media/platform/mtk-vcodec/mtk_vcodec_fw.c
+1602593067 46233e91fa24a91bffca0680b1c55282ba601918 acourbot@chromium.org 6 1 drivers/media/platform/mtk-vcodec/mtk_vcodec_fw.h
+1602593067 46233e91fa24a91bffca0680b1c55282ba601918 acourbot@chromium.org 34 0 drivers/media/platform/mtk-vcodec/mtk_vcodec_fw_priv.h
+1602593067 46233e91fa24a91bffca0680b1c55282ba601918 acourbot@chromium.org 73 0 drivers/media/platform/mtk-vcodec/mtk_vcodec_fw_scp.c
+1602593067 46233e91fa24a91bffca0680b1c55282ba601918 acourbot@chromium.org 110 0 drivers/media/platform/mtk-vcodec/mtk_vcodec_fw_vpu.c
