@@ -1,0 +1,22 @@
+
+1606796163 68e10d5ff512b503dcba1246ad5620f32035e135 rostedt@goodmis.org 6 8 kernel/trace/ring_buffer.c
+1606414119 49a962c075dfa41c78e34784772329bc8784d217 naveen.n.rao@linux.vnet.ibm.com 1 1 kernel/trace/Kconfig
+1606414118 4c75b0ff4e4bf7a45b5aef9639799719c28d0073 naveen.n.rao@linux.vnet.ibm.com 21 1 kernel/trace/ftrace.c
+1606345014 8fa655a3a0013a0c2a2aada6f39a93ee6fc25549 minchan@kernel.org 1 1 kernel/trace/trace.c
+1605701120 310e3a4b5a4fc718a72201c1e4cf5c64ac6f5442 vvs@virtuozzo.com 1 1 kernel/trace/trace_hwlat.c
+1605292454 983df5f2699f83f78643b19d3399b160d1e64f5b samitolvanen@google.com 2 0 samples/ftrace/ftrace-direct-modify.c
+1605292454 983df5f2699f83f78643b19d3399b160d1e64f5b samitolvanen@google.com 1 0 samples/ftrace/ftrace-direct-too.c
+1605292454 983df5f2699f83f78643b19d3399b160d1e64f5b samitolvanen@google.com 1 0 samples/ftrace/ftrace-direct.c
+1606593242 212253367dc7b49ed3fc194ce71b0992eacaecf2 pc@cjr.nz 2 0 fs/cifs/connect.c
+1606589826 6988a619f5b79e4efadea6e19dcfe75fbcd350b5 pc@cjr.nz 2 2 fs/cifs/transport.c
+1606554917 8785f51a17083eee7c37606079c6447afc6ba102 andrea.righi@canonical.com 3 3 kernel/trace/ring_buffer.c
+1606494058 55ea4cf403800af2ce6b125bc3d853117e0c0456 rostedt@goodmis.org 1 1 kernel/trace/ring_buffer.c
+1604618793 ad89653f79f1882d55d9df76c9b2b94f008c4e27 si-wei.liu@oracle.com 62 18 drivers/vhost/vdpa.c
+1605543413 8009b0f4ab3151f3b8c1675ceb0f9151f09dddaa sgarzare@redhat.com 3 3 drivers/vhost/vringh.c
+1605887459 b4fffc177fad3c99ee049611a508ca9561bb6871 michael.christie@oracle.com 3 1 drivers/vhost/scsi.c
+1605765229 fbc6e1c6e0a4b5ef402f9eb8d00880a5e1d98df3 mhiramat@kernel.org 13 5 Documentation/admin-guide/bootconfig.rst
+1605765220 e1cef2d4c379b2aab43a7dc9601f645048209090 mhiramat@kernel.org 3 0 include/linux/bootconfig.h
+1605765220 e1cef2d4c379b2aab43a7dc9601f645048209090 mhiramat@kernel.org 34 23 tools/bootconfig/main.c
+1605765220 e1cef2d4c379b2aab43a7dc9601f645048209090 mhiramat@kernel.org 5 1 tools/bootconfig/test-bootconfig.sh
+1605765211 a995e6bc0524450adfd6181dfdcd9d0520cfaba5 mhiramat@kernel.org 26 4 tools/bootconfig/main.c
+1605765202 a61ea6379ae9dbb63fbf022d1456733520db6be7 mhiramat@kernel.org 29 23 tools/bootconfig/main.c
