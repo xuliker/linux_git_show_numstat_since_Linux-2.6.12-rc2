@@ -1,0 +1,21 @@
+
+1606823513 69fe24d1d80feac4289778582cf0a15256d59baf zou_wei@huawei.com 1 1 drivers/firmware/xilinx/zynqmp.c
+1607330872 387270cb0b4035491c4812effd8b5af0e385a66c thunder.leizhen@huawei.com 1 2 arch/arm/boot/dts/mmp2-olpc-xo-1-75.dts
+1607489838 a68a0262abdaa251e12c53715f48e698a18ef402 minchan@kernel.org 1 2 mm/madvise.c
+1606857316 db2082700a0c7974c3a7787d50abff34b2695b4b krzk@kernel.org 10 0 MAINTAINERS
+1606857315 c99055ec2c3974386f36eb648af77a8dbe887ca9 krzk@kernel.org 1 1 MAINTAINERS
+1607037520 9280f726097b436c8c907825131cd346d7eb0c0f arnd@arndb.de 0 3 arch/arm/mach-keystone/memory.h
+1607332760 4165bf015ba9454f45beaad621d16c516d5c5afe suravee.suthikulpanit@amd.com 1 1 drivers/iommu/amd/amd_iommu_types.h
+1606679112 d0c6707ca4235b78d06bcd62f0e24fbeac3e6d10 xypron.glpk@gmx.de 1 1 arch/arm64/boot/dts/allwinner/sun50i-h5-nanopi-neo-plus2.dts
+1606667187 c2b111e59a7be1534bbd62b3f8f933f714c5ba71 xypron.glpk@gmx.de 1 1 arch/arm64/boot/dts/allwinner/sun50i-a64-sopine-baseboard.dts
+1606413388 19ba8fb810c60b46869acc9f455613de454e0fca bernd.bauer@anton-paar.com 1 1 arch/arm/boot/dts/imx6qdl-kontron-samx6i.dtsi
+1606769687 58d6bca5efc73235b0f84c0d53321737177c651e festevam@gmail.com 0 1 arch/arm/boot/dts/imx6qdl-wandboard-revd1.dtsi
+1605894684 70e734fed740939704d1b3b76d6f2e6909698586 r.karszniewicz@phytec.de 1 1 arch/arm/mach-imx/anatop.c
+1606153659 a7361b9c4615951f52ffd2b1afa09a1384c7b4e4 ats@offog.org 2 2 arch/arm/boot/dts/sun7i-a20-pcduino3-nano.dts
+1605848931 a98fd117a2553ab1a6d2fe3c7acae88c1eca4372 icenowy@aosc.io 1 1 arch/arm/boot/dts/sun8i-v3s.dtsi
+1604326769 8a82d91fa275aaea49be06d7f5b1407ce1c0dd4b pgreco@centosproject.org 1 1 arch/arm/boot/dts/sun8i-v40-bananapi-m2-berry.dts
+1604326754 bd5cdcdc66e1f7179ff6d172d1e5f55e43403aa8 pgreco@centosproject.org 5 5 arch/arm/boot/dts/sun8i-v40-bananapi-m2-berry.dts
+1604326600 8c9cb4094ccf242eddd140efba13872c55f68a87 pgreco@centosproject.org 1 1 arch/arm/boot/dts/sun7i-a20-bananapi.dts
+1604101405 6ab48105aae79b9d8062e9bc922baaeff80918d7 matteo.scordino@gmail.com 1 1 arch/arm/boot/dts/sun8i-s3-pinecube.dts
+1604168489 ad2091f893bd5dfe2824f0d6819600d120698e9f contact@paulk.fr 1 0 arch/arm/mach-sunxi/sunxi.c
+1604215569 544cc3f8573bf9a82e8f348741f2f68d2a8376fb jernej.skrabec@siol.net 1 1 arch/arm64/boot/dts/allwinner/sun50i-h6-orangepi-one-plus.dts
