@@ -1,0 +1,14 @@
+
+1607064125 340b940ea0ed12d9adbb8f72dea17d516b2019e8 leonro@nvidia.com 2 0 drivers/infiniband/core/cm.c
+1607410633 3d1387b3b8f6cc1ccdbb5f0d7af24df02f4baef9 mchehab+huawei@kernel.org 1 1 drivers/media/test-drivers/vidtv/vidtv_psi.h
+1607410633 3d1387b3b8f6cc1ccdbb5f0d7af24df02f4baef9 mchehab+huawei@kernel.org 3 1 drivers/media/test-drivers/vidtv/vidtv_s302m.c
+1607410633 3d1387b3b8f6cc1ccdbb5f0d7af24df02f4baef9 mchehab+huawei@kernel.org 1 1 drivers/media/test-drivers/vidtv/vidtv_ts.h
+1607268758 e432c04c17993011b2a2f59dcb5738e604bd552e galpress@amazon.com 0 3 drivers/infiniband/core/cache.c
+1606895488 cc2ff9730e0fe649ebf064632c9d0e04218e2f25 mchehab+huawei@kernel.org 3 3 drivers/media/test-drivers/vidtv/vidtv_psi.h
+1606483712 3c0dde35e6aee456abc8d8549ff7ee0963274214 colin.king@canonical.com 2 2 drivers/media/test-drivers/vidtv/vidtv_channel.c
+1606748454 bac63f1239aceb092e94fee3ef112dbaea79b372 senozhatsky@chromium.org 11 0 drivers/media/common/videobuf2/videobuf2-core.c
+1606814244 93416ab0f994f6cf16fa0c695577f8b19d30c533 galpress@amazon.com 2 2 drivers/infiniband/hw/efa/efa_verbs.c
+1606494771 0191c271debfc3d171e8b2d81875d7036982d02c palok@marvell.com 9 0 drivers/infiniband/hw/qedr/verbs.c
+1606477950 45ba1c0ba3e589ad3ef0d0603c822eb27ea16563 hverkuil-cisco@xs4all.nl 30 13 drivers/media/cec/usb/pulse8/pulse8-cec.c
+1606469792 024e01dead12c2b9fbe31216f2099401ebb78a4a hverkuil-cisco@xs4all.nl 4 5 drivers/media/cec/usb/pulse8/pulse8-cec.c
+1606669286 d904eb0b351fe5545d9ba5b85844342f49025923 sean@mess.org 3 6 drivers/media/rc/mtk-cir.c
