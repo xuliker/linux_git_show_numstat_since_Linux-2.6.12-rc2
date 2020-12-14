@@ -1,0 +1,22 @@
+
+1607899290 2c85ebc57b3e1817b6ce1a6b703928e113a90442 torvalds@linux-foundation.org 1 1 Makefile
+1607792137 6ffeb1c3f8226244c08105bcdbeecc04bad6b89a snitzer@redhat.com 2 2 drivers/md/md.h
+1607670257 0d07c0ec4381f630c801539c79ad8dcc627f6e4a mhiramat@kernel.org 20 2 arch/x86/kernel/kprobes/opt.c
+1607631502 190113b4c6531c8e09b31d5235f9b5175cbb0f72 tglx@linutronix.de 14 10 arch/x86/kernel/apic/vector.c
+1607063279 06c5fe9b12dde1b62821f302f177c972bb1c81f9 xiaochen.shen@intel.com 2 4 arch/x86/kernel/cpu/resctrl/monitor.c
+1605110985 29ac40cbed2bc06fa218ca25d7f5e280d3d08a25 nivedita@alum.mit.edu 1 0 arch/x86/include/asm/pgtable_types.h
+1605110985 29ac40cbed2bc06fa218ca25d7f5e280d3d08a25 nivedita@alum.mit.edu 2 2 arch/x86/mm/mem_encrypt_identity.c
+1607543082 57a0f3a81ef21fe51d6223aa78a1a890098d4ada songliubraving@fb.com 0 20 drivers/md/md.c
+1607543082 57a0f3a81ef21fe51d6223aa78a1a890098d4ada songliubraving@fb.com 0 2 drivers/md/md.h
+1607543082 57a0f3a81ef21fe51d6223aa78a1a890098d4ada songliubraving@fb.com 12 2 drivers/md/raid0.c
+1607543060 17c28c2a068730e9d065a0e4ed03beed074d8997 songliubraving@fb.com 5 4 drivers/md/raid10.c
+1607543023 4e2c6567efdd6f252e1874c41c8db4abfb0a9bf3 songliubraving@fb.com 51 67 drivers/md/raid10.c
+1607542988 d7cb6be0d0cdced2a7a96bd80a8f835e77ec5204 songliubraving@fb.com 1 255 drivers/md/raid10.c
+1607542691 82fe9af77cd11ea7bdc133ceed1f7f5fc08f7d25 songliubraving@fb.com 23 63 drivers/md/raid10.c
+1607542691 82fe9af77cd11ea7bdc133ceed1f7f5fc08f7d25 songliubraving@fb.com 0 1 drivers/md/raid10.h
+1607550811 e2782f560c298efc2e23c7e54b3acf54e8a6ba72 songliubraving@fb.com 11 0 drivers/md/dm-raid.c
+1607058426 e45cdc71d1fa5ac3a57b23acc31eb959e4f60135 luto@kernel.org 33 18 kernel/sched/membarrier.c
+1607058425 758c9373d84168dc7d039cf85a0e920046b17b41 luto@kernel.org 18 0 kernel/sched/membarrier.c
+1607058424 2ecedd7569080fd05c1a457e8af2165afecfa29f luto@kernel.org 8 0 kernel/sched/membarrier.c
+1607058423 a493d1ca1a03b532871f1da27f8dbda2b28b04c4 luto@kernel.org 5 4 arch/x86/include/asm/sync_core.h
+1607058423 a493d1ca1a03b532871f1da27f8dbda2b28b04c4 luto@kernel.org 8 2 arch/x86/mm/tlb.c
