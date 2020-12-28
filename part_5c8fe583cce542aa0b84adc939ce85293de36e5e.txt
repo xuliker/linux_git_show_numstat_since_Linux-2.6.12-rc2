@@ -1,0 +1,22 @@
+
+1609111822 5c8fe583cce542aa0b84adc939ce85293de36e5e torvalds@linux-foundation.org 2 2 Makefile
+1609095393 14e3e989f6a5d9646b6cf60690499cc8bdc11f7d torvalds@linux-foundation.org 6 3 fs/proc_namespace.c
+1608642024 c0e583ab2016de8dedfb73934d4c4e8ff5bd896c marco.chiappero@intel.com 1 0 drivers/crypto/qat/Kconfig
+1608222910 167316a5a08370064d7f8b96835dae271a8ce3ee daniele.alessandrelli@intel.com 1 0 drivers/crypto/keembay/Kconfig
+1608124499 c5b840a28b5257173f65b756cc6f3d06870c7881 geert+renesas@glider.be 2 2 drivers/crypto/keembay/Kconfig
+1608225425 f6f5cd840ae782680c5e94048c72420e4e6857f9 colin.king@canonical.com 1 1 kernel/time/Kconfig
+1608305954 91ea62d58bd661827c328a2c6c02a87fa4aae88b peterz@infradead.org 1 1 kernel/softirq.c
+1608124762 441fa3409769180df2fd12fcada35441435a120c peterz@infradead.org 16 0 MAINTAINERS
+1608117696 55d2eba8e7cd439c11cdb204898c2d384227629b peterz@infradead.org 5 3 kernel/jump_label.c
+1607983460 44f6a7c0755d8dd453c70557e11687bb080a6f21 jpoimboe@redhat.com 9 2 tools/objtool/check.c
+1607983460 44f6a7c0755d8dd453c70557e11687bb080a6f21 jpoimboe@redhat.com 26 0 tools/objtool/elf.c
+1607983460 44f6a7c0755d8dd453c70557e11687bb080a6f21 jpoimboe@redhat.com 2 0 tools/objtool/elf.h
+1607983460 44f6a7c0755d8dd453c70557e11687bb080a6f21 jpoimboe@redhat.com 5 24 tools/objtool/orc_gen.c
+1607289175 ba8ea8e7dd6e1662e34e730eadfc52aa6816f9dd tglx@linutronix.de 0 7 kernel/time/tick-sched.c
+1607289174 f12ad423c4af877b2e4b5a80928b95195fccab04 tglx@linutronix.de 3 7 kernel/time/tick-common.c
+1607616848 ae7927023243dcc7389b2d59b16c09cbbeaecc36 peterz@infradead.org 15 25 kernel/sched/core.c
+1607616848 ae7927023243dcc7389b2d59b16c09cbbeaecc36 peterz@infradead.org 5 8 kernel/sched/sched.h
+1606145772 75b6f6487cedd0e4c8e07d68b68b8f85cd352bfe dave.jiang@intel.com 1 0 drivers/ntb/hw/intel/ntb_hw_gen1.h
+1606145772 75b6f6487cedd0e4c8e07d68b68b8f85cd352bfe dave.jiang@intel.com 26 1 drivers/ntb/hw/intel/ntb_hw_gen4.c
+1606145772 75b6f6487cedd0e4c8e07d68b68b8f85cd352bfe dave.jiang@intel.com 15 0 drivers/ntb/hw/intel/ntb_hw_gen4.h
+1604655811 91b8246de8590bac89b03b4fd14c61a8b4053b9e wangqing@vivo.com 2 2 drivers/ntb/hw/idt/ntb_hw_idt.c
