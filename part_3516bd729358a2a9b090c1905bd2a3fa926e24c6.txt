@@ -1,0 +1,10 @@
+
+1609063876 9cf93f056f783f986c19f40d5304d1bcffa0fc0d artem.bityutskiy@linux.intel.com 40 1 drivers/idle/intel_idle.c
+1609261698 be1283454b61a1f3b089f1a74b73e20532262e32 rafael.j.wysocki@intel.com 0 1 drivers/cpufreq/intel_pstate.c
+1609145517 129975e75b9a2ba528d7f58be2e338cd644f6ed8 hca@linux.ibm.com 17 14 arch/s390/Kconfig
+1605731013 742eb4750ff35fd62784b04b675d672b8dee2524 hca@linux.ibm.com 9 3 arch/s390/configs/debug_defconfig
+1605731013 742eb4750ff35fd62784b04b675d672b8dee2524 hca@linux.ibm.com 7 4 arch/s390/configs/defconfig
+1605731013 742eb4750ff35fd62784b04b675d672b8dee2524 hca@linux.ibm.com 2 0 arch/s390/configs/zfcpdump_defconfig
+1609132864 0e1d9ca1766f5d95fb881f57b6c4a1ffa63d4648 viresh.kumar@linaro.org 4 1 drivers/opp/core.c
+1608806967 976509bb310b913d30577f15b58bdd30effb0542 quanyang.wang@windriver.com 4 2 drivers/opp/core.c
+1608189301 8b3fd902391fdee526f6ba46899a3f8005983ae1 lukas.bulwahn@gmail.com 1 1 MAINTAINERS
