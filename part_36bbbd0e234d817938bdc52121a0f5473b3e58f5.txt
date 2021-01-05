@@ -1,0 +1,8 @@
+
+1607545651 1b04fa9900263b4e217ca2509fd778b32c2b4eb2 urezki@gmail.com 6 0 include/linux/rcupdate.h
+1607545651 1b04fa9900263b4e217ca2509fd778b32c2b4eb2 urezki@gmail.com 1 0 init/main.c
+1607545651 1b04fa9900263b4e217ca2509fd778b32c2b4eb2 urezki@gmail.com 21 4 kernel/rcu/tasks.h
+1606592015 1967939462641d8b36bcb3fcf06d48e66cd67a4f masahiroy@kernel.org 6 0 include/linux/compiler_attributes.h
+1606592015 1967939462641d8b36bcb3fcf06d48e66cd67a4f masahiroy@kernel.org 0 6 include/linux/compiler_types.h
+1606592015 1967939462641d8b36bcb3fcf06d48e66cd67a4f masahiroy@kernel.org 0 8 lib/Kconfig.debug
+1606592015 1967939462641d8b36bcb3fcf06d48e66cd67a4f masahiroy@kernel.org 0 1 tools/testing/selftests/wireguard/qemu/debug.config
