@@ -1,0 +1,7 @@
+
+1610930225 19c329f6808995b142b3966301f217c831e7cf31 torvalds@linux-foundation.org 1 1 Makefile
+1608309350 32c2bc8f2d855d4415c9a05b727e34649397bfbe rppt@linux.ibm.com 1 0 arch/ia64/include/asm/sparsemem.h
+1610638937 4d163ad79b155c71bf30366dc38f8d2502f78844 michael.hennerich@analog.com 4 2 drivers/spi/spi-cadence.c
+1610629777 7a2da5d7960a64ee923fe3e31f01a1101052c66f christophe.leroy@csgroup.eu 2 3 drivers/spi/spi-fsl-spi.c
+1609682584 382811940303f7cd01d0f3dcdf432dfd89c5a98e arnd@arndb.de 1 0 drivers/crypto/Kconfig
+1609363998 3c02e04fd4f57130e4fa75fab6f528f7a52db9b5 ktkhai@virtuozzo.com 2 0 crypto/xor.c
