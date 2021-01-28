@@ -1,0 +1,4 @@
+
+1611688581 00e35f2b0e8acb88d4e1aa96ff0490e3bfe46580 deller@gmx.de 2 3 arch/parisc/Kconfig
+1611688581 00e35f2b0e8acb88d4e1aa96ff0490e3bfe46580 deller@gmx.de 10 3 arch/parisc/kernel/entry.S
+1610669688 0aa91f84b1804b59841c834128b2c15330a1ec59 dave@stgolabs.net 0 3 arch/parisc/include/asm/irq.h
