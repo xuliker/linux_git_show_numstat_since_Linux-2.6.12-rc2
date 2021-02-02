@@ -1,0 +1,13 @@
+
+1611240247 ef357e02b6c420dc2d668ebf3165838c77358acd heiko.stuebner@theobroma-systems.com 1 1 drivers/media/platform/rockchip/rkisp1/rkisp1-params.c
+1611240247 ef357e02b6c420dc2d668ebf3165838c77358acd heiko.stuebner@theobroma-systems.com 2 2 drivers/media/platform/rockchip/rkisp1/rkisp1-stats.c
+1611240247 ef357e02b6c420dc2d668ebf3165838c77358acd heiko.stuebner@theobroma-systems.com 57 10 include/uapi/linux/rkisp1-config.h
+1611240246 fc672d806bd77eff26117479e90ccdcfd2a8ecb4 heiko.stuebner@theobroma-systems.com 16 0 Documentation/admin-guide/media/rkisp1.rst
+1611240246 fc672d806bd77eff26117479e90ccdcfd2a8ecb4 heiko.stuebner@theobroma-systems.com 12 9 drivers/media/platform/rockchip/rkisp1/rkisp1-dev.c
+1611240246 fc672d806bd77eff26117479e90ccdcfd2a8ecb4 heiko.stuebner@theobroma-systems.com 15 0 include/uapi/linux/rkisp1-config.h
+1611240245 66d81de7ea9d2b0775e5bfd5e770483a1c24b9ca heiko.stuebner@theobroma-systems.com 2 1 drivers/media/platform/rockchip/rkisp1/rkisp1-params.c
+1611240245 66d81de7ea9d2b0775e5bfd5e770483a1c24b9ca heiko.stuebner@theobroma-systems.com 1 2 include/uapi/linux/rkisp1-config.h
+1611240244 a802a0430b863f03bc01aaea2d2bf6ff464f03e7 dafna.hirschfeld@collabora.com 1 0 drivers/media/platform/rockchip/rkisp1/rkisp1-regs.h
+1611240244 a802a0430b863f03bc01aaea2d2bf6ff464f03e7 dafna.hirschfeld@collabora.com 5 3 drivers/media/platform/rockchip/rkisp1/rkisp1-stats.c
+1611240243 a76f8dc8be471028540df24749e99a3ec0ac7c94 dafna.hirschfeld@collabora.com 1 2 drivers/media/platform/rockchip/rkisp1/rkisp1-stats.c
+1611240242 31f190e0ccac8b75d33fdc95a797c526cf9b149e dafna.hirschfeld@collabora.com 9 4 include/uapi/linux/rkisp1-config.h
