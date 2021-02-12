@@ -1,0 +1,7 @@
+
+1612877465 28dc10eb77a2db7681b08e3b109764bbe469e347 nikita.shubin@maquefel.me 19 11 drivers/gpio/gpio-ep93xx.c
+1612877464 8b81a7ab8055d01d827ef66374b126eeac3bd108 nikita.shubin@maquefel.me 99 87 drivers/gpio/gpio-ep93xx.c
+1612795913 97c6e28d388a5000d780d2a63c32f422827f5aa3 geert+renesas@glider.be 2 1 drivers/gpio/Kconfig
+1612580194 8c511eff1827239f24ded212b1bcda7ca5b16203 aneesh.kumar@linux.ibm.com 11 5 arch/powerpc/include/asm/book3s/64/kup.h
+1612580194 8c511eff1827239f24ded212b1bcda7ca5b16203 aneesh.kumar@linux.ibm.com 0 4 arch/powerpc/include/asm/book3s/64/pkeys.h
+1612580194 8c511eff1827239f24ded212b1bcda7ca5b16203 aneesh.kumar@linux.ibm.com 1 0 arch/powerpc/mm/book3s64/pkeys.c
