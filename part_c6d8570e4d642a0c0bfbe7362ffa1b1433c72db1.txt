@@ -1,0 +1,23 @@
+
+1612980196 68d54ceeec0e5fee4fb8048e6a04c193f32525ca catalin.marinas@arm.com 1 5 arch/arm64/kernel/cpufeature.c
+1612980196 68d54ceeec0e5fee4fb8048e6a04c193f32525ca catalin.marinas@arm.com 2 1 arch/arm64/kernel/mte.c
+1612976002 b220c049d5196dd94d992dd2dc8cba1a5e6123bf rostedt@goodmis.org 1 1 kernel/trace/trace.c
+1612963467 811ee9dff58072742644da2c07641728f5e078e4 christian.koenig@amd.com 10 0 drivers/gpu/drm/ttm/ttm_pool.c
+1612976814 c4295ab0b485b8bc50d2264bcae2acd06f25caaf jgrall@amazon.com 0 2 arch/arm/xen/enlighten.c
+1612976814 c4295ab0b485b8bc50d2264bcae2acd06f25caaf jgrall@amazon.com 0 1 drivers/xen/xenbus/xenbus.h
+1612976814 c4295ab0b485b8bc50d2264bcae2acd06f25caaf jgrall@amazon.com 1 1 drivers/xen/xenbus/xenbus_probe.c
+1612976814 c4295ab0b485b8bc50d2264bcae2acd06f25caaf jgrall@amazon.com 0 2 include/xen/xenbus.h
+1612496472 3da3cc1b5f47115b16b5ffeeb4bf09ec331b0164 palmerdabbelt@google.com 0 1 arch/riscv/boot/dts/sifive/hifive-unleashed-a00.dts
+1612985878 92c75f7594d5060a4cb240f0e987a802f8486b11 axboe@kernel.dk 4 2 fs/io_uring.c
+1612893540 1926a0508d8947cf081280d85ff035300dc71da7 jernej.skrabec@siol.net 2 4 drivers/gpu/drm/sun4i/sun8i_dw_hdmi.c
+1612893539 6a155216c48f2f65c8dcb02c4c27549c170d24a9 jernej.skrabec@siol.net 9 17 drivers/gpu/drm/sun4i/sun8i_hdmi_phy.c
+1612893538 36b53581fe0dc2e25b67de4e58920307f22d195a jernej.skrabec@siol.net 1 3 drivers/gpu/drm/sun4i/sun8i_dw_hdmi.c
+1612893538 36b53581fe0dc2e25b67de4e58920307f22d195a jernej.skrabec@siol.net 0 1 drivers/gpu/drm/sun4i/sun8i_dw_hdmi.h
+1612893537 50791f5d7b6a14b388f46c8885f71d1b98216d1d jernej.skrabec@siol.net 25 0 drivers/gpu/drm/sun4i/sun4i_tcon.c
+1612893537 50791f5d7b6a14b388f46c8885f71d1b98216d1d jernej.skrabec@siol.net 6 0 drivers/gpu/drm/sun4i/sun4i_tcon.h
+1612837157 5feba0e905c495a217aea9db4ea91093d8fe5dde ville.syrjala@linux.intel.com 8 9 drivers/gpu/drm/i915/display/intel_overlay.c
+1612379030 cf050f96e0970a557601953ed7269d07a7885078 alexander.deucher@amd.com 2 2 drivers/gpu/drm/amd/display/dc/dcn20/dcn20_resource.c
+1612798983 2f51312bebb77962a518b4c6de777dd378b6110a imre.deak@intel.com 37 30 drivers/gpu/drm/i915/display/intel_tc.c
+1612180902 873e5bb9fbd99e4a26c448b5c7af942a6d7aa60d imre.deak@intel.com 1 0 drivers/gpu/drm/drm_dp_mst_topology.c
+1612248081 a7e02f7796c163ac8297b30223bf24bade9f8a50 quanyang.wang@windriver.com 7 8 drivers/gpu/drm/xlnx/zynqmp_disp.c
+1611936407 facd93f4285c405f9a91b05166147cb39e860666 maxime@cerno.tech 14 4 drivers/gpu/drm/vc4/vc4_plane.c
