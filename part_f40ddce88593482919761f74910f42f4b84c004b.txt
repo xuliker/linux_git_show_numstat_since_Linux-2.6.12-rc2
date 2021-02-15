@@ -1,0 +1,10 @@
+
+1613341944 f40ddce88593482919761f74910f42f4b84c004b torvalds@linux-foundation.org 2 2 Makefile
+1612453184 dbeb02a0bc41b9e9b9c05e460890351efecf1352 arnd@arndb.de 1 0 drivers/leds/flash/Kconfig
+1613114547 fe968c41ac4f4ec9ffe3c4cf16b72285f5e9674f eb@emlix.com 1 0 scripts/Makefile
+1611795063 27dad89bab2d71a8c4b13b497054db33d264b281 masahiroy@kernel.org 0 2 arch/sparc/include/asm/Kbuild
+1613024056 29500f15b54b63ad0ea60b58e85144262bd24df2 masahiroy@kernel.org 3 0 scripts/gen_autoksyms.sh
+1612970861 70245f86c109e0eafb92ea9653184c0e44b4b35c tglx@linutronix.de 11 4 arch/x86/pci/init.c
+1612799010 256b92af784d5043eeb7d559b6d5963dcc2ecb10 bp@suse.de 3 3 arch/x86/Makefile
+1612736041 2ade0d60939bcd54197c133b03b460fe62a4ec47 jarkko@kernel.org 3 0 arch/x86/kernel/cpu/sgx/driver.c
+1612736041 2ade0d60939bcd54197c133b03b460fe62a4ec47 jarkko@kernel.org 5 0 arch/x86/kernel/cpu/sgx/encl.c
