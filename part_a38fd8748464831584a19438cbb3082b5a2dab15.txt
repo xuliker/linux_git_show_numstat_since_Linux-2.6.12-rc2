@@ -1,0 +1,14 @@
+
+1614994421 a38fd8748464831584a19438cbb3082b5a2dab15 torvalds@linux-foundation.org 1 1 Makefile
+1614885649 545c4ab463c2224557e56b2609f88ed5be265405 rpearsonhpe@gmail.com 23 32 drivers/infiniband/sw/rxe/rxe_comp.c
+1614885649 5e4a7ccc965d951b0885875e903a32c6d4368573 rpearsonhpe@gmail.com 35 24 drivers/infiniband/sw/rxe/rxe_recv.c
+1614885649 21e27ac82db637d2f48f07b3777aae8e7ca52613 rpearsonhpe@gmail.com 9 1 drivers/infiniband/sw/rxe/rxe_net.c
+1614670934 cca7f12b939bd75f3a5e2b0fa20e3de67d1d33b1 leonro@nvidia.com 1 1 drivers/infiniband/core/uverbs_ioctl.c
+1614670933 f91803998cf60fbbd4f10d24def676bf8b2a1a7e leonro@nvidia.com 1 1 drivers/infiniband/hw/mlx5/odp.c
+1614679130 7db688e99c0f770ae73e0f1f3fb67f9b64266445 digetx@gmail.com 1 1 fs/pstore/ram_core.c
+1587193521 5477edcacaacb8af8169450180a1d3bd0dfb9c99 yanaijie@huawei.com 1 1 scripts/gcc-plugins/latent_entropy_plugin.c
+1587193505 b924a8197ac7660eb358ed0277bd5b12f9b40fe2 yanaijie@huawei.com 1 2 scripts/gcc-plugins/structleak_plugin.c
+1613996623 3a9b3d4536e0c25bd3906a28c1f584177e49dd0f yuehaibing@huawei.com 3 1 drivers/infiniband/hw/mlx5/devx.c
+1613777546 475f23b8c66d2892ad6acbf90ed757cafab13de7 julianbraha@gmail.com 1 0 drivers/infiniband/sw/rxe/Kconfig
+1614586724 221384df6123747d2a75517dd06cc01752f81518 saeedm@nvidia.com 3 2 drivers/infiniband/core/cm.c
+1613272387 9c7d83ae6ba67d6c6199cce24573983db3b56332 penguin-kernel@I-love.SAKURA.ne.jp 1 1 fs/pstore/inode.c
